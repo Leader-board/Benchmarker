@@ -18,3 +18,5 @@ The highest ever recorded score was on an i7-7700K (4.5 GHz), where it scored ab
 
 However, this is not the case on Visual Studio 2008, where it scales linearly (260 and 83 points respectively).
 
+This program can also be recompiled on Mac/Linux with some changes. I tested this program on a Mac on both Windows and macOS(ReSharper and XCode on the Mac), and the scores were mostly comparable, with a very slight edge for macOS.
+
