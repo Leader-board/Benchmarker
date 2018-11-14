@@ -62,7 +62,7 @@ The difference between the VS 2008/2010 compliers and the VS2017 one is truly st
 The VS2008 score scales linearly with performance, but the others don't do so well - giving only a 15-20% improvement over the Dell - despite the massive differences in CPU.
 The scores on the Mac have a slight edge over their Windows counterparts for some reason.
 
-### Acer tablet
+### PC 3: Acer tablet
 
 |Stage|VS2017 (Release) |VS2008 (Release)|
 |--|--|--|
