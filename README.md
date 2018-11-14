@@ -1,4 +1,5 @@
 
+
 # INTRODUCTION
 
 This is a simple benchmark program which is designed to compare CPU performance between different CPUs. This is single-threaded, please see the MT version for the multi-threaded version.
@@ -21,8 +22,9 @@ This program can also be recompiled on Mac/Linux with some changes. I tested thi
 
 # SCORE REFERENCES
 (Compiled on Visual Studio 2017, Windows 10 on Release config. Scores may vary based on compiler configurations)
+## Between different computers
 
-*Where applicable, the turbo (not base) clockspeed (s) is (are) given, as a computer can be expected to use its turbo clockspeed.*
+*Where applicable, the turbo (not base) clockspeed (s) is (are) given, as a computer can be expected to use its turbo clockspeed. All computers (except the RM) were tested on Windows 10.*
 
 |Device| Processor | Clockspeed (GHz)| Core/Thread count| Benchmarker score |
 |--|--|--|--|--
@@ -33,3 +35,42 @@ This program can also be recompiled on Mac/Linux with some changes. I tested thi
 |Dell Inspiron 6400 **(reference)**|Core2 Duo T7200|2|2/2|1050
 |School computer 1|Core i7-6700|3.7-4|4/8|2013
 |University computer 1|Core i5-6500|3.3-3.6|4/4|1744.8
+
+## Between different compilers
+The code between each compiler was kept as similar as possible; the only changes (if any) were solely to keep the compiler happy.
+### PC 1: Dell Inspiron 6400 
+| (Stage)  | VS 2017 (Release) |VS2017 (Debug)|VS2010 (Release)|VS2008 (Release)|VS2008 (Debug)|VS6|Turbo C++ (v4.0)
+|--|--|--|--|--|--|--|--|
+| 1 | 0.003 |0.07|0.028 |0.028 |0.145|0.192|0.18
+|2|0.035|1.1|0.434|0.434|2.4|3.064|2.91
+|3|0.285|8.8|3.45|3.546|18.3|24.188|23.5
+|4|2.233|70.622|28|29|143.5|202.193|185.6
+|5|7.512|236.864|95.1|93.5|486.1|657|644.6
+|**Points**|1050|33.4|83.3|83|16.27|12.3|12.46
+
+The difference between the VS 2008/2010 compliers and the VS2017 one is truly staggering - with a massive difference of nearly 13 times. 
+### PC 2: MacBook Air 2013
+| (Stage) | VS 2017 (Release) |VS2008 (Release)|XCode (release)|CLion (Release)|CLion (Debug)|VS6
+|--|--|--|--|--|--|--|
+|1|0.0025|0.012|0.0021|0.00195|0.028|0.117
+|2|0.03|0.189|0.028|0.028|0.47|1.9
+|3|0.24|1.45|0.23|0.25|3.75|15.5
+|4|1.9|11.6|1.84|1.91|29.52|123.1
+|5|6.3|39.4|6.2|6.35|98.8|419.2
+|**Points**|1169.7|202.4|1212|1214|80.2|19.4
+
+The VS2008 score scales linearly with performance, but the others don't do so well - giving only a 15-20% improvement over the Dell - despite the massive differences in CPU.
+The scores on the Mac have a slight edge over their Windows counterparts for some reason.
+
+### Acer tablet
+
+|Stage|VS2017 (Release) |VS2008 (Release)|
+|--|--|--|
+|1  |0.0019|0.075
+|2|0.268|1.11
+|3|2.133|8.9
+|4|17.04|70.2
+|5|57.345|236.3
+|**Points**|136.7|33.2
+
+The VS2017 scores show a sharp drop this time - inconsistent - considering that Geekbench reports only a 50% decrease over the Dell Inspiron 6400. 
