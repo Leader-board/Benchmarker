@@ -12,6 +12,7 @@ int verify = 0;
 int percentage = 0;// declaring variable to update percentage
 double c;
 float score[5], totalscore = 0;
+double stagetime[5];
 // This program prints all the Pythagorean triplets from 1 to k , which the user will enter.
 void selection()
 {
@@ -107,6 +108,7 @@ void mainbase()
 				r = 7.536;
 			score[p - 1] = 200 * (r / timetake[p - 1]);
 			totalscore = totalscore + (0.2*(score[p - 1]));
+			stagetime[p - 1] = stagetime[p - 1] + 0.2*elapsed_secs;
 			cout << p * 4 + (q - 1) * 20 << " % complete!" << '\n';
 			cout << "Time taken for that stage:- " << timetake[p - 1] << '\n';
 			cout << "Score obtained for that stage:- " << score[p - 1] * 5 << '\n';
@@ -117,6 +119,10 @@ void main()
 {
 	selection();
 	mainbase();
+	for (int i = 0; i < 5; i++)
+	{
+		cout << "Average time taken for stage " << (i + 1) << " is " << stagetime[i] << " seconds \n";
+	}
 	cout << "Your system has scored a total of " << totalscore << " points!" << '\n';
 	system("pause");
 }
