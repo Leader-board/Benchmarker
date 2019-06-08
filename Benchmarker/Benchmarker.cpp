@@ -75,7 +75,7 @@ void mainbase()
 					y = b*b;
 					c = x + y;
 					powcheck = b;	// b as starting point. Meant to speed up execution
-					while (powcheck <= ceil(1.42*k)) // Max value of c with relation to a and b is c = root2 of a , b
+					while (powcheck <= ceil(1.42*k)) // Max value of c with relation to a and b is c = root2 of a,b
 					{
 						if (c == pow(powcheck, 2))
 						{
