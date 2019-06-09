@@ -1,10 +1,9 @@
 // Benchmarker.cpp : Defines the entry point for the console application.
-#include "stdafx.h"
+#include <fstream>
 #include <iostream>
 #include <math.h>
 #include <ctime>
 #include <exception>
-#include <conio.h>
 using namespace std;
 int check = 2;
 double a, b, powcheck, k, d, x, y;// x and y are the squares of a and b.
@@ -14,32 +13,6 @@ double c;
 float score[5], totalscore = 0;
 double stagetime[5];
 // This program prints all the Pythagorean triplets from 1 to k , which the user will enter.
-void selection()
-{
-	int choose;
-	base:cout << "Type 1 to start benchmarking." << '\n';
-	try
-	{
-		cin >> (int) choose;
-		if (cin.fail())
-			throw 2;
-		if (choose != 1)
-		{
-			throw "Invalid number, try again \n";
-		}
-	}
-	catch (char* msg)
-	{
-		cout << msg << '\n';
-		goto base;
-	}
-	catch (int x)
-	{
-		cout << "Invalid entry. Program will close now. \n";
-		_getch();
-		exit(1);
-	}
-}
 void mainbase()
 {
 	long count;
@@ -70,11 +43,11 @@ void mainbase()
 			{
 				while (a <= k)
 				{
-					x = a*a;
-					y = b*b;
+					x = a * a;
+					y = b * b;
 					c = x + y;
 					powcheck = b;	// b as starting point. Meant to speed up execution
-					while (powcheck <= ceil(1.42*k)) // Max value of c with relation to a and b is c = root2 of a,b
+					while (powcheck <= ceil(1.42 * k)) // Max value of c with relation to a and b is c = root2 of a,b
 					{
 						if (c == pow(powcheck, 2))
 						{
@@ -84,7 +57,7 @@ void mainbase()
 							powcheck = 2 * k + 1;
 						}
 						else
-						++powcheck;
+							++powcheck;
 					}
 					++a;
 				}
@@ -106,22 +79,32 @@ void mainbase()
 			if (p == 5)
 				r = 7.536;
 			score[p - 1] = 200 * (r / timetake[p - 1]);
-			totalscore = totalscore + (0.2*(score[p - 1]));
-			stagetime[p - 1] = stagetime[p - 1] + 0.2*elapsed_secs;
-			cout << p * 4 + (q - 1) * 20 << " % complete!" << '\n';
+			totalscore = totalscore + (0.2 * (score[p - 1]));
+			stagetime[p - 1] = stagetime[p - 1] + 0.2 * elapsed_secs;
+			cout << p * 4 + (q - 1) * 20 << " % complete!" << '\n'; 
 			cout << "Time taken for that stage:- " << timetake[p - 1] << '\n';
 			cout << "Score obtained for that stage:- " << score[p - 1] * 5 << '\n';
 		}
-	} 
+	}
 }
-void main()
+int main(int argc, char* argv[])
 {
-	selection();
-	mainbase();
-	for (int i = 0; i < 5; i++)
+	if (argc != 3)
 	{
-		cout << "Average time taken for stage " << (i + 1) << " is " << stagetime[i] << " seconds \n";
+		printf("Arguments: filename optimisationflag\n");
+		exit(-1);
+	}
+	mainbase();
+	try
+	{
+		FILE* F;
+		F = fopen(argv[1], "a");
+		fprintf(F, "%s %lf\n", argv[2], totalscore);
+		fclose(F);
+	}
+	catch (exception e)
+	{
+		cerr << "File error! \n";
 	}
 	cout << "Your system has scored a total of " << totalscore << " points!" << '\n';
-	system("pause");
 }

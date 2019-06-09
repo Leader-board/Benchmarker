@@ -35,9 +35,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{581db6e7-84c8-4133-9cf9-c635be43ec3b}</ProjectGuid>
+    <ProjectGuid>{f88d53e3-874e-483a-a18f-5cbf815ae672}</ProjectGuid>
     <Keyword>Linux</Keyword>
-    <RootNamespace>Linux_flag_optimisations</RootNamespace>
+    <RootNamespace>Flagtests___Linux</RootNamespace>
     <MinimumVisualStudioVersion>15.0</MinimumVisualStudioVersion>
     <ApplicationType>Linux</ApplicationType>
     <ApplicationTypeRevision>1.0</ApplicationTypeRevision>
@@ -75,7 +75,8 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="benchmark.cpp" />
+    <ClCompile Include="flagtests.cpp" />
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
