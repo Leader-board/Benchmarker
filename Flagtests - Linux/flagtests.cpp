@@ -99,7 +99,7 @@ const char* optimisations2[opt2] = { "-falign-functions",
 "-ftree-vrp" };
 // the set of optimisations that get enabled between O2 and O3
 const char* optimisations3[opt3] = { "-fgcse-after-reload",
-"-finbenche-functions",
+"-finline-functions",
 "-fipa-cp-clone",
 "-floop-interchange",
 "-floop-unroll-and-jam",
@@ -146,7 +146,7 @@ int main(int argc, char* argv[])
 		for (int i = 0; i < opt1 * 1 - 1; i++)
 		{
 			string str = "g++";
-			str = str + " -o " + "benchmark " + "benchmark.cpp " + optimisations[i % opt1];
+			str = str + " -o " + "bench " + "benchmark.cpp " + optimisations[i % opt1];
 			const char* c = str.c_str();
 			system(c);
 			string str2 = "./bench ";
