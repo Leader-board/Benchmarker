@@ -35,9 +35,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{f88d53e3-874e-483a-a18f-5cbf815ae672}</ProjectGuid>
+    <ProjectGuid>{f3801c6b-17af-415b-863e-22614b4a1626}</ProjectGuid>
     <Keyword>Linux</Keyword>
-    <RootNamespace>Flagtests___Linux</RootNamespace>
+    <RootNamespace>FlagtestsLinux</RootNamespace>
     <MinimumVisualStudioVersion>15.0</MinimumVisualStudioVersion>
     <ApplicationType>Linux</ApplicationType>
     <ApplicationTypeRevision>1.0</ApplicationTypeRevision>
@@ -77,8 +77,6 @@
   <ItemGroup>
     <ClCompile Include="benchmark.cpp" />
     <ClCompile Include="flagtests.cpp" />
-  </ItemGroup>
-  <ItemGroup>
   </ItemGroup>
   <ItemDefinitionGroup />
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

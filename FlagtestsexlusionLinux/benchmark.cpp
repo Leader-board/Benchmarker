@@ -1,4 +1,4 @@
-// Benchmarker.cpp : Defines the entry point for the console application.
+g// Benchmarker.cpp : Defines the entry point for the console application.
 #include <fstream>
 #include <iostream>
 #include <math.h>
@@ -81,7 +81,7 @@ void mainbase()
 			score[p - 1] = 200 * (r / timetake[p - 1]);
 			totalscore = totalscore + (0.2 * (score[p - 1]));
 			stagetime[p - 1] = stagetime[p - 1] + 0.2 * elapsed_secs;
-			cout << p * 4 + (q - 1) * 20 << " % complete!" << '\n'; 
+			cout << p * 4 + (q - 1) * 20 << " % complete!" << '\n';
 			cout << "Time taken for that stage:- " << timetake[p - 1] << '\n';
 			cout << "Score obtained for that stage:- " << score[p - 1] * 5 << '\n';
 		}

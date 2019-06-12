@@ -136,7 +136,7 @@ int main(int argc, char* argv[])
 	{
 		mode = 3;
 	}
-	else
+	elsegggggggg
 	{
 		printf("Arguments: flag filename\n");
 		exit(-1);
