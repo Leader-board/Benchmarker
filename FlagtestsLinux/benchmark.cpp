@@ -93,6 +93,7 @@ int main(int argc, char* argv[])
 	{
 		printf("Arguments: filename optimisationflag\n");
 		exit(-1);
+
 	}
 	mainbase();
 	try

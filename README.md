@@ -1,4 +1,7 @@
-NOTE: If you're seeing this, I'm 180029456.
+Update 1 (18/5/20): major updates. For instance,
+
+* new MT version introduced, fully fixing the bugs in the older version. More robust time measurement for both MT and ST version (cases of getting inf score should no longer occur)
+* Python (confirmed to work on PyPy) and Java ST versions introduced. Analysis in progress.
 
 # INTRODUCTION
 

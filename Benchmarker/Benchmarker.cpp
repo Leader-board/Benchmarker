@@ -1,10 +1,13 @@
 // Benchmarker.cpp : Defines the entry point for the console application.
+/*
+Original single-threaded benchmarker application with minor updates from here to there.
+*/
 #include "stdafx.h"
 #include <iostream>
 #include <math.h>
 #include <ctime>
 #include <exception>
-#include <conio.h>
+#include <chrono>
 using namespace std;
 int check = 2;
 double a, b, powcheck, k, d, x, y;// x and y are the squares of a and b.
@@ -20,7 +23,7 @@ void selection()
 	base:cout << "Type 1 to start benchmarking." << '\n';
 	try
 	{
-		cin >> (int) choose;
+		cin >> choose;
 		if (cin.fail())
 			throw 2;
 		if (choose != 1)
@@ -36,7 +39,6 @@ void selection()
 	catch (int x)
 	{
 		cout << "Invalid entry. Program will close now. \n";
-		_getch();
 		exit(1);
 	}
 }
@@ -50,7 +52,7 @@ void mainbase()
 	{
 		for (int p = 1; p <= 5; p++)
 		{
-			clock_t begin = clock();
+			auto begin = chrono::high_resolution_clock::now();
 			a = 1;
 			b = 1;
 			c = 1;
@@ -76,7 +78,7 @@ void mainbase()
 					powcheck = b;	// b as starting point. Meant to speed up execution
 					while (powcheck <= ceil(1.42*k)) // Max value of c with relation to a and b is c = root2 of a,b
 					{
-						if (c == pow(powcheck, 2))
+						if (c == pow(powcheck, 2)) // line that made the most difference on gcc
 						{
 							if (c >= d)
 								d = c;
@@ -91,8 +93,8 @@ void mainbase()
 				a = 1;
 				++b;
 			}
-			clock_t end = clock();
-			double elapsed_secs = double(end - begin) / CLOCKS_PER_SEC;
+			auto end = chrono::high_resolution_clock::now();
+			double elapsed_secs = chrono::duration_cast<std::chrono::nanoseconds>(end - begin).count() / (double)1000000000;
 			timetake[p - 1] = elapsed_secs;
 			float r;
 			if (p == 1)
@@ -120,7 +122,19 @@ void main()
 	mainbase();
 	for (int i = 0; i < 5; i++)
 	{
-		cout << "Average time taken for stage " << (i + 1) << " is " << stagetime[i] << " seconds \n";
+		cout << "Average time taken for stage " << (i + 1) << " is " << stagetime[i] << " seconds and average score is ";
+		float r;
+		if (i == 1)
+			r = 0.003;
+		if (i == 2)
+			r = 0.035;
+		if (i == 3)
+			r = 0.273;
+		if (i == 4)
+			r = 2.225;
+		if (i == 5)
+			r = 7.536;
+		cout << (1000 * stagetime[i - 1] / r) << '\n';
 	}
 	cout << "Your system has scored a total of " << totalscore << " points!" << '\n';
 	system("pause");
