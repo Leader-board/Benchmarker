@@ -2,17 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>69c56239-b751-4345-9722-7c96cb750519</ProjectGuid>
+    <ProjectGuid>ea0781fa-1d27-41a3-88d3-a3c44eb9970b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>bench_python.py</StartupFile>
+    <StartupFile>bench_python_multithreaded.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>bench_python</Name>
-    <RootNamespace>bench_python</RootNamespace>
-    <InterpreterId>Global|PythonCore|3.7</InterpreterId>
-    <IsWindowsApplication>False</IsWindowsApplication>
+    <Name>bench_python_multithreaded</Name>
+    <RootNamespace>bench_python_multithreaded</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -23,11 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="bench_python.py" />
-  </ItemGroup>
-  <ItemGroup>
-    <InterpreterReference Include="Global|PythonCore|3.7" />
-    <InterpreterReference Include="Global|VisualStudio|PyPy 3.6" />
+    <Compile Include="bench_python_multithreaded.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

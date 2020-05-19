@@ -5,7 +5,7 @@ import java.util.StringTokenizer;
 
 // Java port of Benchmarker.
 
-public class Main {
+public class bench_ST {
     static int check = 2;
     static double a, b, powcheck, k, d, x, y;// x and y are the squares of a and b.
     static int verify = 0;
