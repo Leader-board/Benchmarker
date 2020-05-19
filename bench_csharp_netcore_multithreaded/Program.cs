@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 using System.Threading;
-namespace bench_csharp
+namespace bench_csharp_netcore_multithreaded
 {
     class Program
     {
@@ -151,7 +151,7 @@ namespace bench_csharp
             printresult(stagetime, totalscore, thread_no);
             m.ReleaseMutex();
         }
-       
+
         static void Main(string[] args)
         {
             selection();

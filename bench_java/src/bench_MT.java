@@ -182,9 +182,9 @@ public class bench_MT {
                     totalscore = totalscore + (0.2 * (score[p - 1]));
                     stagetime[p - 1] = stagetime[p - 1] + 0.2 * elapsed_secs;
                     mutex.acquire();
-                    System.out.println(p * 4 + (q - 1) * 20 + " % complete!");
-                    System.out.println("Time taken for that stage:- " + timetake[p - 1]);
-                    System.out.println("Score obtained for that stage:- " + score[p - 1] * 5);
+                    System.out.println(p * 4 + (q - 1) * 20 + " % complete for thread " + thread_no);
+                    System.out.println("Time taken for that stage:- " + timetake[p - 1] + " for thread " + thread_no);
+                    System.out.println("Score obtained for that stage:- " + score[p - 1] * 5 + " for thread " + thread_no);
                     mutex.release();
                 }
             }

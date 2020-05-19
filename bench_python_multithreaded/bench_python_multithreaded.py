@@ -6,6 +6,8 @@ totalscore = 0
 stagetime = [0.000]*5
 NUMBER_OF_THREADS = 1 # number of threads to run program
 mutex = threading.Lock() # mutex
+avg_stagetime = [0.000] * 5
+fin_score = 0.0000
 # selection routine
 def selection():
 	global NUMBER_OF_THREADS
@@ -52,6 +54,8 @@ def mainbase(thread_no):
 	global stagetime
 	global NUMBER_OF_THREADS
 	global mutex
+	global avg_stagetime
+	global fin_score
 	a = float()	
 	b = float()
 	powcheck = float()
