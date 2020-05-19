@@ -131,7 +131,7 @@ def mainbase(thread_no):
 	for t in range(0, 5):
 		avg_stagetime[t] = avg_stagetime[t] + stagetime[t] / NUMBER_OF_THREADS
 	fin_score = fin_score + totalscore / NUMBER_OF_THREADS
-	printresult(stagetime, totalscore, thread_no)
+	printresult(stagetime = stagetime, totalscore, thread_no)
 	mutex.release();
 # main routine
 selection()
@@ -145,5 +145,5 @@ for i in range(0, NUMBER_OF_THREADS):
 for i in range(0, NUMBER_OF_THREADS):
 	tr[i].join()
 end = time.time()
-printresult(avg_stagetime, fin_score, 0);
+printresult(avg_stagetime = avg_stagetime, fin_score, 0);
 print("Total time taken to run benchmark in seconds: " + str(float(end - begin)))
