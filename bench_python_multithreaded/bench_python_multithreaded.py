@@ -24,7 +24,7 @@ def selection():
 	NUMBER_OF_THREADS = int(input())
 # launch benchmarking routine from here
 # printresult - printing result of each thread
-def printresult(*stagetime, totalscore, t_no):
+def printresult(totalscore, t_no, *stagetime):
 	print("------------------------")
 	if (t_no != 0):
 		print("RESULTS FOR THREAD " + str(t_no))
@@ -131,7 +131,7 @@ def mainbase(thread_no):
 	for t in range(0, 5):
 		avg_stagetime[t] = avg_stagetime[t] + stagetime[t] / NUMBER_OF_THREADS
 	fin_score = fin_score + totalscore / NUMBER_OF_THREADS
-	printresult(stagetime = stagetime, totalscore, thread_no)
+	printresult(totalscore, thread_no, stagetime)
 	mutex.release();
 # main routine
 selection()
@@ -145,5 +145,5 @@ for i in range(0, NUMBER_OF_THREADS):
 for i in range(0, NUMBER_OF_THREADS):
 	tr[i].join()
 end = time.time()
-printresult(avg_stagetime = avg_stagetime, fin_score, 0);
+printresult(fin_score, 0, avg_stagetime);
 print("Total time taken to run benchmark in seconds: " + str(float(end - begin)))
