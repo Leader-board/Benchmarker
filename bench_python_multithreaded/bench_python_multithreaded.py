@@ -24,7 +24,7 @@ def selection():
 	NUMBER_OF_THREADS = int(input())
 # launch benchmarking routine from here
 # printresult - printing result of each thread
-def printresult(totalscore, t_no, *stagetime):
+def printresult(totalscore, t_no, stagetime):
 	print("------------------------")
 	if (t_no != 0):
 		print("RESULTS FOR THREAD " + str(t_no))
