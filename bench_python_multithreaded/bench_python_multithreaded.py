@@ -2,7 +2,7 @@
 import time
 import math as mt
 import threading
-totalscore = 0
+import multiprocessing
 stagetime = [0.000]*5
 NUMBER_OF_THREADS = 1 # number of threads to run program
 mutex = threading.Lock() # mutex
@@ -50,7 +50,7 @@ def printresult(totalscore, t_no, stagetime):
 	else: # thread score
 		print("Thread " + str(t_no) + " score: " + str(totalscore) + " points!");
 def mainbase(thread_no):
-	global totalscore
+	totalscore = float()
 	global stagetime
 	global NUMBER_OF_THREADS
 	global mutex
@@ -138,7 +138,7 @@ selection()
 # mainbase
 tr = []
 for i in range(0, NUMBER_OF_THREADS):
-	tr.append(threading.Thread(target = mainbase, args = ((i + 1),)))
+	tr.append(multiprocessing.Process(target = mainbase, args = ((i + 1),)))
 begin = time.time()
 for i in range(0, NUMBER_OF_THREADS):
 	tr[i].start()

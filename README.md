@@ -3,6 +3,10 @@ Update 1 (18/5/20): major updates. For instance,
 * new MT version introduced, fully fixing the bugs in the older version. More robust time measurement for both MT and ST version (cases of getting inf score should no longer occur)
 * Python (confirmed to work on PyPy) and Java ST versions introduced. Analysis in progress.
 
+Update 2 (20/5/20)
+
+* MT versions of Python, Java, C# .NET Framework and .NET Core introduced. Analysis in progress.
+
 # INTRODUCTION
 
 This is a simple benchmark program which is designed to compare CPU performance between different CPUs. This is single-threaded, please see the MT version for the multi-threaded version.
