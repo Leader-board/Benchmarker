@@ -1,5 +1,6 @@
 # java
 cd bench_java/src
+javac bench_MT.java
 echo -e "1\n1" | java bench_MT > javaT1.txt
 echo -e "1\n2" | java bench_MT > javaT2.txt
 echo -e "1\n4" | java bench_MT > javaT4.txt
@@ -19,6 +20,7 @@ echo -e "1\n16" | ./a.out > c++T16.txt
 echo -e "1\n32" | ./a.out > c++T32.txt
 # mono c#
 cd ../bench_csharp_multithreaded
+csc Program.cs
 echo -e "1\n1" | mono Program.exe > monoT1.txt
 echo -e "1\n2" | mono Program.exe > monoT2.txt
 echo -e "1\n4" | mono Program.exe > monoT4.txt
