@@ -10,7 +10,7 @@ echo -e "1\n64" | java bench_MT > javaT64.txt
 cd ../../
 # c++
 cd bench_c++_multithreaded
-g++ bench_csharp_multithreaded.cpp -O3 -lpthread
+g++ bench_c++_multithreaded.cpp -O3 -lpthread
 echo -e "1\n1" | ./a.out > c++T1.txt
 echo -e "1\n2" | ./a.out > c++T2.txt
 echo -e "1\n4" | ./a.out > c++T4.txt
