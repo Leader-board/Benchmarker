@@ -1,0 +1,348 @@
+Type 1 to start benchmarking
+Enter number of threads to run program with
+4 % complete!
+Time taken for that stage:- 0.027895711
+Score obtained for that stage:- 107.54341411122304
+4 % complete!
+Time taken for that stage:- 0.007334002
+Score obtained for that stage:- 409.053610838939
+4 % complete!
+Time taken for that stage:- 0.001946733
+Score obtained for that stage:- 1541.0433788300707
+4 % complete!
+Time taken for that stage:- 0.030034057
+Score obtained for that stage:- 99.88660539600093
+8 % complete!
+Time taken for that stage:- 0.032244309
+Score obtained for that stage:- 1085.4628641599982
+8 % complete!
+Time taken for that stage:- 0.091919697
+Score obtained for that stage:- 380.7671385165685
+8 % complete!
+Time taken for that stage:- 0.115988746
+Score obtained for that stage:- 301.7534132147614
+8 % complete!
+Time taken for that stage:- 0.202731088
+Score obtained for that stage:- 172.64249082508746
+12 % complete!
+Time taken for that stage:- 0.56754248
+Score obtained for that stage:- 481.02126205601394
+12 % complete!
+Time taken for that stage:- 0.553129692
+Score obtained for that stage:- 493.555135347896
+12 % complete!
+Time taken for that stage:- 0.638848564
+Score obtained for that stage:- 427.3313197898963
+12 % complete!
+Time taken for that stage:- 0.525317086
+Score obtained for that stage:- 519.6861234397389
+16 % complete!
+Time taken for that stage:- 4.124790271
+Score obtained for that stage:- 539.4213654069201
+16 % complete!
+Time taken for that stage:- 4.234899074
+Score obtained for that stage:- 525.3962281321653
+16 % complete!
+Time taken for that stage:- 4.249978905
+Score obtained for that stage:- 523.5320103312372
+16 % complete!
+Time taken for that stage:- 4.255500959
+Score obtained for that stage:- 522.8526609292205
+20 % complete!
+Time taken for that stage:- 13.986627408
+Score obtained for that stage:- 538.8003683925688
+24 % complete!
+Time taken for that stage:- 0.00253887
+Score obtained for that stage:- 1181.6280471233265
+28 % complete!
+Time taken for that stage:- 0.072873402
+Score obtained for that stage:- 480.28497420773635
+20 % complete!
+Time taken for that stage:- 13.958948822
+Score obtained for that stage:- 539.8687319580174
+24 % complete!
+Time taken for that stage:- 0.002264652
+Score obtained for that stage:- 1324.7068423757823
+20 % complete!
+Time taken for that stage:- 14.018169314
+Score obtained for that stage:- 537.5880281652588
+24 % complete!
+Time taken for that stage:- 0.002209848
+Score obtained for that stage:- 1357.5594339520185
+28 % complete!
+Time taken for that stage:- 0.057027036
+Score obtained for that stage:- 613.7439792592411
+20 % complete!
+Time taken for that stage:- 13.96158074
+Score obtained for that stage:- 539.7669605139567
+24 % complete!
+Time taken for that stage:- 0.002259552
+Score obtained for that stage:- 1327.6968177762672
+28 % complete!
+Time taken for that stage:- 0.059857927
+Score obtained for that stage:- 584.7178770491
+28 % complete!
+Time taken for that stage:- 0.066596979
+Score obtained for that stage:- 525.5493646340925
+32 % complete!
+Time taken for that stage:- 0.519044016
+Score obtained for that stage:- 525.9669538315225
+32 % complete!
+Time taken for that stage:- 0.513233825
+Score obtained for that stage:- 531.9212933792896
+32 % complete!
+Time taken for that stage:- 0.519814568
+Score obtained for that stage:- 525.1872817846844
+32 % complete!
+Time taken for that stage:- 0.522849672
+Score obtained for that stage:- 522.1386081313254
+36 % complete!
+Time taken for that stage:- 4.171376527
+Score obtained for that stage:- 533.3970658362484
+36 % complete!
+Time taken for that stage:- 4.176186825
+Score obtained for that stage:- 532.782677891811
+36 % complete!
+Time taken for that stage:- 4.170029401
+Score obtained for that stage:- 533.5693795027994
+36 % complete!
+Time taken for that stage:- 4.20616271
+Score obtained for that stage:- 528.9857177208439
+40 % complete!
+Time taken for that stage:- 14.00348542
+Score obtained for that stage:- 538.1517367981091
+44 % complete!
+Time taken for that stage:- 0.002386558
+Score obtained for that stage:- 1257.040474189188
+48 % complete!
+Time taken for that stage:- 0.061006437
+Score obtained for that stage:- 573.7099512957952
+40 % complete!
+Time taken for that stage:- 13.989367466
+Score obtained for that stage:- 538.6948350821168
+44 % complete!
+Time taken for that stage:- 0.013183273
+Score obtained for that stage:- 227.56109199892921
+40 % complete!
+Time taken for that stage:- 14.044771367
+Score obtained for that stage:- 536.5697883631486
+44 % complete!
+Time taken for that stage:- 0.00227125
+Score obtained for that stage:- 1320.8585580627412
+48 % complete!
+Time taken for that stage:- 0.06682502
+Score obtained for that stage:- 523.75592255715
+48 % complete!
+Time taken for that stage:- 0.065562736
+Score obtained for that stage:- 533.8398324316424
+40 % complete!
+Time taken for that stage:- 14.084317687
+Score obtained for that stage:- 535.0631935088926
+44 % complete!
+Time taken for that stage:- 0.002249848
+Score obtained for that stage:- 1333.4234134928226
+48 % complete!
+Time taken for that stage:- 0.068600736
+Score obtained for that stage:- 510.1986077817009
+52 % complete!
+Time taken for that stage:- 0.542953708
+Score obtained for that stage:- 502.80529624820247
+52 % complete!
+Time taken for that stage:- 0.529515114
+Score obtained for that stage:- 515.5660202741635
+52 % complete!
+Time taken for that stage:- 0.532712225
+Score obtained for that stage:- 512.4718134636388
+52 % complete!
+Time taken for that stage:- 0.549323124
+Score obtained for that stage:- 496.9752556784775
+56 % complete!
+Time taken for that stage:- 4.151737944
+Score obtained for that stage:- 535.9201447710642
+56 % complete!
+Time taken for that stage:- 4.179393133
+Score obtained for that stage:- 532.3739426261819
+56 % complete!
+Time taken for that stage:- 4.199083634
+Score obtained for that stage:- 529.8775146996751
+56 % complete!
+Time taken for that stage:- 4.220034674
+Score obtained for that stage:- 527.2468526641305
+60 % complete!
+Time taken for that stage:- 14.007831133
+Score obtained for that stage:- 537.9847835434354
+64 % complete!
+Time taken for that stage:- 0.002234746
+Score obtained for that stage:- 1342.4344422140143
+68 % complete!
+Time taken for that stage:- 0.07034958
+Score obtained for that stage:- 497.51540805218747
+60 % complete!
+Time taken for that stage:- 13.975819709
+Score obtained for that stage:- 539.2170303361203
+64 % complete!
+Time taken for that stage:- 0.002234145
+Score obtained for that stage:- 1342.7955660890411
+60 % complete!
+Time taken for that stage:- 14.033681081
+Score obtained for that stage:- 536.9938191201226
+64 % complete!
+Time taken for that stage:- 0.002251346
+Score obtained for that stage:- 1332.5361805781963
+68 % complete!
+Time taken for that stage:- 0.075676628
+Score obtained for that stage:- 462.49417984109976
+68 % complete!
+Time taken for that stage:- 0.077414941
+Score obtained for that stage:- 452.10910901553234
+60 % complete!
+Time taken for that stage:- 13.961843446
+Score obtained for that stage:- 539.756804260617
+64 % complete!
+Time taken for that stage:- 0.002271848
+Score obtained for that stage:- 1320.5108792489639
+68 % complete!
+Time taken for that stage:- 0.072250604
+Score obtained for that stage:- 484.42501601785926
+72 % complete!
+Time taken for that stage:- 0.542074185
+Score obtained for that stage:- 503.6211049231204
+72 % complete!
+Time taken for that stage:- 0.510735038
+Score obtained for that stage:- 534.5237347902496
+72 % complete!
+Time taken for that stage:- 0.522468198
+Score obtained for that stage:- 522.5198414851654
+72 % complete!
+Time taken for that stage:- 0.51890726
+Score obtained for that stage:- 526.1055703865081
+76 % complete!
+Time taken for that stage:- 4.180511574
+Score obtained for that stage:- 532.231512965547
+76 % complete!
+Time taken for that stage:- 4.183929971
+Score obtained for that stage:- 531.7966637639977
+76 % complete!
+Time taken for that stage:- 4.211807563
+Score obtained for that stage:- 528.2767473866185
+76 % complete!
+Time taken for that stage:- 4.179837565
+Score obtained for that stage:- 532.3173365948733
+80 % complete!
+Time taken for that stage:- 14.101438195
+Score obtained for that stage:- 534.41357511123
+84 % complete!
+Time taken for that stage:- 0.010236456
+Score obtained for that stage:- 293.07017975752547
+88 % complete!
+Time taken for that stage:- 0.063686484
+Score obtained for that stage:- 549.5671577661595
+80 % complete!
+Time taken for that stage:- 14.060445382
+Score obtained for that stage:- 535.9716420965932
+84 % complete!
+Time taken for that stage:- 0.010247757
+Score obtained for that stage:- 292.74698843854316
+88 % complete!
+Time taken for that stage:- 0.068389986
+Score obtained for that stage:- 511.77083147816415
+80 % complete!
+Time taken for that stage:- 13.981299774
+Score obtained for that stage:- 539.0056805744304
+84 % complete!
+Time taken for that stage:- 0.011076611
+Score obtained for that stage:- 270.8409639013232
+80 % complete!
+Time taken for that stage:- 14.125386173
+Score obtained for that stage:- 533.5075379676842
+84 % complete!
+Time taken for that stage:- 0.003028995
+Score obtained for that stage:- 990.4275180381612
+88 % complete!
+Time taken for that stage:- 0.070606927
+Score obtained for that stage:- 495.7020718377958
+88 % complete!
+Time taken for that stage:- 0.065935028
+Score obtained for that stage:- 530.8255878802387
+92 % complete!
+Time taken for that stage:- 0.551884481
+Score obtained for that stage:- 494.6687384746375
+92 % complete!
+Time taken for that stage:- 0.548548363
+Score obtained for that stage:- 497.6771756403911
+92 % complete!
+Time taken for that stage:- 0.519382889
+Score obtained for that stage:- 525.6237850377086
+92 % complete!
+Time taken for that stage:- 0.54253987
+Score obtained for that stage:- 503.1888255511987
+96 % complete!
+Time taken for that stage:- 4.186315459
+Score obtained for that stage:- 531.4936300886159
+96 % complete!
+Time taken for that stage:- 4.188945513
+Score obtained for that stage:- 531.1599286968334
+96 % complete!
+Time taken for that stage:- 4.194339842
+Score obtained for that stage:- 530.4768053651671
+96 % complete!
+Time taken for that stage:- 4.205562144
+Score obtained for that stage:- 529.0612583562383
+100 % complete!
+Time taken for that stage:- 14.260807073
+Score obtained for that stage:- 528.4413400604735
+------------------------
+RESULTS FOR THREAD 2
+------------------------
+Average time taken for stage 1 is 0.0038686726000000003 seconds and average score is 775.4597791500888
+Average time taken for stage 2 is 0.07196712000000001 seconds and average score is 486.3332032739395
+Average time taken for stage 3 is 0.544699774 seconds and average score is 501.19352537128094
+Average time taken for stage 4 is 4.162946355000001 seconds and average score is 534.477221242021
+Average time taken for stage 5 is 14.0720378458 seconds and average score is 535.5301117420762
+Thread 2 score: 638.2160012184113 points!
+100 % complete!
+Time taken for that stage:- 14.21502263
+Score obtained for that stage:- 530.1433698807976
+------------------------
+OVERALL RESULTS
+------------------------
+Average time taken for stage 1 is 0.0111541468 seconds and average score is 268.9582676103922
+Average time taken for stage 2 is 0.060598774 seconds and average score is 577.5694405962735
+Average time taken for stage 3 is 0.5494923294 seconds and average score is 496.8222218826845
+Average time taken for stage 4 is 4.1953775186 seconds and average score is 530.3455982532137
+Average time taken for stage 5 is 14.0517649002 seconds and average score is 536.3027387323239
+Final score: 573.2043328924406 points!
+100 % complete!
+Time taken for that stage:- 14.2644868
+Score obtained for that stage:- 528.3050211101881
+------------------------
+RESULTS FOR THREAD 3
+------------------------
+Average time taken for stage 1 is 0.0095783832 seconds and average score is 313.20525994407905
+Average time taken for stage 2 is 0.09615726680000002 seconds and average score is 363.98705126256766
+Average time taken for stage 3 is 0.5271560062 seconds and average score is 517.8732610255518
+Average time taken for stage 4 is 4.21117515 seconds and average score is 528.3560813185364
+Average time taken for stage 5 is 14.0507056894 seconds and average score is 536.3431678513655
+Thread 3 score: 578.2073042731197 points!
+100 % complete!
+Time taken for that stage:- 14.21383964
+Score obtained for that stage:- 530.1874926738656
+------------------------
+RESULTS FOR THREAD 1
+------------------------
+Average time taken for stage 1 is 0.003430049 seconds and average score is 874.6230738977781
+Average time taken for stage 2 is 0.07638569740000001 seconds and average score is 458.2009615847272
+Average time taken for stage 3 is 0.532816762 seconds and average score is 512.3712680795879
+Average time taken for stage 4 is 4.204585714 seconds and average score is 529.1841221339411
+Average time taken for stage 5 is 14.0753254166 seconds and average score is 535.4050280864041
+Thread 1 score: 627.8666219038942 points!
+------------------------
+OVERALL RESULTS
+------------------------
+Average time taken for stage 1 is 0.007007812900000001 seconds and average score is 428.0936210497286
+Average time taken for stage 2 is 0.07627721455000001 seconds and average score is 458.85262337493145
+Average time taken for stage 3 is 0.5385412179000001 seconds and average score is 506.92498721739895
+Average time taken for stage 4 is 4.1935211844 seconds and average score is 530.5803648440012
+Average time taken for stage 5 is 14.062458463 seconds and average score is 535.894916228774
+Final score: 604.3735650719664 points!
+Total time taken to run benchmark in seconds: 94.597539027
