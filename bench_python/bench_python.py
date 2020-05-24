@@ -57,7 +57,7 @@ def mainbase():
 					c = x + y
 					powcheck = b
 					while (powcheck <= mt.ceil(1.42*k)):
-						if (c == powcheck ** powcheck):
+						if (c == powcheck * powcheck):
 							if (c >= d):
 								d = c
 							count = count + 1
