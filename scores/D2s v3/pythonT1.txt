@@ -1,0 +1,96 @@
+Type 1 to start benchmarking or 0 to quit
+Enter number of threads to run program with
+4 % complete for thread 1
+Time taken for that stage:- 0.40394067764282227 for thread 1
+Score obtained for that stage:- 7.4268331119964595 for thread 1
+8 % complete for thread 1
+Time taken for that stage:- 6.366375923156738 for thread 1
+Score obtained for that stage:- 5.497633256731315 for thread 1
+12 % complete for thread 1
+Time taken for that stage:- 51.383394956588745 for thread 1
+Score obtained for that stage:- 5.313000439746032 for thread 1
+16 % complete for thread 1
+Time taken for that stage:- 416.0186252593994 for thread 1
+Score obtained for that stage:- 5.348318236022845 for thread 1
+20 % complete for thread 1
+Time taken for that stage:- 1408.1580934524536 for thread 1
+Score obtained for that stage:- 5.3516718293495025 for thread 1
+24 % complete for thread 1
+Time taken for that stage:- 0.3935568332672119 for thread 1
+Score obtained for that stage:- 7.622787222609601 for thread 1
+28 % complete for thread 1
+Time taken for that stage:- 6.382111549377441 for thread 1
+Score obtained for that stage:- 5.484078385219413 for thread 1
+32 % complete for thread 1
+Time taken for that stage:- 52.36955451965332 for thread 1
+Score obtained for that stage:- 5.212952496999916 for thread 1
+36 % complete for thread 1
+Time taken for that stage:- 414.2823717594147 for thread 1
+Score obtained for that stage:- 5.370732987142691 for thread 1
+40 % complete for thread 1
+Time taken for that stage:- 1399.7801489830017 for thread 1
+Score obtained for that stage:- 5.383702580348217 for thread 1
+44 % complete for thread 1
+Time taken for that stage:- 0.4115738868713379 for thread 1
+Score obtained for that stage:- 7.289092179304927 for thread 1
+48 % complete for thread 1
+Time taken for that stage:- 6.429065465927124 for thread 1
+Score obtained for that stage:- 5.444026069650967 for thread 1
+52 % complete for thread 1
+Time taken for that stage:- 51.67400646209717 for thread 1
+Score obtained for that stage:- 5.283120444710344 for thread 1
+56 % complete for thread 1
+Time taken for that stage:- 415.86476731300354 for thread 1
+Score obtained for that stage:- 5.3502969592164025 for thread 1
+60 % complete for thread 1
+Time taken for that stage:- 1405.2488777637482 for thread 1
+Score obtained for that stage:- 5.3627511249056905 for thread 1
+64 % complete for thread 1
+Time taken for that stage:- 0.4112415313720703 for thread 1
+Score obtained for that stage:- 7.294983048017476 for thread 1
+68 % complete for thread 1
+Time taken for that stage:- 6.274319171905518 for thread 1
+Score obtained for that stage:- 5.578294479617693 for thread 1
+72 % complete for thread 1
+Time taken for that stage:- 51.90735459327698 for thread 1
+Score obtained for that stage:- 5.259370317349189 for thread 1
+76 % complete for thread 1
+Time taken for that stage:- 414.10817885398865 for thread 1
+Score obtained for that stage:- 5.372992163925644 for thread 1
+80 % complete for thread 1
+Time taken for that stage:- 1395.6610040664673 for thread 1
+Score obtained for that stage:- 5.399592005539121 for thread 1
+84 % complete for thread 1
+Time taken for that stage:- 0.3952784538269043 for thread 1
+Score obtained for that stage:- 7.589586457231299 for thread 1
+88 % complete for thread 1
+Time taken for that stage:- 6.343486547470093 for thread 1
+Score obtained for that stage:- 5.517470516897162 for thread 1
+92 % complete for thread 1
+Time taken for that stage:- 51.59335517883301 for thread 1
+Score obtained for that stage:- 5.291379074955036 for thread 1
+96 % complete for thread 1
+Time taken for that stage:- 412.03461480140686 for thread 1
+Score obtained for that stage:- 5.40003174508144 for thread 1
+100 % complete for thread 1
+Time taken for that stage:- 1399.3169689178467 for thread 1
+Score obtained for that stage:- 5.385484609557704 for thread 1
+------------------------
+RESULTS FOR THREAD 1
+------------------------
+Average time taken for stage 1 is 0.40311827659606936 seconds and average score is 7.44198458410767
+Average time taken for stage 2 is 6.359071731567383 seconds and average score is 5.503947978170268
+Average time taken for stage 3 is 51.78553314208985 seconds and average score is 5.271742578201115
+Average time taken for stage 4 is 414.4617115974427 seconds and average score is 5.368409041752673
+Average time taken for stage 5 is 1401.6330186367036 seconds and average score is 5.376585668144347
+Thread 1 score: 5.793207269685043 points!
+------------------------
+OVERALL RESULTS
+------------------------
+Average time taken for stage 1 is 0.40311827659606936 seconds and average score is 7.44198458410767
+Average time taken for stage 2 is 6.359071731567383 seconds and average score is 5.503947978170268
+Average time taken for stage 3 is 51.78553314208985 seconds and average score is 5.271742578201115
+Average time taken for stage 4 is 414.4617115974427 seconds and average score is 5.368409041752673
+Average time taken for stage 5 is 1401.6330186367036 seconds and average score is 5.376585668144347
+Final score: 5.793207269685043 points!
+Total time taken to run benchmark in seconds: 9373.21350812912
