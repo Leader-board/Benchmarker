@@ -3,7 +3,7 @@ import time
 import math as mt
 import threading
 import multiprocessing
-stagetime = [0.000]*5
+
 NUMBER_OF_THREADS = 1 # number of threads to run program
 mutex = threading.Lock() # mutex
 avg_stagetime = [0.000] * 5
@@ -25,6 +25,8 @@ def selection():
 # launch benchmarking routine from here
 # printresult - printing result of each thread
 def printresult(totalscore, t_no, stagetime):
+	for i in range(0, 5):
+		print("stagetime = " + str(stagetime[i]))
 	print("------------------------")
 	if (t_no != 0):
 		print("RESULTS FOR THREAD " + str(t_no))
@@ -51,7 +53,7 @@ def printresult(totalscore, t_no, stagetime):
 		print("Thread " + str(t_no) + " score: " + str(totalscore) + " points!");
 def mainbase(thread_no):
 	totalscore = float()
-	global stagetime
+	stagetime = [0.000]*5
 	global NUMBER_OF_THREADS
 	global mutex
 	global avg_stagetime
@@ -129,7 +131,8 @@ def mainbase(thread_no):
 			mutex.release()
 	mutex.acquire()
 	for t in range(0, 5):
-		avg_stagetime[t] = avg_stagetime[t] + stagetime[t] / NUMBER_OF_THREADS
+		avg_stagetime[t] = avg_stagetime[t] + (stagetime[t] / NUMBER_OF_THREADS)
+		print("Average score " + str(avg_stagetime[t]))
 	fin_score = fin_score + totalscore / NUMBER_OF_THREADS
 	printresult(totalscore, thread_no, stagetime)
 	mutex.release();
@@ -138,12 +141,15 @@ selection()
 # mainbase
 tr = []
 for i in range(0, NUMBER_OF_THREADS):
-	tr.append(multiprocessing.Process(target = mainbase, args = ((i + 1),)))
+	tr.append(threading.Thread(target = mainbase, args = ((i + 1),)))
 begin = time.time()
 for i in range(0, NUMBER_OF_THREADS):
 	tr[i].start()
 for i in range(0, NUMBER_OF_THREADS):
 	tr[i].join()
 end = time.time()
+for i in range(0, 5):
+	print("stagetime = " + str(avg_stagetime[i]))
+print("final score = ", fin_score)
 printresult(fin_score, 0, avg_stagetime);
 print("Total time taken to run benchmark in seconds: " + str(float(end - begin)))

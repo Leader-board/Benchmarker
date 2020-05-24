@@ -192,7 +192,7 @@ public class bench_MT {
             for (int t = 0; t < 5; t++) {
                 avg_stagetime[t] = avg_stagetime[t] + stagetime[t] / NUMBER_OF_THREADS;
             }
-            fin_score = fin_score + totalscore / NUMBER_OF_THREADS;
+            fin_score = fin_score + totalscore / (double)NUMBER_OF_THREADS;
             printresult(stagetime, totalscore, thread_no);
             mutex.release();
         }
@@ -203,7 +203,7 @@ public class bench_MT {
         selection();
         progcore[] tr = new progcore[NUMBER_OF_THREADS];
         for (int i= 0; i < tr.length; i++)
-            tr[i] = new progcore(i);
+            tr[i] = new progcore((i + 1));
         double begin = System.nanoTime();
         for (progcore t : tr) {
             t.start();

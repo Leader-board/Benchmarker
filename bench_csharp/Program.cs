@@ -61,7 +61,7 @@ namespace bench_csharp
                             powcheck = b;    // b as starting point. Meant to speed up execution
                             while (powcheck <= Math.Ceiling(1.42 * k)) // Max value of c with relation to a and b is c = root2 of a,b
                             {
-                                if (c == Math.Pow(powcheck, 2)) // line that made the most difference on gcc
+                                if (c == powcheck * powcheck) // line that made the most difference on gcc
                                 {
                                     if (c >= d)
                                         d = c;
