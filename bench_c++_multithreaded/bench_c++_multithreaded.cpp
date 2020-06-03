@@ -90,7 +90,7 @@ void mainbase(int thread_no)
 					powcheck = b;	// b as starting point. Meant to speed up execution
 					while (powcheck <= ceil(1.42 * k)) // Max value of c with relation to a and b is c = root2 of a,b
 					{
-						if (c == pow(powcheck, 2)) // line that made the most difference on gcc
+						if (c == powcheck * powcheck) // line that made the most difference on gcc
 						{
 							if (c >= d)
 								d = c;
