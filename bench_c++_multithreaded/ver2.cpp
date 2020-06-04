@@ -187,19 +187,21 @@ int main()
 	vector<thread> t(NUMBER_OF_THREADS);
 	// find total time taken to benchmark
 	auto begin = chrono::high_resolution_clock::now();
-	// run NUMBER_OF_THREADS/4 instead at one go
+	// run NUMBER_OF_THREADS/num_threads instead at one go
 	// so give num_threads threads the chance to run, then another num_threads, and so on...
-	for (int i = 0; i < NUMBER_OF_THREADS / num_threads; i+=num_threads)
+	for (int i = 0; i < NUMBER_OF_THREADS / num_threads; i++)
 	{
+		cout << "loop\n";
 		for (int j = 0; j < num_threads; j++)
 		t[num_threads*i + j] = thread(mainbase, (num_threads*i + j + 1));
 		for (int j = 0; j < num_threads; j++)
 		t[num_threads*i + j].join();
 	}
-	// handle the remaining (T - 4N) threads
+	cout << "stagedone, num_threads is " << num_threads << "\n";
+	// handle the remaining (T - (num_threads)N) threads, where N is the number of times the preceding loop ran
 	for (int i = floor(NUMBER_OF_THREADS / num_threads)*num_threads; i < NUMBER_OF_THREADS; i++)
 	{
-		t[i] = thread(mainbase, i);
+		t[i] = thread(mainbase, i + 1);
 	}
 	for (int i = floor(NUMBER_OF_THREADS / num_threads)*num_threads; i < NUMBER_OF_THREADS; i++)
 	{
