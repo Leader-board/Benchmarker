@@ -196,6 +196,15 @@ int main()
 		for (int j = 0; j < num_threads; j++)
 		t[num_threads*i + j].join();
 	}
+	// handle the remaining (T - 4N) threads
+	for (int i = floor(NUMBER_OF_THREADS / num_threads)*num_threads; i < NUMBER_OF_THREADS; i++)
+	{
+		t[i] = thread(mainbase, i);
+	}
+	for (int i = floor(NUMBER_OF_THREADS / num_threads)*num_threads; i < NUMBER_OF_THREADS; i++)
+	{
+		t[i].join();
+	}
 	// run the threads!
 	printresult(avg_stagetime, fin_score, 0);
 	auto end = chrono::high_resolution_clock::now();
