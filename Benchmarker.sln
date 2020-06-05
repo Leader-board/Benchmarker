@@ -23,7 +23,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bench_csharp_multithreaded"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "bench_python_multithreaded", "bench_python_multithreaded\bench_python_multithreaded.pyproj", "{EA0781FA-1D27-41A3-88D3-A3C44EB9970B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bench_csharp_netcore_multithreaded", "bench_csharp_netcore_multithreaded\bench_csharp_netcore_multithreaded.csproj", "{6DEDD7E1-2BFE-4082-9E05-332B03B3B1A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bench_csharp_netcore_multithreaded", "bench_csharp_netcore_multithreaded\bench_csharp_netcore_multithreaded.csproj", "{6DEDD7E1-2BFE-4082-9E05-332B03B3B1A2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bench_c++_mt_v2", "bench_c++_mt_v2\bench_c++_mt_v2.vcxproj", "{E9D245D0-DF84-4DD8-8281-67C4814DAD13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -233,6 +235,20 @@ Global
 		{6DEDD7E1-2BFE-4082-9E05-332B03B3B1A2}.Release|x64.Build.0 = Release|Any CPU
 		{6DEDD7E1-2BFE-4082-9E05-332B03B3B1A2}.Release|x86.ActiveCfg = Release|Any CPU
 		{6DEDD7E1-2BFE-4082-9E05-332B03B3B1A2}.Release|x86.Build.0 = Release|Any CPU
+		{E9D245D0-DF84-4DD8-8281-67C4814DAD13}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{E9D245D0-DF84-4DD8-8281-67C4814DAD13}.Debug|ARM.ActiveCfg = Debug|Win32
+		{E9D245D0-DF84-4DD8-8281-67C4814DAD13}.Debug|ARM64.ActiveCfg = Debug|Win32
+		{E9D245D0-DF84-4DD8-8281-67C4814DAD13}.Debug|x64.ActiveCfg = Debug|x64
+		{E9D245D0-DF84-4DD8-8281-67C4814DAD13}.Debug|x64.Build.0 = Debug|x64
+		{E9D245D0-DF84-4DD8-8281-67C4814DAD13}.Debug|x86.ActiveCfg = Debug|Win32
+		{E9D245D0-DF84-4DD8-8281-67C4814DAD13}.Debug|x86.Build.0 = Debug|Win32
+		{E9D245D0-DF84-4DD8-8281-67C4814DAD13}.Release|Any CPU.ActiveCfg = Release|Win32
+		{E9D245D0-DF84-4DD8-8281-67C4814DAD13}.Release|ARM.ActiveCfg = Release|Win32
+		{E9D245D0-DF84-4DD8-8281-67C4814DAD13}.Release|ARM64.ActiveCfg = Release|Win32
+		{E9D245D0-DF84-4DD8-8281-67C4814DAD13}.Release|x64.ActiveCfg = Release|x64
+		{E9D245D0-DF84-4DD8-8281-67C4814DAD13}.Release|x64.Build.0 = Release|x64
+		{E9D245D0-DF84-4DD8-8281-67C4814DAD13}.Release|x86.ActiveCfg = Release|Win32
+		{E9D245D0-DF84-4DD8-8281-67C4814DAD13}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
