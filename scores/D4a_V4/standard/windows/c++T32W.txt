@@ -1,0 +1,2701 @@
+Type 1 to start benchmarking.
+Note: 4 threads supported
+Enter number of threads to run program with
+4 % complete for thread 1
+Time taken for that stage:- 0.0017074 for thread 1
+Score obtained for that stage:- 1757.06 for thread 1
+4 % complete for thread 3
+Time taken for that stage:- 0.0017107 for thread 3
+Score obtained for that stage:- 1753.67 for thread 3
+4 % complete for thread 2
+Time taken for that stage:- 0.001739 for thread 2
+Score obtained for that stage:- 1725.13 for thread 2
+4 % complete for thread 4
+Time taken for that stage:- 0.0017399 for thread 4
+Score obtained for that stage:- 1724.24 for thread 4
+8 % complete for thread 3
+Time taken for that stage:- 0.0264 for thread 3
+Score obtained for that stage:- 1325.76 for thread 3
+8 % complete for thread 1
+Time taken for that stage:- 0.0264469 for thread 1
+Score obtained for that stage:- 1323.41 for thread 1
+8 % complete for thread 2
+Time taken for that stage:- 0.0263465 for thread 2
+Score obtained for that stage:- 1328.45 for thread 2
+8 % complete for thread 4
+Time taken for that stage:- 0.0263272 for thread 4
+Score obtained for that stage:- 1329.42 for thread 4
+12 % complete for thread 2
+Time taken for that stage:- 0.208388 for thread 2
+Score obtained for that stage:- 1310.05 for thread 2
+12 % complete for thread 1
+Time taken for that stage:- 0.209621 for thread 1
+Score obtained for that stage:- 1302.35 for thread 1
+12 % complete for thread 3
+Time taken for that stage:- 0.209837 for thread 3
+Score obtained for that stage:- 1301.01 for thread 3
+12 % complete for thread 4
+Time taken for that stage:- 0.212902 for thread 4
+Score obtained for that stage:- 1282.28 for thread 4
+4 % complete for thread 5
+Time taken for that stage:- 0.0016181 for thread 5
+Score obtained for that stage:- 1854.03 for thread 5
+8 % complete for thread 5
+Time taken for that stage:- 0.029654 for thread 5
+Score obtained for that stage:- 1180.28 for thread 5
+4 % complete for thread 6
+Time taken for that stage:- 0.0020674 for thread 6
+Score obtained for that stage:- 1451.1 for thread 6
+8 % complete for thread 6
+Time taken for that stage:- 0.0261637 for thread 6
+Score obtained for that stage:- 1337.73 for thread 6
+12 % complete for thread 5
+Time taken for that stage:- 0.402278 for thread 5
+Score obtained for that stage:- 678.635 for thread 5
+12 % complete for thread 6
+Time taken for that stage:- 0.238592 for thread 6
+Score obtained for that stage:- 1144.21 for thread 6
+4 % complete for thread 7
+Time taken for that stage:- 0.0037753 for thread 7
+Score obtained for that stage:- 794.639 for thread 7
+8 % complete for thread 7
+Time taken for that stage:- 0.0261646 for thread 7
+Score obtained for that stage:- 1337.69 for thread 7
+4 % complete for thread 8
+Time taken for that stage:- 0.0017447 for thread 8
+Score obtained for that stage:- 1719.49 for thread 8
+8 % complete for thread 8
+Time taken for that stage:- 0.0263277 for thread 8
+Score obtained for that stage:- 1329.4 for thread 8
+12 % complete for thread 7
+Time taken for that stage:- 0.412484 for thread 7
+Score obtained for that stage:- 661.845 for thread 7
+12 % complete for thread 8
+Time taken for that stage:- 0.411838 for thread 8
+Score obtained for that stage:- 662.882 for thread 8
+4 % complete for thread 9
+Time taken for that stage:- 0.0017276 for thread 9
+Score obtained for that stage:- 1736.51 for thread 9
+8 % complete for thread 9
+Time taken for that stage:- 0.0263393 for thread 9
+Score obtained for that stage:- 1328.81 for thread 9
+16 % complete for thread 3
+Time taken for that stage:- 2.49605 for thread 3
+Score obtained for that stage:- 891.409 for thread 3
+12 % complete for thread 9
+Time taken for that stage:- 0.412464 for thread 9
+Score obtained for that stage:- 661.876 for thread 9
+16 % complete for thread 4
+Time taken for that stage:- 2.67637 for thread 4
+Score obtained for that stage:- 831.35 for thread 4
+16 % complete for thread 2
+Time taken for that stage:- 2.68254 for thread 2
+Score obtained for that stage:- 829.437 for thread 2
+4 % complete for thread 10
+Time taken for that stage:- 0.0017371 for thread 10
+Score obtained for that stage:- 1727.02 for thread 10
+8 % complete for thread 10
+Time taken for that stage:- 0.0265077 for thread 10
+Score obtained for that stage:- 1320.37 for thread 10
+16 % complete for thread 1
+Time taken for that stage:- 3.09917 for thread 1
+Score obtained for that stage:- 717.935 for thread 1
+12 % complete for thread 10
+Time taken for that stage:- 0.41641 for thread 10
+Score obtained for that stage:- 655.604 for thread 10
+4 % complete for thread 11
+Time taken for that stage:- 0.0011753 for thread 11
+Score obtained for that stage:- 2552.54 for thread 11
+8 % complete for thread 11
+Time taken for that stage:- 0.0229371 for thread 11
+Score obtained for that stage:- 1525.91 for thread 11
+16 % complete for thread 5
+Time taken for that stage:- 3.26424 for thread 5
+Score obtained for that stage:- 681.629 for thread 5
+12 % complete for thread 11
+Time taken for that stage:- 0.615328 for thread 11
+Score obtained for that stage:- 443.666 for thread 11
+4 % complete for thread 12
+Time taken for that stage:- 0.001746 for thread 12
+Score obtained for that stage:- 1718.21 for thread 12
+8 % complete for thread 12
+Time taken for that stage:- 0.024922 for thread 12
+Score obtained for that stage:- 1404.38 for thread 12
+16 % complete for thread 6
+Time taken for that stage:- 3.90289 for thread 6
+Score obtained for that stage:- 570.09 for thread 6
+12 % complete for thread 12
+Time taken for that stage:- 0.616073 for thread 12
+Score obtained for that stage:- 443.13 for thread 12
+4 % complete for thread 13
+Time taken for that stage:- 0.0017304 for thread 13
+Score obtained for that stage:- 1733.7 for thread 13
+8 % complete for thread 13
+Time taken for that stage:- 0.0264108 for thread 13
+Score obtained for that stage:- 1325.22 for thread 13
+16 % complete for thread 7
+Time taken for that stage:- 4.10756 for thread 7
+Score obtained for that stage:- 541.684 for thread 7
+12 % complete for thread 13
+Time taken for that stage:- 0.646638 for thread 13
+Score obtained for that stage:- 422.184 for thread 13
+4 % complete for thread 14
+Time taken for that stage:- 0.0017407 for thread 14
+Score obtained for that stage:- 1723.44 for thread 14
+8 % complete for thread 14
+Time taken for that stage:- 0.0266096 for thread 14
+Score obtained for that stage:- 1315.31 for thread 14
+16 % complete for thread 8
+Time taken for that stage:- 4.71682 for thread 8
+Score obtained for that stage:- 471.717 for thread 8
+12 % complete for thread 14
+Time taken for that stage:- 0.647683 for thread 14
+Score obtained for that stage:- 421.503 for thread 14
+16 % complete for thread 9
+Time taken for that stage:- 4.92112 for thread 9
+Score obtained for that stage:- 452.133 for thread 9
+4 % complete for thread 15
+Time taken for that stage:- 0.0028407 for thread 15
+Score obtained for that stage:- 1056.08 for thread 15
+8 % complete for thread 15
+Time taken for that stage:- 0.0230316 for thread 15
+Score obtained for that stage:- 1519.65 for thread 15
+12 % complete for thread 15
+Time taken for that stage:- 0.788235 for thread 15
+Score obtained for that stage:- 346.344 for thread 15
+16 % complete for thread 10
+Time taken for that stage:- 5.33227 for thread 10
+Score obtained for that stage:- 417.271 for thread 10
+4 % complete for thread 16
+Time taken for that stage:- 0.0017462 for thread 16
+Score obtained for that stage:- 1718.02 for thread 16
+8 % complete for thread 16
+Time taken for that stage:- 0.0264322 for thread 16
+Score obtained for that stage:- 1324.14 for thread 16
+12 % complete for thread 16
+Time taken for that stage:- 0.819023 for thread 16
+Score obtained for that stage:- 333.324 for thread 16
+16 % complete for thread 11
+Time taken for that stage:- 5.71982 for thread 11
+Score obtained for that stage:- 388.998 for thread 11
+4 % complete for thread 17
+Time taken for that stage:- 0.0017421 for thread 17
+Score obtained for that stage:- 1722.06 for thread 17
+8 % complete for thread 17
+Time taken for that stage:- 0.0265502 for thread 17
+Score obtained for that stage:- 1318.26 for thread 17
+12 % complete for thread 17
+Time taken for that stage:- 0.834659 for thread 17
+Score obtained for that stage:- 327.079 for thread 17
+16 % complete for thread 12
+Time taken for that stage:- 5.93662 for thread 12
+Score obtained for that stage:- 374.792 for thread 12
+4 % complete for thread 18
+Time taken for that stage:- 0.00173 for thread 18
+Score obtained for that stage:- 1734.1 for thread 18
+8 % complete for thread 18
+Time taken for that stage:- 0.0266216 for thread 18
+Score obtained for that stage:- 1314.72 for thread 18
+12 % complete for thread 18
+Time taken for that stage:- 0.834667 for thread 18
+Score obtained for that stage:- 327.077 for thread 18
+16 % complete for thread 13
+Time taken for that stage:- 6.55772 for thread 13
+Score obtained for that stage:- 339.295 for thread 13
+4 % complete for thread 19
+Time taken for that stage:- 0.0017574 for thread 19
+Score obtained for that stage:- 1707.07 for thread 19
+8 % complete for thread 19
+Time taken for that stage:- 0.0266087 for thread 19
+Score obtained for that stage:- 1315.36 for thread 19
+12 % complete for thread 19
+Time taken for that stage:- 1.00678 for thread 19
+Score obtained for that stage:- 271.162 for thread 19
+16 % complete for thread 14
+Time taken for that stage:- 6.95505 for thread 14
+Score obtained for that stage:- 319.912 for thread 14
+4 % complete for thread 20
+Time taken for that stage:- 0.0017392 for thread 20
+Score obtained for that stage:- 1724.93 for thread 20
+8 % complete for thread 20
+Time taken for that stage:- 0.0265319 for thread 20
+Score obtained for that stage:- 1319.17 for thread 20
+16 % complete for thread 15
+Time taken for that stage:- 7.16732 for thread 15
+Score obtained for that stage:- 310.437 for thread 15
+12 % complete for thread 20
+Time taken for that stage:- 1.02232 for thread 20
+Score obtained for that stage:- 267.039 for thread 20
+4 % complete for thread 21
+Time taken for that stage:- 0.0017455 for thread 21
+Score obtained for that stage:- 1718.71 for thread 21
+8 % complete for thread 21
+Time taken for that stage:- 0.0264934 for thread 21
+Score obtained for that stage:- 1321.08 for thread 21
+16 % complete for thread 16
+Time taken for that stage:- 7.70122 for thread 16
+Score obtained for that stage:- 288.915 for thread 16
+4 % complete for thread 22
+Time taken for that stage:- 0.001741 for thread 22
+Score obtained for that stage:- 1723.15 for thread 22
+8 % complete for thread 22
+Time taken for that stage:- 0.0264512 for thread 22
+Score obtained for that stage:- 1323.19 for thread 22
+12 % complete for thread 21
+Time taken for that stage:- 1.06903 for thread 21
+Score obtained for that stage:- 255.371 for thread 21
+12 % complete for thread 22
+Time taken for that stage:- 1.06896 for thread 22
+Score obtained for that stage:- 255.389 for thread 22
+16 % complete for thread 17
+Time taken for that stage:- 8.15539 for thread 17
+Score obtained for that stage:- 272.826 for thread 17
+4 % complete for thread 24
+Time taken for that stage:- 0.0017461 for thread 24
+Score obtained for that stage:- 1718.11 for thread 24
+8 % complete for thread 24
+Time taken for that stage:- 0.0267263 for thread 24
+Score obtained for that stage:- 1309.57 for thread 24
+12 % complete for thread 24
+Time taken for that stage:- 1.22525 for thread 24
+Score obtained for that stage:- 222.812 for thread 24
+16 % complete for thread 18
+Time taken for that stage:- 8.76015 for thread 18
+Score obtained for that stage:- 253.991 for thread 18
+4 % complete for thread 23
+Time taken for that stage:- 0.0016487 for thread 23
+Score obtained for that stage:- 1819.62 for thread 23
+8 % complete for thread 23
+Time taken for that stage:- 0.0265304 for thread 23
+Score obtained for that stage:- 1319.24 for thread 23
+12 % complete for thread 23
+Time taken for that stage:- 1.2255 for thread 23
+Score obtained for that stage:- 222.767 for thread 23
+16 % complete for thread 19
+Time taken for that stage:- 9.0087 for thread 19
+Score obtained for that stage:- 246.983 for thread 19
+4 % complete for thread 26
+Time taken for that stage:- 0.0017392 for thread 26
+Score obtained for that stage:- 1724.93 for thread 26
+8 % complete for thread 26
+Time taken for that stage:- 0.0263766 for thread 26
+Score obtained for that stage:- 1326.93 for thread 26
+12 % complete for thread 26
+Time taken for that stage:- 1.25757 for thread 26
+Score obtained for that stage:- 217.085 for thread 26
+16 % complete for thread 20
+Time taken for that stage:- 9.57217 for thread 20
+Score obtained for that stage:- 232.445 for thread 20
+4 % complete for thread 25
+Time taken for that stage:- 0.0017386 for thread 25
+Score obtained for that stage:- 1725.53 for thread 25
+8 % complete for thread 25
+Time taken for that stage:- 0.026452 for thread 25
+Score obtained for that stage:- 1323.15 for thread 25
+12 % complete for thread 25
+Time taken for that stage:- 1.27234 for thread 25
+Score obtained for that stage:- 214.565 for thread 25
+16 % complete for thread 21
+Time taken for that stage:- 9.7922 for thread 21
+Score obtained for that stage:- 227.222 for thread 21
+4 % complete for thread 28
+Time taken for that stage:- 0.0017868 for thread 28
+Score obtained for that stage:- 1678.98 for thread 28
+8 % complete for thread 28
+Time taken for that stage:- 0.0263842 for thread 28
+Score obtained for that stage:- 1326.55 for thread 28
+20 % complete for thread 3
+Time taken for that stage:- 25.6958 for thread 3
+Score obtained for that stage:- 293.277 for thread 3
+24 % complete for thread 3
+Time taken for that stage:- 0.0017417 for thread 3
+Score obtained for that stage:- 1722.46 for thread 3
+28 % complete for thread 3
+Time taken for that stage:- 0.0266219 for thread 3
+Score obtained for that stage:- 1314.71 for thread 3
+16 % complete for thread 22
+Time taken for that stage:- 10.0117 for thread 22
+Score obtained for that stage:- 222.241 for thread 22
+20 % complete for thread 2
+Time taken for that stage:- 26.1213 for thread 2
+Score obtained for that stage:- 288.5 for thread 2
+24 % complete for thread 2
+Time taken for that stage:- 0.0017437 for thread 2
+Score obtained for that stage:- 1720.48 for thread 2
+28 % complete for thread 2
+Time taken for that stage:- 0.0264729 for thread 2
+Score obtained for that stage:- 1322.11 for thread 2
+20 % complete for thread 4
+Time taken for that stage:- 26.3442 for thread 4
+Score obtained for that stage:- 286.059 for thread 4
+24 % complete for thread 4
+Time taken for that stage:- 0.0017386 for thread 4
+Score obtained for that stage:- 1725.53 for thread 4
+28 % complete for thread 4
+Time taken for that stage:- 0.0264471 for thread 4
+Score obtained for that stage:- 1323.4 for thread 4
+32 % complete for thread 3
+Time taken for that stage:- 1.27228 for thread 3
+Score obtained for that stage:- 214.576 for thread 3
+12 % complete for thread 28
+Time taken for that stage:- 1.39733 for thread 28
+Score obtained for that stage:- 195.372 for thread 28
+20 % complete for thread 1
+Time taken for that stage:- 26.5122 for thread 1
+Score obtained for that stage:- 284.247 for thread 1
+24 % complete for thread 1
+Time taken for that stage:- 0.0017376 for thread 1
+Score obtained for that stage:- 1726.52 for thread 1
+28 % complete for thread 1
+Time taken for that stage:- 0.0263991 for thread 1
+Score obtained for that stage:- 1325.8 for thread 1
+32 % complete for thread 2
+Time taken for that stage:- 1.3974 for thread 2
+Score obtained for that stage:- 195.363 for thread 2
+32 % complete for thread 4
+Time taken for that stage:- 1.3967 for thread 4
+Score obtained for that stage:- 195.461 for thread 4
+4 % complete for thread 30
+Time taken for that stage:- 0.0017375 for thread 30
+Score obtained for that stage:- 1726.62 for thread 30
+8 % complete for thread 30
+Time taken for that stage:- 0.0264471 for thread 30
+Score obtained for that stage:- 1323.4 for thread 30
+32 % complete for thread 1
+Time taken for that stage:- 1.42825 for thread 1
+Score obtained for that stage:- 191.143 for thread 1
+16 % complete for thread 24
+Time taken for that stage:- 10.403 for thread 24
+Score obtained for that stage:- 213.88 for thread 24
+20 % complete for thread 5
+Time taken for that stage:- 27.7762 for thread 5
+Score obtained for that stage:- 271.311 for thread 5
+24 % complete for thread 5
+Time taken for that stage:- 0.0017543 for thread 5
+Score obtained for that stage:- 1710.08 for thread 5
+28 % complete for thread 5
+Time taken for that stage:- 0.0265896 for thread 5
+Score obtained for that stage:- 1316.3 for thread 5
+12 % complete for thread 30
+Time taken for that stage:- 1.42812 for thread 30
+Score obtained for that stage:- 191.161 for thread 30
+4 % complete for thread 27
+Time taken for that stage:- 0.0017697 for thread 27
+Score obtained for that stage:- 1695.2 for thread 27
+8 % complete for thread 27
+Time taken for that stage:- 0.0264273 for thread 27
+Score obtained for that stage:- 1324.39 for thread 27
+32 % complete for thread 5
+Time taken for that stage:- 1.44433 for thread 5
+Score obtained for that stage:- 189.015 for thread 5
+16 % complete for thread 23
+Time taken for that stage:- 10.979 for thread 23
+Score obtained for that stage:- 202.66 for thread 23
+20 % complete for thread 6
+Time taken for that stage:- 29.3546 for thread 6
+Score obtained for that stage:- 256.723 for thread 6
+24 % complete for thread 6
+Time taken for that stage:- 0.0017368 for thread 6
+Score obtained for that stage:- 1727.31 for thread 6
+28 % complete for thread 6
+Time taken for that stage:- 0.0264817 for thread 6
+Score obtained for that stage:- 1321.67 for thread 6
+12 % complete for thread 27
+Time taken for that stage:- 1.42851 for thread 27
+Score obtained for that stage:- 191.108 for thread 27
+4 % complete for thread 32
+Time taken for that stage:- 0.0016123 for thread 32
+Score obtained for that stage:- 1860.7 for thread 32
+32 % complete for thread 6
+Time taken for that stage:- 1.42917 for thread 6
+Score obtained for that stage:- 191.02 for thread 6
+8 % complete for thread 32
+Time taken for that stage:- 0.0264356 for thread 32
+Score obtained for that stage:- 1323.97 for thread 32
+20 % complete for thread 7
+Time taken for that stage:- 30.5859 for thread 7
+Score obtained for that stage:- 246.388 for thread 7
+24 % complete for thread 7
+Time taken for that stage:- 0.0017368 for thread 7
+Score obtained for that stage:- 1727.31 for thread 7
+28 % complete for thread 7
+Time taken for that stage:- 0.0264728 for thread 7
+Score obtained for that stage:- 1322.11 for thread 7
+12 % complete for thread 32
+Time taken for that stage:- 1.53695 for thread 32
+Score obtained for that stage:- 177.624 for thread 32
+16 % complete for thread 26
+Time taken for that stage:- 12.4497 for thread 26
+Score obtained for that stage:- 178.72 for thread 26
+32 % complete for thread 7
+Time taken for that stage:- 1.49028 for thread 7
+Score obtained for that stage:- 183.187 for thread 7
+4 % complete for thread 29
+Time taken for that stage:- 0.0017405 for thread 29
+Score obtained for that stage:- 1723.64 for thread 29
+8 % complete for thread 29
+Time taken for that stage:- 0.0264428 for thread 29
+Score obtained for that stage:- 1323.61 for thread 29
+20 % complete for thread 8
+Time taken for that stage:- 32.0009 for thread 8
+Score obtained for that stage:- 235.493 for thread 8
+24 % complete for thread 8
+Time taken for that stage:- 0.0017383 for thread 8
+Score obtained for that stage:- 1725.82 for thread 8
+28 % complete for thread 8
+Time taken for that stage:- 0.0263725 for thread 8
+Score obtained for that stage:- 1327.14 for thread 8
+16 % complete for thread 25
+Time taken for that stage:- 11.6096 for thread 25
+Score obtained for that stage:- 191.652 for thread 25
+20 % complete for thread 9
+Time taken for that stage:- 32.4106 for thread 9
+Score obtained for that stage:- 232.517 for thread 9
+24 % complete for thread 9
+Time taken for that stage:- 0.001757 for thread 9
+Score obtained for that stage:- 1707.46 for thread 9
+28 % complete for thread 9
+Time taken for that stage:- 0.0265448 for thread 9
+Score obtained for that stage:- 1318.53 for thread 9
+12 % complete for thread 29
+Time taken for that stage:- 1.60647 for thread 29
+Score obtained for that stage:- 169.938 for thread 29
+32 % complete for thread 8
+Time taken for that stage:- 1.63135 for thread 8
+Score obtained for that stage:- 167.346 for thread 8
+4 % complete for thread 31
+Time taken for that stage:- 0.001739 for thread 31
+Score obtained for that stage:- 1725.13 for thread 31
+8 % complete for thread 31
+Time taken for that stage:- 0.0263435 for thread 31
+Score obtained for that stage:- 1328.6 for thread 31
+36 % complete for thread 3
+Time taken for that stage:- 12.028 for thread 3
+Score obtained for that stage:- 184.985 for thread 3
+32 % complete for thread 9
+Time taken for that stage:- 1.63183 for thread 9
+Score obtained for that stage:- 167.296 for thread 9
+16 % complete for thread 28
+Time taken for that stage:- 12.0583 for thread 28
+Score obtained for that stage:- 184.52 for thread 28
+36 % complete for thread 2
+Time taken for that stage:- 12.2629 for thread 2
+Score obtained for that stage:- 181.442 for thread 2
+36 % complete for thread 4
+Time taken for that stage:- 12.261 for thread 4
+Score obtained for that stage:- 181.47 for thread 4
+12 % complete for thread 31
+Time taken for that stage:- 1.6315 for thread 31
+Score obtained for that stage:- 167.331 for thread 31
+36 % complete for thread 1
+Time taken for that stage:- 12.1998 for thread 1
+Score obtained for that stage:- 182.38 for thread 1
+16 % complete for thread 30
+Time taken for that stage:- 12.2151 for thread 30
+Score obtained for that stage:- 182.151 for thread 30
+20 % complete for thread 10
+Time taken for that stage:- 35.6252 for thread 10
+Score obtained for that stage:- 211.536 for thread 10
+24 % complete for thread 10
+Time taken for that stage:- 0.0017379 for thread 10
+Score obtained for that stage:- 1726.22 for thread 10
+28 % complete for thread 10
+Time taken for that stage:- 0.0265221 for thread 10
+Score obtained for that stage:- 1319.65 for thread 10
+36 % complete for thread 5
+Time taken for that stage:- 12.417 for thread 5
+Score obtained for that stage:- 179.19 for thread 5
+32 % complete for thread 10
+Time taken for that stage:- 1.63435 for thread 10
+Score obtained for that stage:- 167.038 for thread 10
+20 % complete for thread 11
+Time taken for that stage:- 37.0675 for thread 11
+Score obtained for that stage:- 203.305 for thread 11
+24 % complete for thread 11
+Time taken for that stage:- 0.0017365 for thread 11
+Score obtained for that stage:- 1727.61 for thread 11
+28 % complete for thread 11
+Time taken for that stage:- 0.0264602 for thread 11
+Score obtained for that stage:- 1322.74 for thread 11
+16 % complete for thread 27
+Time taken for that stage:- 12.6371 for thread 27
+Score obtained for that stage:- 176.068 for thread 27
+20 % complete for thread 12
+Time taken for that stage:- 36.6433 for thread 12
+Score obtained for that stage:- 205.658 for thread 12
+24 % complete for thread 12
+Time taken for that stage:- 0.0017991 for thread 12
+Score obtained for that stage:- 1667.5 for thread 12
+28 % complete for thread 12
+Time taken for that stage:- 0.0265317 for thread 12
+Score obtained for that stage:- 1319.18 for thread 12
+36 % complete for thread 6
+Time taken for that stage:- 12.6076 for thread 6
+Score obtained for that stage:- 176.481 for thread 6
+32 % complete for thread 11
+Time taken for that stage:- 1.63167 for thread 11
+Score obtained for that stage:- 167.313 for thread 11
+32 % complete for thread 12
+Time taken for that stage:- 1.63134 for thread 12
+Score obtained for that stage:- 167.347 for thread 12
+16 % complete for thread 32
+Time taken for that stage:- 12.8408 for thread 32
+Score obtained for that stage:- 173.276 for thread 32
+20 % complete for thread 13
+Time taken for that stage:- 37.8693 for thread 13
+Score obtained for that stage:- 199 for thread 13
+24 % complete for thread 13
+Time taken for that stage:- 0.0017667 for thread 13
+Score obtained for that stage:- 1698.08 for thread 13
+28 % complete for thread 13
+Time taken for that stage:- 0.0267066 for thread 13
+Score obtained for that stage:- 1310.54 for thread 13
+36 % complete for thread 7
+Time taken for that stage:- 12.95 for thread 7
+Score obtained for that stage:- 171.815 for thread 7
+16 % complete for thread 29
+Time taken for that stage:- 13.0452 for thread 29
+Score obtained for that stage:- 170.56 for thread 29
+36 % complete for thread 8
+Time taken for that stage:- 12.8414 for thread 8
+Score obtained for that stage:- 173.268 for thread 8
+32 % complete for thread 13
+Time taken for that stage:- 3.03802 for thread 13
+Score obtained for that stage:- 89.8612 for thread 13
+20 % complete for thread 14
+Time taken for that stage:- 40.107 for thread 14
+Score obtained for that stage:- 187.897 for thread 14
+24 % complete for thread 14
+Time taken for that stage:- 0.0017382 for thread 14
+Score obtained for that stage:- 1725.92 for thread 14
+28 % complete for thread 14
+Time taken for that stage:- 0.0264511 for thread 14
+Score obtained for that stage:- 1323.2 for thread 14
+36 % complete for thread 9
+Time taken for that stage:- 13.0135 for thread 9
+Score obtained for that stage:- 170.976 for thread 9
+20 % complete for thread 15
+Time taken for that stage:- 39.5015 for thread 15
+Score obtained for that stage:- 190.778 for thread 15
+24 % complete for thread 15
+Time taken for that stage:- 0.0017428 for thread 15
+Score obtained for that stage:- 1721.37 for thread 15
+28 % complete for thread 15
+Time taken for that stage:- 0.0264672 for thread 15
+Score obtained for that stage:- 1322.39 for thread 15
+32 % complete for thread 14
+Time taken for that stage:- 1.63128 for thread 14
+Score obtained for that stage:- 167.353 for thread 14
+16 % complete for thread 31
+Time taken for that stage:- 13.0098 for thread 31
+Score obtained for that stage:- 171.024 for thread 31
+32 % complete for thread 15
+Time taken for that stage:- 1.63208 for thread 15
+Score obtained for that stage:- 167.271 for thread 15
+20 % complete for thread 16
+Time taken for that stage:- 40.5455 for thread 16
+Score obtained for that stage:- 185.865 for thread 16
+24 % complete for thread 16
+Time taken for that stage:- 0.0017437 for thread 16
+Score obtained for that stage:- 1720.48 for thread 16
+28 % complete for thread 16
+Time taken for that stage:- 0.0265276 for thread 16
+Score obtained for that stage:- 1319.38 for thread 16
+36 % complete for thread 10
+Time taken for that stage:- 13.0281 for thread 10
+Score obtained for that stage:- 170.785 for thread 10
+32 % complete for thread 16
+Time taken for that stage:- 1.63083 for thread 16
+Score obtained for that stage:- 167.399 for thread 16
+20 % complete for thread 17
+Time taken for that stage:- 41.329 for thread 17
+Score obtained for that stage:- 182.342 for thread 17
+24 % complete for thread 17
+Time taken for that stage:- 0.0017362 for thread 17
+Score obtained for that stage:- 1727.91 for thread 17
+28 % complete for thread 17
+Time taken for that stage:- 0.0263893 for thread 17
+Score obtained for that stage:- 1326.3 for thread 17
+36 % complete for thread 11
+Time taken for that stage:- 13.0432 for thread 11
+Score obtained for that stage:- 170.587 for thread 11
+32 % complete for thread 17
+Time taken for that stage:- 1.62756 for thread 17
+Score obtained for that stage:- 167.736 for thread 17
+36 % complete for thread 12
+Time taken for that stage:- 12.8236 for thread 12
+Score obtained for that stage:- 173.509 for thread 12
+20 % complete for thread 18
+Time taken for that stage:- 41.7334 for thread 18
+Score obtained for that stage:- 180.575 for thread 18
+24 % complete for thread 18
+Time taken for that stage:- 0.0017423 for thread 18
+Score obtained for that stage:- 1721.86 for thread 18
+28 % complete for thread 18
+Time taken for that stage:- 0.0262955 for thread 18
+Score obtained for that stage:- 1331.03 for thread 18
+32 % complete for thread 18
+Time taken for that stage:- 1.63108 for thread 18
+Score obtained for that stage:- 167.373 for thread 18
+20 % complete for thread 19
+Time taken for that stage:- 42.9173 for thread 19
+Score obtained for that stage:- 175.594 for thread 19
+24 % complete for thread 19
+Time taken for that stage:- 0.0017691 for thread 19
+Score obtained for that stage:- 1695.78 for thread 19
+28 % complete for thread 19
+Time taken for that stage:- 0.0264806 for thread 19
+Score obtained for that stage:- 1321.72 for thread 19
+36 % complete for thread 13
+Time taken for that stage:- 12.8408 for thread 13
+Score obtained for that stage:- 173.275 for thread 13
+32 % complete for thread 19
+Time taken for that stage:- 1.61544 for thread 19
+Score obtained for that stage:- 168.994 for thread 19
+20 % complete for thread 20
+Time taken for that stage:- 43.1374 for thread 20
+Score obtained for that stage:- 174.698 for thread 20
+24 % complete for thread 20
+Time taken for that stage:- 0.0017445 for thread 20
+Score obtained for that stage:- 1719.69 for thread 20
+28 % complete for thread 20
+Time taken for that stage:- 0.026497 for thread 20
+Score obtained for that stage:- 1320.9 for thread 20
+36 % complete for thread 14
+Time taken for that stage:- 13.0302 for thread 14
+Score obtained for that stage:- 170.757 for thread 14
+36 % complete for thread 15
+Time taken for that stage:- 12.8085 for thread 15
+Score obtained for that stage:- 173.713 for thread 15
+32 % complete for thread 20
+Time taken for that stage:- 1.61593 for thread 20
+Score obtained for that stage:- 168.943 for thread 20
+20 % complete for thread 21
+Time taken for that stage:- 43.9242 for thread 21
+Score obtained for that stage:- 171.568 for thread 21
+24 % complete for thread 21
+Time taken for that stage:- 0.0017413 for thread 21
+Score obtained for that stage:- 1722.85 for thread 21
+28 % complete for thread 21
+Time taken for that stage:- 0.0264148 for thread 21
+Score obtained for that stage:- 1325.01 for thread 21
+36 % complete for thread 16
+Time taken for that stage:- 12.8139 for thread 16
+Score obtained for that stage:- 173.64 for thread 16
+20 % complete for thread 22
+Time taken for that stage:- 44.2879 for thread 22
+Score obtained for that stage:- 170.159 for thread 22
+24 % complete for thread 22
+Time taken for that stage:- 0.0017388 for thread 22
+Score obtained for that stage:- 1725.33 for thread 22
+28 % complete for thread 22
+Time taken for that stage:- 0.0265291 for thread 22
+Score obtained for that stage:- 1319.31 for thread 22
+32 % complete for thread 21
+Time taken for that stage:- 1.63075 for thread 21
+Score obtained for that stage:- 167.408 for thread 21
+32 % complete for thread 22
+Time taken for that stage:- 1.61616 for thread 22
+Score obtained for that stage:- 168.919 for thread 22
+36 % complete for thread 17
+Time taken for that stage:- 12.9983 for thread 17
+Score obtained for that stage:- 171.176 for thread 17
+20 % complete for thread 24
+Time taken for that stage:- 44.5123 for thread 24
+Score obtained for that stage:- 169.301 for thread 24
+24 % complete for thread 24
+Time taken for that stage:- 0.0017397 for thread 24
+Score obtained for that stage:- 1724.44 for thread 24
+28 % complete for thread 24
+Time taken for that stage:- 0.0264401 for thread 24
+Score obtained for that stage:- 1323.75 for thread 24
+32 % complete for thread 24
+Time taken for that stage:- 1.63111 for thread 24
+Score obtained for that stage:- 167.371 for thread 24
+36 % complete for thread 18
+Time taken for that stage:- 12.9788 for thread 18
+Score obtained for that stage:- 171.434 for thread 18
+20 % complete for thread 23
+Time taken for that stage:- 44.7478 for thread 23
+Score obtained for that stage:- 168.41 for thread 23
+24 % complete for thread 23
+Time taken for that stage:- 0.0017419 for thread 23
+Score obtained for that stage:- 1722.26 for thread 23
+28 % complete for thread 23
+Time taken for that stage:- 0.0263366 for thread 23
+Score obtained for that stage:- 1328.95 for thread 23
+32 % complete for thread 23
+Time taken for that stage:- 1.63064 for thread 23
+Score obtained for that stage:- 167.419 for thread 23
+36 % complete for thread 19
+Time taken for that stage:- 13.0143 for thread 19
+Score obtained for that stage:- 170.966 for thread 19
+20 % complete for thread 26
+Time taken for that stage:- 44.9217 for thread 26
+Score obtained for that stage:- 167.759 for thread 26
+24 % complete for thread 26
+Time taken for that stage:- 0.0017427 for thread 26
+Score obtained for that stage:- 1721.47 for thread 26
+28 % complete for thread 26
+Time taken for that stage:- 0.0265719 for thread 26
+Score obtained for that stage:- 1317.18 for thread 26
+36 % complete for thread 20
+Time taken for that stage:- 12.998 for thread 20
+Score obtained for that stage:- 171.18 for thread 20
+32 % complete for thread 26
+Time taken for that stage:- 1.63151 for thread 26
+Score obtained for that stage:- 167.329 for thread 26
+20 % complete for thread 25
+Time taken for that stage:- 45.3682 for thread 25
+Score obtained for that stage:- 166.107 for thread 25
+24 % complete for thread 25
+Time taken for that stage:- 0.0017417 for thread 25
+Score obtained for that stage:- 1722.46 for thread 25
+28 % complete for thread 25
+Time taken for that stage:- 0.0265301 for thread 25
+Score obtained for that stage:- 1319.26 for thread 25
+32 % complete for thread 25
+Time taken for that stage:- 1.60037 for thread 25
+Score obtained for that stage:- 170.585 for thread 25
+36 % complete for thread 21
+Time taken for that stage:- 12.8574 for thread 21
+Score obtained for that stage:- 173.052 for thread 21
+20 % complete for thread 28
+Time taken for that stage:- 44.9948 for thread 28
+Score obtained for that stage:- 167.486 for thread 28
+24 % complete for thread 28
+Time taken for that stage:- 0.0017395 for thread 28
+Score obtained for that stage:- 1724.63 for thread 28
+28 % complete for thread 28
+Time taken for that stage:- 0.0265955 for thread 28
+Score obtained for that stage:- 1316.01 for thread 28
+40 % complete for thread 3
+Time taken for that stage:- 45.3008 for thread 3
+Score obtained for that stage:- 166.355 for thread 3
+44 % complete for thread 3
+Time taken for that stage:- 0.001741 for thread 3
+Score obtained for that stage:- 1723.15 for thread 3
+48 % complete for thread 3
+Time taken for that stage:- 0.0265852 for thread 3
+Score obtained for that stage:- 1316.52 for thread 3
+36 % complete for thread 22
+Time taken for that stage:- 13.0504 for thread 22
+Score obtained for that stage:- 170.493 for thread 22
+40 % complete for thread 2
+Time taken for that stage:- 45.3379 for thread 2
+Score obtained for that stage:- 166.219 for thread 2
+44 % complete for thread 2
+Time taken for that stage:- 0.0017356 for thread 2
+Score obtained for that stage:- 1728.51 for thread 2
+48 % complete for thread 2
+Time taken for that stage:- 0.0265685 for thread 2
+Score obtained for that stage:- 1317.35 for thread 2
+40 % complete for thread 4
+Time taken for that stage:- 45.3075 for thread 4
+Score obtained for that stage:- 166.33 for thread 4
+44 % complete for thread 4
+Time taken for that stage:- 0.0017363 for thread 4
+Score obtained for that stage:- 1727.81 for thread 4
+48 % complete for thread 4
+Time taken for that stage:- 0.0264732 for thread 4
+Score obtained for that stage:- 1322.09 for thread 4
+32 % complete for thread 28
+Time taken for that stage:- 1.61614 for thread 28
+Score obtained for that stage:- 168.921 for thread 28
+40 % complete for thread 1
+Time taken for that stage:- 45.1786 for thread 1
+Score obtained for that stage:- 166.805 for thread 1
+44 % complete for thread 1
+Time taken for that stage:- 0.0017303 for thread 1
+Score obtained for that stage:- 1733.8 for thread 1
+48 % complete for thread 1
+Time taken for that stage:- 0.0262896 for thread 1
+Score obtained for that stage:- 1331.32 for thread 1
+52 % complete for thread 3
+Time taken for that stage:- 1.63095 for thread 3
+Score obtained for that stage:- 167.387 for thread 3
+20 % complete for thread 30
+Time taken for that stage:- 44.9921 for thread 30
+Score obtained for that stage:- 167.496 for thread 30
+24 % complete for thread 30
+Time taken for that stage:- 0.0017459 for thread 30
+Score obtained for that stage:- 1718.31 for thread 30
+28 % complete for thread 30
+Time taken for that stage:- 0.0266398 for thread 30
+Score obtained for that stage:- 1313.82 for thread 30
+52 % complete for thread 2
+Time taken for that stage:- 1.63178 for thread 2
+Score obtained for that stage:- 167.302 for thread 2
+52 % complete for thread 4
+Time taken for that stage:- 1.63127 for thread 4
+Score obtained for that stage:- 167.354 for thread 4
+52 % complete for thread 1
+Time taken for that stage:- 1.63186 for thread 1
+Score obtained for that stage:- 167.293 for thread 1
+36 % complete for thread 24
+Time taken for that stage:- 13.0211 for thread 24
+Score obtained for that stage:- 170.876 for thread 24
+32 % complete for thread 30
+Time taken for that stage:- 1.63183 for thread 30
+Score obtained for that stage:- 167.297 for thread 30
+40 % complete for thread 5
+Time taken for that stage:- 45.3115 for thread 5
+Score obtained for that stage:- 166.315 for thread 5
+44 % complete for thread 5
+Time taken for that stage:- 0.0017395 for thread 5
+Score obtained for that stage:- 1724.63 for thread 5
+48 % complete for thread 5
+Time taken for that stage:- 0.0268059 for thread 5
+Score obtained for that stage:- 1305.68 for thread 5
+20 % complete for thread 27
+Time taken for that stage:- 45.1687 for thread 27
+Score obtained for that stage:- 166.841 for thread 27
+24 % complete for thread 27
+Time taken for that stage:- 0.00174 for thread 27
+Score obtained for that stage:- 1724.14 for thread 27
+28 % complete for thread 27
+Time taken for that stage:- 0.0264206 for thread 27
+Score obtained for that stage:- 1324.72 for thread 27
+52 % complete for thread 5
+Time taken for that stage:- 1.55345 for thread 5
+Score obtained for that stage:- 175.737 for thread 5
+36 % complete for thread 23
+Time taken for that stage:- 13.046 for thread 23
+Score obtained for that stage:- 170.55 for thread 23
+40 % complete for thread 6
+Time taken for that stage:- 45.2013 for thread 6
+Score obtained for that stage:- 166.721 for thread 6
+44 % complete for thread 6
+Time taken for that stage:- 0.0017421 for thread 6
+Score obtained for that stage:- 1722.06 for thread 6
+48 % complete for thread 6
+Time taken for that stage:- 0.0265519 for thread 6
+Score obtained for that stage:- 1318.17 for thread 6
+32 % complete for thread 27
+Time taken for that stage:- 1.63154 for thread 27
+Score obtained for that stage:- 167.327 for thread 27
+52 % complete for thread 6
+Time taken for that stage:- 1.63222 for thread 6
+Score obtained for that stage:- 167.256 for thread 6
+40 % complete for thread 7
+Time taken for that stage:- 45.3559 for thread 7
+Score obtained for that stage:- 166.153 for thread 7
+44 % complete for thread 7
+Time taken for that stage:- 0.0017697 for thread 7
+Score obtained for that stage:- 1695.2 for thread 7
+48 % complete for thread 7
+Time taken for that stage:- 0.0264133 for thread 7
+Score obtained for that stage:- 1325.09 for thread 7
+20 % complete for thread 32
+Time taken for that stage:- 46.6001 for thread 32
+Score obtained for that stage:- 161.716 for thread 32
+24 % complete for thread 32
+Time taken for that stage:- 0.0017443 for thread 32
+Score obtained for that stage:- 1719.89 for thread 32
+28 % complete for thread 32
+Time taken for that stage:- 0.0265837 for thread 32
+Score obtained for that stage:- 1316.6 for thread 32
+36 % complete for thread 26
+Time taken for that stage:- 13.0431 for thread 26
+Score obtained for that stage:- 170.589 for thread 26
+52 % complete for thread 7
+Time taken for that stage:- 1.63136 for thread 7
+Score obtained for that stage:- 167.345 for thread 7
+32 % complete for thread 32
+Time taken for that stage:- 1.63151 for thread 32
+Score obtained for that stage:- 167.329 for thread 32
+40 % complete for thread 8
+Time taken for that stage:- 45.3001 for thread 8
+Score obtained for that stage:- 166.357 for thread 8
+44 % complete for thread 8
+Time taken for that stage:- 0.0017459 for thread 8
+Score obtained for that stage:- 1718.31 for thread 8
+48 % complete for thread 8
+Time taken for that stage:- 0.0263544 for thread 8
+Score obtained for that stage:- 1328.05 for thread 8
+36 % complete for thread 25
+Time taken for that stage:- 13.0129 for thread 25
+Score obtained for that stage:- 170.984 for thread 25
+40 % complete for thread 9
+Time taken for that stage:- 45.1572 for thread 9
+Score obtained for that stage:- 166.884 for thread 9
+44 % complete for thread 9
+Time taken for that stage:- 0.001736 for thread 9
+Score obtained for that stage:- 1728.11 for thread 9
+48 % complete for thread 9
+Time taken for that stage:- 0.0265208 for thread 9
+Score obtained for that stage:- 1319.72 for thread 9
+20 % complete for thread 29
+Time taken for that stage:- 46.7483 for thread 29
+Score obtained for that stage:- 161.204 for thread 29
+24 % complete for thread 29
+Time taken for that stage:- 0.0017571 for thread 29
+Score obtained for that stage:- 1707.36 for thread 29
+28 % complete for thread 29
+Time taken for that stage:- 0.0264388 for thread 29
+Score obtained for that stage:- 1323.81 for thread 29
+52 % complete for thread 8
+Time taken for that stage:- 1.63102 for thread 8
+Score obtained for that stage:- 167.38 for thread 8
+36 % complete for thread 28
+Time taken for that stage:- 13.0093 for thread 28
+Score obtained for that stage:- 171.032 for thread 28
+56 % complete for thread 3
+Time taken for that stage:- 12.9045 for thread 3
+Score obtained for that stage:- 172.42 for thread 3
+52 % complete for thread 9
+Time taken for that stage:- 1.6314 for thread 9
+Score obtained for that stage:- 167.341 for thread 9
+32 % complete for thread 29
+Time taken for that stage:- 1.63179 for thread 29
+Score obtained for that stage:- 167.301 for thread 29
+56 % complete for thread 2
+Time taken for that stage:- 13.0274 for thread 2
+Score obtained for that stage:- 170.794 for thread 2
+56 % complete for thread 4
+Time taken for that stage:- 12.9018 for thread 4
+Score obtained for that stage:- 172.456 for thread 4
+20 % complete for thread 31
+Time taken for that stage:- 46.6208 for thread 31
+Score obtained for that stage:- 161.645 for thread 31
+24 % complete for thread 31
+Time taken for that stage:- 0.0017356 for thread 31
+Score obtained for that stage:- 1728.51 for thread 31
+28 % complete for thread 31
+Time taken for that stage:- 0.0263827 for thread 31
+Score obtained for that stage:- 1326.63 for thread 31
+56 % complete for thread 1
+Time taken for that stage:- 13.0111 for thread 1
+Score obtained for that stage:- 171.008 for thread 1
+36 % complete for thread 30
+Time taken for that stage:- 12.9799 for thread 30
+Score obtained for that stage:- 171.419 for thread 30
+32 % complete for thread 31
+Time taken for that stage:- 1.6314 for thread 31
+Score obtained for that stage:- 167.341 for thread 31
+56 % complete for thread 5
+Time taken for that stage:- 12.9836 for thread 5
+Score obtained for that stage:- 171.37 for thread 5
+40 % complete for thread 10
+Time taken for that stage:- 46.7599 for thread 10
+Score obtained for that stage:- 161.164 for thread 10
+44 % complete for thread 10
+Time taken for that stage:- 0.0017346 for thread 10
+Score obtained for that stage:- 1729.51 for thread 10
+48 % complete for thread 10
+Time taken for that stage:- 0.0263339 for thread 10
+Score obtained for that stage:- 1329.09 for thread 10
+36 % complete for thread 27
+Time taken for that stage:- 13.0284 for thread 27
+Score obtained for that stage:- 170.78 for thread 27
+40 % complete for thread 11
+Time taken for that stage:- 45.3657 for thread 11
+Score obtained for that stage:- 166.117 for thread 11
+44 % complete for thread 11
+Time taken for that stage:- 0.0017396 for thread 11
+Score obtained for that stage:- 1724.53 for thread 11
+48 % complete for thread 11
+Time taken for that stage:- 0.026357 for thread 11
+Score obtained for that stage:- 1327.92 for thread 11
+40 % complete for thread 12
+Time taken for that stage:- 45.1508 for thread 12
+Score obtained for that stage:- 166.907 for thread 12
+44 % complete for thread 12
+Time taken for that stage:- 0.001746 for thread 12
+Score obtained for that stage:- 1718.21 for thread 12
+48 % complete for thread 12
+Time taken for that stage:- 0.0263267 for thread 12
+Score obtained for that stage:- 1329.45 for thread 12
+52 % complete for thread 10
+Time taken for that stage:- 1.6314 for thread 10
+Score obtained for that stage:- 167.341 for thread 10
+56 % complete for thread 6
+Time taken for that stage:- 13.05 for thread 6
+Score obtained for that stage:- 170.498 for thread 6
+52 % complete for thread 11
+Time taken for that stage:- 1.63132 for thread 11
+Score obtained for that stage:- 167.349 for thread 11
+52 % complete for thread 12
+Time taken for that stage:- 1.63114 for thread 12
+Score obtained for that stage:- 167.368 for thread 12
+56 % complete for thread 7
+Time taken for that stage:- 13.0113 for thread 7
+Score obtained for that stage:- 171.005 for thread 7
+36 % complete for thread 32
+Time taken for that stage:- 13.0145 for thread 32
+Score obtained for that stage:- 170.963 for thread 32
+40 % complete for thread 13
+Time taken for that stage:- 45.1391 for thread 13
+Score obtained for that stage:- 166.951 for thread 13
+44 % complete for thread 13
+Time taken for that stage:- 0.0017407 for thread 13
+Score obtained for that stage:- 1723.44 for thread 13
+48 % complete for thread 13
+Time taken for that stage:- 0.0265355 for thread 13
+Score obtained for that stage:- 1318.99 for thread 13
+56 % complete for thread 8
+Time taken for that stage:- 13.0459 for thread 8
+Score obtained for that stage:- 170.552 for thread 8
+52 % complete for thread 13
+Time taken for that stage:- 1.61745 for thread 13
+Score obtained for that stage:- 168.784 for thread 13
+40 % complete for thread 14
+Time taken for that stage:- 45.3918 for thread 14
+Score obtained for that stage:- 166.021 for thread 14
+44 % complete for thread 14
+Time taken for that stage:- 0.0017653 for thread 14
+Score obtained for that stage:- 1699.43 for thread 14
+56 % complete for thread 9
+Time taken for that stage:- 12.9992 for thread 9
+Score obtained for that stage:- 171.164 for thread 9
+48 % complete for thread 14
+Time taken for that stage:- 0.0263992 for thread 14
+Score obtained for that stage:- 1325.8 for thread 14
+40 % complete for thread 15
+Time taken for that stage:- 45.1576 for thread 15
+Score obtained for that stage:- 166.882 for thread 15
+44 % complete for thread 15
+Time taken for that stage:- 0.0017378 for thread 15
+Score obtained for that stage:- 1726.32 for thread 15
+48 % complete for thread 15
+Time taken for that stage:- 0.0265314 for thread 15
+Score obtained for that stage:- 1319.19 for thread 15
+36 % complete for thread 29
+Time taken for that stage:- 14.4515 for thread 29
+Score obtained for that stage:- 153.963 for thread 29
+52 % complete for thread 14
+Time taken for that stage:- 1.63176 for thread 14
+Score obtained for that stage:- 167.304 for thread 14
+52 % complete for thread 15
+Time taken for that stage:- 1.61791 for thread 15
+Score obtained for that stage:- 168.736 for thread 15
+36 % complete for thread 31
+Time taken for that stage:- 12.951 for thread 31
+Score obtained for that stage:- 171.801 for thread 31
+40 % complete for thread 16
+Time taken for that stage:- 45.3676 for thread 16
+Score obtained for that stage:- 166.11 for thread 16
+44 % complete for thread 16
+Time taken for that stage:- 0.0017375 for thread 16
+Score obtained for that stage:- 1726.62 for thread 16
+48 % complete for thread 16
+Time taken for that stage:- 0.0263418 for thread 16
+Score obtained for that stage:- 1328.69 for thread 16
+52 % complete for thread 16
+Time taken for that stage:- 1.63144 for thread 16
+Score obtained for that stage:- 167.337 for thread 16
+56 % complete for thread 10
+Time taken for that stage:- 12.9043 for thread 10
+Score obtained for that stage:- 172.423 for thread 10
+40 % complete for thread 17
+Time taken for that stage:- 45.3717 for thread 17
+Score obtained for that stage:- 166.095 for thread 17
+44 % complete for thread 17
+Time taken for that stage:- 0.0017381 for thread 17
+Score obtained for that stage:- 1726.02 for thread 17
+48 % complete for thread 17
+Time taken for that stage:- 0.026496 for thread 17
+Score obtained for that stage:- 1320.95 for thread 17
+56 % complete for thread 11
+Time taken for that stage:- 13.0295 for thread 11
+Score obtained for that stage:- 170.767 for thread 11
+56 % complete for thread 12
+Time taken for that stage:- 13.0127 for thread 12
+Score obtained for that stage:- 170.986 for thread 12
+52 % complete for thread 17
+Time taken for that stage:- 1.61542 for thread 17
+Score obtained for that stage:- 168.996 for thread 17
+40 % complete for thread 18
+Time taken for that stage:- 45.0809 for thread 18
+Score obtained for that stage:- 167.166 for thread 18
+44 % complete for thread 18
+Time taken for that stage:- 0.001745 for thread 18
+Score obtained for that stage:- 1719.2 for thread 18
+48 % complete for thread 18
+Time taken for that stage:- 0.0263537 for thread 18
+Score obtained for that stage:- 1328.09 for thread 18
+52 % complete for thread 18
+Time taken for that stage:- 1.63106 for thread 18
+Score obtained for that stage:- 167.376 for thread 18
+40 % complete for thread 19
+Time taken for that stage:- 43.9397 for thread 19
+Score obtained for that stage:- 171.508 for thread 19
+44 % complete for thread 19
+Time taken for that stage:- 0.0017372 for thread 19
+Score obtained for that stage:- 1726.92 for thread 19
+48 % complete for thread 19
+Time taken for that stage:- 0.0262787 for thread 19
+Score obtained for that stage:- 1331.88 for thread 19
+52 % complete for thread 19
+Time taken for that stage:- 1.63116 for thread 19
+Score obtained for that stage:- 167.366 for thread 19
+56 % complete for thread 13
+Time taken for that stage:- 13.028 for thread 13
+Score obtained for that stage:- 170.786 for thread 13
+40 % complete for thread 20
+Time taken for that stage:- 45.2153 for thread 20
+Score obtained for that stage:- 166.669 for thread 20
+44 % complete for thread 20
+Time taken for that stage:- 0.0017739 for thread 20
+Score obtained for that stage:- 1691.19 for thread 20
+48 % complete for thread 20
+Time taken for that stage:- 0.0264556 for thread 20
+Score obtained for that stage:- 1322.97 for thread 20
+56 % complete for thread 14
+Time taken for that stage:- 13.0153 for thread 14
+Score obtained for that stage:- 170.953 for thread 14
+56 % complete for thread 15
+Time taken for that stage:- 13.0341 for thread 15
+Score obtained for that stage:- 170.706 for thread 15
+52 % complete for thread 20
+Time taken for that stage:- 1.63192 for thread 20
+Score obtained for that stage:- 167.288 for thread 20
+40 % complete for thread 21
+Time taken for that stage:- 45.3296 for thread 21
+Score obtained for that stage:- 166.249 for thread 21
+44 % complete for thread 21
+Time taken for that stage:- 0.0017427 for thread 21
+Score obtained for that stage:- 1721.47 for thread 21
+48 % complete for thread 21
+Time taken for that stage:- 0.0264684 for thread 21
+Score obtained for that stage:- 1322.33 for thread 21
+56 % complete for thread 16
+Time taken for that stage:- 13.0134 for thread 16
+Score obtained for that stage:- 170.977 for thread 16
+52 % complete for thread 21
+Time taken for that stage:- 1.63151 for thread 21
+Score obtained for that stage:- 167.33 for thread 21
+40 % complete for thread 22
+Time taken for that stage:- 45.2665 for thread 22
+Score obtained for that stage:- 166.481 for thread 22
+44 % complete for thread 22
+Time taken for that stage:- 0.001746 for thread 22
+Score obtained for that stage:- 1718.21 for thread 22
+48 % complete for thread 22
+Time taken for that stage:- 0.0264307 for thread 22
+Score obtained for that stage:- 1324.22 for thread 22
+52 % complete for thread 22
+Time taken for that stage:- 1.63185 for thread 22
+Score obtained for that stage:- 167.295 for thread 22
+56 % complete for thread 17
+Time taken for that stage:- 13.0444 for thread 17
+Score obtained for that stage:- 170.571 for thread 17
+40 % complete for thread 24
+Time taken for that stage:- 45.2942 for thread 24
+Score obtained for that stage:- 166.379 for thread 24
+44 % complete for thread 24
+Time taken for that stage:- 0.0017407 for thread 24
+Score obtained for that stage:- 1723.44 for thread 24
+48 % complete for thread 24
+Time taken for that stage:- 0.0265626 for thread 24
+Score obtained for that stage:- 1317.64 for thread 24
+52 % complete for thread 24
+Time taken for that stage:- 1.63114 for thread 24
+Score obtained for that stage:- 167.367 for thread 24
+56 % complete for thread 18
+Time taken for that stage:- 13.0452 for thread 18
+Score obtained for that stage:- 170.561 for thread 18
+40 % complete for thread 23
+Time taken for that stage:- 45.3536 for thread 23
+Score obtained for that stage:- 166.161 for thread 23
+44 % complete for thread 23
+Time taken for that stage:- 0.0017378 for thread 23
+Score obtained for that stage:- 1726.32 for thread 23
+48 % complete for thread 23
+Time taken for that stage:- 0.0263562 for thread 23
+Score obtained for that stage:- 1327.96 for thread 23
+56 % complete for thread 19
+Time taken for that stage:- 13.045 for thread 19
+Score obtained for that stage:- 170.564 for thread 19
+52 % complete for thread 23
+Time taken for that stage:- 1.63189 for thread 23
+Score obtained for that stage:- 167.29 for thread 23
+40 % complete for thread 26
+Time taken for that stage:- 45.359 for thread 26
+Score obtained for that stage:- 166.141 for thread 26
+44 % complete for thread 26
+Time taken for that stage:- 0.0017398 for thread 26
+Score obtained for that stage:- 1724.34 for thread 26
+48 % complete for thread 26
+Time taken for that stage:- 0.0264803 for thread 26
+Score obtained for that stage:- 1321.74 for thread 26
+56 % complete for thread 20
+Time taken for that stage:- 13.041 for thread 20
+Score obtained for that stage:- 170.615 for thread 20
+52 % complete for thread 26
+Time taken for that stage:- 1.61651 for thread 26
+Score obtained for that stage:- 168.883 for thread 26
+40 % complete for thread 25
+Time taken for that stage:- 45.2988 for thread 25
+Score obtained for that stage:- 166.362 for thread 25
+44 % complete for thread 25
+Time taken for that stage:- 0.0017461 for thread 25
+Score obtained for that stage:- 1718.11 for thread 25
+48 % complete for thread 25
+Time taken for that stage:- 0.026629 for thread 25
+Score obtained for that stage:- 1314.36 for thread 25
+52 % complete for thread 25
+Time taken for that stage:- 1.63204 for thread 25
+Score obtained for that stage:- 167.276 for thread 25
+56 % complete for thread 21
+Time taken for that stage:- 13.0569 for thread 21
+Score obtained for that stage:- 170.407 for thread 21
+40 % complete for thread 28
+Time taken for that stage:- 45.2827 for thread 28
+Score obtained for that stage:- 166.421 for thread 28
+44 % complete for thread 28
+Time taken for that stage:- 0.0017352 for thread 28
+Score obtained for that stage:- 1728.91 for thread 28
+48 % complete for thread 28
+Time taken for that stage:- 0.0263542 for thread 28
+Score obtained for that stage:- 1328.06 for thread 28
+60 % complete for thread 3
+Time taken for that stage:- 45.3183 for thread 3
+Score obtained for that stage:- 166.291 for thread 3
+64 % complete for thread 3
+Time taken for that stage:- 0.0017356 for thread 3
+Score obtained for that stage:- 1728.51 for thread 3
+68 % complete for thread 3
+Time taken for that stage:- 0.0263269 for thread 3
+Score obtained for that stage:- 1329.44 for thread 3
+56 % complete for thread 22
+Time taken for that stage:- 13.0461 for thread 22
+Score obtained for that stage:- 170.549 for thread 22
+60 % complete for thread 2
+Time taken for that stage:- 45.2956 for thread 2
+Score obtained for that stage:- 166.374 for thread 2
+64 % complete for thread 2
+Time taken for that stage:- 0.0017497 for thread 2
+Score obtained for that stage:- 1714.58 for thread 2
+68 % complete for thread 2
+Time taken for that stage:- 0.0266923 for thread 2
+Score obtained for that stage:- 1311.24 for thread 2
+60 % complete for thread 4
+Time taken for that stage:- 45.323 for thread 4
+Score obtained for that stage:- 166.273 for thread 4
+64 % complete for thread 4
+Time taken for that stage:- 0.001757 for thread 4
+Score obtained for that stage:- 1707.46 for thread 4
+68 % complete for thread 4
+Time taken for that stage:- 0.0264308 for thread 4
+Score obtained for that stage:- 1324.21 for thread 4
+52 % complete for thread 28
+Time taken for that stage:- 1.63132 for thread 28
+Score obtained for that stage:- 167.349 for thread 28
+72 % complete for thread 3
+Time taken for that stage:- 1.64744 for thread 3
+Score obtained for that stage:- 165.712 for thread 3
+60 % complete for thread 1
+Time taken for that stage:- 45.2853 for thread 1
+Score obtained for that stage:- 166.411 for thread 1
+64 % complete for thread 1
+Time taken for that stage:- 0.0017664 for thread 1
+Score obtained for that stage:- 1698.37 for thread 1
+68 % complete for thread 1
+Time taken for that stage:- 0.0264358 for thread 1
+Score obtained for that stage:- 1323.96 for thread 1
+40 % complete for thread 30
+Time taken for that stage:- 45.3576 for thread 30
+Score obtained for that stage:- 166.146 for thread 30
+44 % complete for thread 30
+Time taken for that stage:- 0.0018084 for thread 30
+Score obtained for that stage:- 1658.93 for thread 30
+48 % complete for thread 30
+Time taken for that stage:- 0.0265231 for thread 30
+Score obtained for that stage:- 1319.6 for thread 30
+72 % complete for thread 2
+Time taken for that stage:- 1.63253 for thread 2
+Score obtained for that stage:- 167.225 for thread 2
+72 % complete for thread 4
+Time taken for that stage:- 1.63217 for thread 4
+Score obtained for that stage:- 167.262 for thread 4
+72 % complete for thread 1
+Time taken for that stage:- 1.63248 for thread 1
+Score obtained for that stage:- 167.231 for thread 1
+56 % complete for thread 24
+Time taken for that stage:- 13.0459 for thread 24
+Score obtained for that stage:- 170.551 for thread 24
+52 % complete for thread 30
+Time taken for that stage:- 1.63256 for thread 30
+Score obtained for that stage:- 167.222 for thread 30
+60 % complete for thread 5
+Time taken for that stage:- 45.352 for thread 5
+Score obtained for that stage:- 166.167 for thread 5
+64 % complete for thread 5
+Time taken for that stage:- 0.0017439 for thread 5
+Score obtained for that stage:- 1720.28 for thread 5
+68 % complete for thread 5
+Time taken for that stage:- 0.0264902 for thread 5
+Score obtained for that stage:- 1321.24 for thread 5
+40 % complete for thread 27
+Time taken for that stage:- 45.4133 for thread 27
+Score obtained for that stage:- 165.942 for thread 27
+44 % complete for thread 27
+Time taken for that stage:- 0.0017386 for thread 27
+Score obtained for that stage:- 1725.53 for thread 27
+48 % complete for thread 27
+Time taken for that stage:- 0.0264092 for thread 27
+Score obtained for that stage:- 1325.3 for thread 27
+72 % complete for thread 5
+Time taken for that stage:- 1.63092 for thread 5
+Score obtained for that stage:- 167.39 for thread 5
+56 % complete for thread 23
+Time taken for that stage:- 13.0154 for thread 23
+Score obtained for that stage:- 170.951 for thread 23
+60 % complete for thread 6
+Time taken for that stage:- 45.3244 for thread 6
+Score obtained for that stage:- 166.268 for thread 6
+64 % complete for thread 6
+Time taken for that stage:- 0.0017384 for thread 6
+Score obtained for that stage:- 1725.72 for thread 6
+68 % complete for thread 6
+Time taken for that stage:- 0.026478 for thread 6
+Score obtained for that stage:- 1321.85 for thread 6
+52 % complete for thread 27
+Time taken for that stage:- 1.61563 for thread 27
+Score obtained for that stage:- 168.975 for thread 27
+72 % complete for thread 6
+Time taken for that stage:- 1.63151 for thread 6
+Score obtained for that stage:- 167.329 for thread 6
+60 % complete for thread 7
+Time taken for that stage:- 45.3823 for thread 7
+Score obtained for that stage:- 166.056 for thread 7
+64 % complete for thread 7
+Time taken for that stage:- 0.0017441 for thread 7
+Score obtained for that stage:- 1720.08 for thread 7
+68 % complete for thread 7
+Time taken for that stage:- 0.0264803 for thread 7
+Score obtained for that stage:- 1321.74 for thread 7
+40 % complete for thread 32
+Time taken for that stage:- 45.4118 for thread 32
+Score obtained for that stage:- 165.948 for thread 32
+44 % complete for thread 32
+Time taken for that stage:- 0.0017563 for thread 32
+Score obtained for that stage:- 1708.14 for thread 32
+48 % complete for thread 32
+Time taken for that stage:- 0.0264284 for thread 32
+Score obtained for that stage:- 1324.33 for thread 32
+56 % complete for thread 26
+Time taken for that stage:- 13.0466 for thread 26
+Score obtained for that stage:- 170.542 for thread 26
+72 % complete for thread 7
+Time taken for that stage:- 1.63105 for thread 7
+Score obtained for that stage:- 167.377 for thread 7
+52 % complete for thread 32
+Time taken for that stage:- 1.63154 for thread 32
+Score obtained for that stage:- 167.327 for thread 32
+60 % complete for thread 8
+Time taken for that stage:- 45.4099 for thread 8
+Score obtained for that stage:- 165.955 for thread 8
+64 % complete for thread 8
+Time taken for that stage:- 0.0017444 for thread 8
+Score obtained for that stage:- 1719.79 for thread 8
+68 % complete for thread 8
+Time taken for that stage:- 0.0264548 for thread 8
+Score obtained for that stage:- 1323.01 for thread 8
+56 % complete for thread 25
+Time taken for that stage:- 13.047 for thread 25
+Score obtained for that stage:- 170.537 for thread 25
+60 % complete for thread 9
+Time taken for that stage:- 45.4083 for thread 9
+Score obtained for that stage:- 165.961 for thread 9
+64 % complete for thread 9
+Time taken for that stage:- 0.0017375 for thread 9
+Score obtained for that stage:- 1726.62 for thread 9
+68 % complete for thread 9
+Time taken for that stage:- 0.0264653 for thread 9
+Score obtained for that stage:- 1322.49 for thread 9
+72 % complete for thread 8
+Time taken for that stage:- 1.6162 for thread 8
+Score obtained for that stage:- 168.914 for thread 8
+56 % complete for thread 28
+Time taken for that stage:- 13.0527 for thread 28
+Score obtained for that stage:- 170.462 for thread 28
+40 % complete for thread 29
+Time taken for that stage:- 45.3792 for thread 29
+Score obtained for that stage:- 166.067 for thread 29
+44 % complete for thread 29
+Time taken for that stage:- 0.0017348 for thread 29
+Score obtained for that stage:- 1729.31 for thread 29
+48 % complete for thread 29
+Time taken for that stage:- 0.0263155 for thread 29
+Score obtained for that stage:- 1330.01 for thread 29
+72 % complete for thread 9
+Time taken for that stage:- 1.61539 for thread 9
+Score obtained for that stage:- 168.999 for thread 9
+76 % complete for thread 2
+Time taken for that stage:- 13.0432 for thread 2
+Score obtained for that stage:- 170.587 for thread 2
+40 % complete for thread 31
+Time taken for that stage:- 45.4224 for thread 31
+Score obtained for that stage:- 165.909 for thread 31
+44 % complete for thread 31
+Time taken for that stage:- 0.0017417 for thread 31
+Score obtained for that stage:- 1722.46 for thread 31
+48 % complete for thread 31
+Time taken for that stage:- 0.0265083 for thread 31
+Score obtained for that stage:- 1320.34 for thread 31
+76 % complete for thread 3
+Time taken for that stage:- 14.4515 for thread 3
+Score obtained for that stage:- 153.963 for thread 3
+52 % complete for thread 29
+Time taken for that stage:- 1.63122 for thread 29
+Score obtained for that stage:- 167.359 for thread 29
+76 % complete for thread 1
+Time taken for that stage:- 13.0436 for thread 1
+Score obtained for that stage:- 170.581 for thread 1
+56 % complete for thread 30
+Time taken for that stage:- 13.0447 for thread 30
+Score obtained for that stage:- 170.567 for thread 30
+76 % complete for thread 4
+Time taken for that stage:- 14.4644 for thread 4
+Score obtained for that stage:- 153.826 for thread 4
+52 % complete for thread 31
+Time taken for that stage:- 1.61574 for thread 31
+Score obtained for that stage:- 168.963 for thread 31
+76 % complete for thread 5
+Time taken for that stage:- 12.9817 for thread 5
+Score obtained for that stage:- 171.395 for thread 5
+60 % complete for thread 10
+Time taken for that stage:- 45.3927 for thread 10
+Score obtained for that stage:- 166.018 for thread 10
+64 % complete for thread 10
+Time taken for that stage:- 0.0017385 for thread 10
+Score obtained for that stage:- 1725.63 for thread 10
+68 % complete for thread 10
+Time taken for that stage:- 0.0265179 for thread 10
+Score obtained for that stage:- 1319.86 for thread 10
+56 % complete for thread 27
+Time taken for that stage:- 12.9858 for thread 27
+Score obtained for that stage:- 171.34 for thread 27
+60 % complete for thread 11
+Time taken for that stage:- 45.3249 for thread 11
+Score obtained for that stage:- 166.266 for thread 11
+64 % complete for thread 11
+Time taken for that stage:- 0.0017374 for thread 11
+Score obtained for that stage:- 1726.72 for thread 11
+68 % complete for thread 11
+Time taken for that stage:- 0.0264283 for thread 11
+Score obtained for that stage:- 1324.34 for thread 11
+72 % complete for thread 10
+Time taken for that stage:- 1.5225 for thread 10
+Score obtained for that stage:- 179.311 for thread 10
+60 % complete for thread 12
+Time taken for that stage:- 45.3643 for thread 12
+Score obtained for that stage:- 166.122 for thread 12
+64 % complete for thread 12
+Time taken for that stage:- 0.0017924 for thread 12
+Score obtained for that stage:- 1673.73 for thread 12
+68 % complete for thread 12
+Time taken for that stage:- 0.0265015 for thread 12
+Score obtained for that stage:- 1320.68 for thread 12
+72 % complete for thread 11
+Time taken for that stage:- 1.63226 for thread 11
+Score obtained for that stage:- 167.253 for thread 11
+72 % complete for thread 12
+Time taken for that stage:- 1.61627 for thread 12
+Score obtained for that stage:- 168.908 for thread 12
+76 % complete for thread 6
+Time taken for that stage:- 14.4029 for thread 6
+Score obtained for that stage:- 154.483 for thread 6
+76 % complete for thread 7
+Time taken for that stage:- 13.0282 for thread 7
+Score obtained for that stage:- 170.783 for thread 7
+56 % complete for thread 32
+Time taken for that stage:- 13.0273 for thread 32
+Score obtained for that stage:- 170.795 for thread 32
+60 % complete for thread 13
+Time taken for that stage:- 45.3308 for thread 13
+Score obtained for that stage:- 166.245 for thread 13
+64 % complete for thread 13
+Time taken for that stage:- 0.0017398 for thread 13
+Score obtained for that stage:- 1724.34 for thread 13
+68 % complete for thread 13
+Time taken for that stage:- 0.0265943 for thread 13
+Score obtained for that stage:- 1316.07 for thread 13
+76 % complete for thread 8
+Time taken for that stage:- 13.0305 for thread 8
+Score obtained for that stage:- 170.753 for thread 8
+72 % complete for thread 13
+Time taken for that stage:- 1.6166 for thread 13
+Score obtained for that stage:- 168.873 for thread 13
+60 % complete for thread 14
+Time taken for that stage:- 45.3306 for thread 14
+Score obtained for that stage:- 166.245 for thread 14
+64 % complete for thread 14
+Time taken for that stage:- 0.0017339 for thread 14
+Score obtained for that stage:- 1730.2 for thread 14
+68 % complete for thread 14
+Time taken for that stage:- 0.0263781 for thread 14
+Score obtained for that stage:- 1326.86 for thread 14
+76 % complete for thread 9
+Time taken for that stage:- 12.9819 for thread 9
+Score obtained for that stage:- 171.393 for thread 9
+72 % complete for thread 14
+Time taken for that stage:- 1.63178 for thread 14
+Score obtained for that stage:- 167.302 for thread 14
+56 % complete for thread 29
+Time taken for that stage:- 13.0253 for thread 29
+Score obtained for that stage:- 170.821 for thread 29
+60 % complete for thread 15
+Time taken for that stage:- 46.7681 for thread 15
+Score obtained for that stage:- 161.136 for thread 15
+64 % complete for thread 15
+Time taken for that stage:- 0.0017401 for thread 15
+Score obtained for that stage:- 1724.04 for thread 15
+68 % complete for thread 15
+Time taken for that stage:- 0.0263556 for thread 15
+Score obtained for that stage:- 1327.99 for thread 15
+56 % complete for thread 31
+Time taken for that stage:- 12.9839 for thread 31
+Score obtained for that stage:- 171.366 for thread 31
+72 % complete for thread 15
+Time taken for that stage:- 1.63203 for thread 15
+Score obtained for that stage:- 167.277 for thread 15
+60 % complete for thread 16
+Time taken for that stage:- 45.3966 for thread 16
+Score obtained for that stage:- 166.004 for thread 16
+64 % complete for thread 16
+Time taken for that stage:- 0.0017859 for thread 16
+Score obtained for that stage:- 1679.83 for thread 16
+68 % complete for thread 16
+Time taken for that stage:- 0.0266263 for thread 16
+Score obtained for that stage:- 1314.49 for thread 16
+72 % complete for thread 16
+Time taken for that stage:- 1.61577 for thread 16
+Score obtained for that stage:- 168.959 for thread 16
+76 % complete for thread 10
+Time taken for that stage:- 13.0283 for thread 10
+Score obtained for that stage:- 170.782 for thread 10
+60 % complete for thread 17
+Time taken for that stage:- 45.369 for thread 17
+Score obtained for that stage:- 166.104 for thread 17
+64 % complete for thread 17
+Time taken for that stage:- 0.0017495 for thread 17
+Score obtained for that stage:- 1714.78 for thread 17
+68 % complete for thread 17
+Time taken for that stage:- 0.0265469 for thread 17
+Score obtained for that stage:- 1318.42 for thread 17
+76 % complete for thread 11
+Time taken for that stage:- 13.0224 for thread 11
+Score obtained for that stage:- 170.859 for thread 11
+76 % complete for thread 12
+Time taken for that stage:- 13.0033 for thread 12
+Score obtained for that stage:- 171.11 for thread 12
+72 % complete for thread 17
+Time taken for that stage:- 1.63154 for thread 17
+Score obtained for that stage:- 167.326 for thread 17
+60 % complete for thread 18
+Time taken for that stage:- 45.4161 for thread 18
+Score obtained for that stage:- 165.932 for thread 18
+64 % complete for thread 18
+Time taken for that stage:- 0.0017766 for thread 18
+Score obtained for that stage:- 1688.62 for thread 18
+68 % complete for thread 18
+Time taken for that stage:- 0.0265184 for thread 18
+Score obtained for that stage:- 1319.84 for thread 18
+72 % complete for thread 18
+Time taken for that stage:- 1.63119 for thread 18
+Score obtained for that stage:- 167.362 for thread 18
+60 % complete for thread 19
+Time taken for that stage:- 45.3824 for thread 19
+Score obtained for that stage:- 166.055 for thread 19
+64 % complete for thread 19
+Time taken for that stage:- 0.0017618 for thread 19
+Score obtained for that stage:- 1702.8 for thread 19
+68 % complete for thread 19
+Time taken for that stage:- 0.0265415 for thread 19
+Score obtained for that stage:- 1318.69 for thread 19
+76 % complete for thread 13
+Time taken for that stage:- 13.0368 for thread 13
+Score obtained for that stage:- 170.671 for thread 13
+72 % complete for thread 19
+Time taken for that stage:- 1.63168 for thread 19
+Score obtained for that stage:- 167.312 for thread 19
+60 % complete for thread 20
+Time taken for that stage:- 45.3481 for thread 20
+Score obtained for that stage:- 166.181 for thread 20
+64 % complete for thread 20
+Time taken for that stage:- 0.0017396 for thread 20
+Score obtained for that stage:- 1724.53 for thread 20
+68 % complete for thread 20
+Time taken for that stage:- 0.0265455 for thread 20
+Score obtained for that stage:- 1318.49 for thread 20
+72 % complete for thread 20
+Time taken for that stage:- 1.63176 for thread 20
+Score obtained for that stage:- 167.304 for thread 20
+76 % complete for thread 14
+Time taken for that stage:- 14.4496 for thread 14
+Score obtained for that stage:- 153.984 for thread 14
+76 % complete for thread 15
+Time taken for that stage:- 13.0279 for thread 15
+Score obtained for that stage:- 170.787 for thread 15
+60 % complete for thread 21
+Time taken for that stage:- 45.3205 for thread 21
+Score obtained for that stage:- 166.282 for thread 21
+64 % complete for thread 21
+Time taken for that stage:- 0.0017804 for thread 21
+Score obtained for that stage:- 1685.01 for thread 21
+68 % complete for thread 21
+Time taken for that stage:- 0.0265165 for thread 21
+Score obtained for that stage:- 1319.93 for thread 21
+76 % complete for thread 16
+Time taken for that stage:- 13.0293 for thread 16
+Score obtained for that stage:- 170.768 for thread 16
+60 % complete for thread 22
+Time taken for that stage:- 45.2623 for thread 22
+Score obtained for that stage:- 166.496 for thread 22
+64 % complete for thread 22
+Time taken for that stage:- 0.001739 for thread 22
+Score obtained for that stage:- 1725.13 for thread 22
+72 % complete for thread 21
+Time taken for that stage:- 1.63086 for thread 21
+Score obtained for that stage:- 167.396 for thread 21
+68 % complete for thread 22
+Time taken for that stage:- 0.0263892 for thread 22
+Score obtained for that stage:- 1326.3 for thread 22
+72 % complete for thread 22
+Time taken for that stage:- 1.61597 for thread 22
+Score obtained for that stage:- 168.939 for thread 22
+76 % complete for thread 17
+Time taken for that stage:- 13.0147 for thread 17
+Score obtained for that stage:- 170.961 for thread 17
+60 % complete for thread 24
+Time taken for that stage:- 45.23 for thread 24
+Score obtained for that stage:- 166.615 for thread 24
+64 % complete for thread 24
+Time taken for that stage:- 0.0017383 for thread 24
+Score obtained for that stage:- 1725.82 for thread 24
+68 % complete for thread 24
+Time taken for that stage:- 0.0264454 for thread 24
+Score obtained for that stage:- 1323.48 for thread 24
+72 % complete for thread 24
+Time taken for that stage:- 1.63136 for thread 24
+Score obtained for that stage:- 167.345 for thread 24
+76 % complete for thread 18
+Time taken for that stage:- 13.0463 for thread 18
+Score obtained for that stage:- 170.546 for thread 18
+60 % complete for thread 23
+Time taken for that stage:- 45.344 for thread 23
+Score obtained for that stage:- 166.196 for thread 23
+64 % complete for thread 23
+Time taken for that stage:- 0.0017393 for thread 23
+Score obtained for that stage:- 1724.83 for thread 23
+68 % complete for thread 23
+Time taken for that stage:- 0.0263714 for thread 23
+Score obtained for that stage:- 1327.2 for thread 23
+76 % complete for thread 19
+Time taken for that stage:- 13.014 for thread 19
+Score obtained for that stage:- 170.97 for thread 19
+72 % complete for thread 23
+Time taken for that stage:- 1.63132 for thread 23
+Score obtained for that stage:- 167.349 for thread 23
+60 % complete for thread 26
+Time taken for that stage:- 45.3707 for thread 26
+Score obtained for that stage:- 166.098 for thread 26
+64 % complete for thread 26
+Time taken for that stage:- 0.0017412 for thread 26
+Score obtained for that stage:- 1722.95 for thread 26
+68 % complete for thread 26
+Time taken for that stage:- 0.0264337 for thread 26
+Score obtained for that stage:- 1324.07 for thread 26
+76 % complete for thread 20
+Time taken for that stage:- 13.0423 for thread 20
+Score obtained for that stage:- 170.599 for thread 20
+60 % complete for thread 25
+Time taken for that stage:- 45.2462 for thread 25
+Score obtained for that stage:- 166.555 for thread 25
+64 % complete for thread 25
+Time taken for that stage:- 0.0017442 for thread 25
+Score obtained for that stage:- 1719.99 for thread 25
+68 % complete for thread 25
+Time taken for that stage:- 0.0266044 for thread 25
+Score obtained for that stage:- 1315.57 for thread 25
+72 % complete for thread 26
+Time taken for that stage:- 1.6313 for thread 26
+Score obtained for that stage:- 167.352 for thread 26
+72 % complete for thread 25
+Time taken for that stage:- 1.62705 for thread 25
+Score obtained for that stage:- 167.788 for thread 25
+76 % complete for thread 21
+Time taken for that stage:- 13.0448 for thread 21
+Score obtained for that stage:- 170.566 for thread 21
+60 % complete for thread 28
+Time taken for that stage:- 45.2478 for thread 28
+Score obtained for that stage:- 166.549 for thread 28
+64 % complete for thread 28
+Time taken for that stage:- 0.0017375 for thread 28
+Score obtained for that stage:- 1726.62 for thread 28
+68 % complete for thread 28
+Time taken for that stage:- 0.0264341 for thread 28
+Score obtained for that stage:- 1324.05 for thread 28
+80 % complete for thread 3
+Time taken for that stage:- 43.938 for thread 3
+Score obtained for that stage:- 171.514 for thread 3
+84 % complete for thread 3
+Time taken for that stage:- 0.0017372 for thread 3
+Score obtained for that stage:- 1726.92 for thread 3
+76 % complete for thread 22
+Time taken for that stage:- 13.0376 for thread 22
+Score obtained for that stage:- 170.661 for thread 22
+80 % complete for thread 2
+Time taken for that stage:- 45.2508 for thread 2
+Score obtained for that stage:- 166.538 for thread 2
+84 % complete for thread 2
+Time taken for that stage:- 0.0017355 for thread 2
+Score obtained for that stage:- 1728.61 for thread 2
+88 % complete for thread 2
+Time taken for that stage:- 0.0265483 for thread 2
+Score obtained for that stage:- 1318.35 for thread 2
+80 % complete for thread 4
+Time taken for that stage:- 43.9289 for thread 4
+Score obtained for that stage:- 171.55 for thread 4
+84 % complete for thread 4
+Time taken for that stage:- 0.0017387 for thread 4
+Score obtained for that stage:- 1725.43 for thread 4
+88 % complete for thread 4
+Time taken for that stage:- 0.0264505 for thread 4
+Score obtained for that stage:- 1323.23 for thread 4
+72 % complete for thread 28
+Time taken for that stage:- 1.61617 for thread 28
+Score obtained for that stage:- 168.918 for thread 28
+88 % complete for thread 3
+Time taken for that stage:- 1.44519 for thread 3
+Score obtained for that stage:- 24.2182 for thread 3
+80 % complete for thread 1
+Time taken for that stage:- 45.2453 for thread 1
+Score obtained for that stage:- 166.559 for thread 1
+84 % complete for thread 1
+Time taken for that stage:- 0.001732 for thread 1
+Score obtained for that stage:- 1732.1 for thread 1
+88 % complete for thread 1
+Time taken for that stage:- 0.026308 for thread 1
+Score obtained for that stage:- 1330.39 for thread 1
+60 % complete for thread 30
+Time taken for that stage:- 45.347 for thread 30
+Score obtained for that stage:- 166.185 for thread 30
+64 % complete for thread 30
+Time taken for that stage:- 0.0017392 for thread 30
+Score obtained for that stage:- 1724.93 for thread 30
+68 % complete for thread 30
+Time taken for that stage:- 0.0264305 for thread 30
+Score obtained for that stage:- 1324.23 for thread 30
+92 % complete for thread 2
+Time taken for that stage:- 1.61585 for thread 2
+Score obtained for that stage:- 168.951 for thread 2
+92 % complete for thread 4
+Time taken for that stage:- 1.63241 for thread 4
+Score obtained for that stage:- 167.237 for thread 4
+92 % complete for thread 3
+Time taken for that stage:- 1.62586 for thread 3
+Score obtained for that stage:- 167.911 for thread 3
+92 % complete for thread 1
+Time taken for that stage:- 1.631 for thread 1
+Score obtained for that stage:- 167.382 for thread 1
+76 % complete for thread 24
+Time taken for that stage:- 13.0229 for thread 24
+Score obtained for that stage:- 170.853 for thread 24
+80 % complete for thread 5
+Time taken for that stage:- 45.3577 for thread 5
+Score obtained for that stage:- 166.146 for thread 5
+72 % complete for thread 30
+Time taken for that stage:- 1.63149 for thread 30
+Score obtained for that stage:- 167.332 for thread 30
+84 % complete for thread 5
+Time taken for that stage:- 0.0017503 for thread 5
+Score obtained for that stage:- 1713.99 for thread 5
+88 % complete for thread 5
+Time taken for that stage:- 0.0263582 for thread 5
+Score obtained for that stage:- 1327.86 for thread 5
+92 % complete for thread 5
+Time taken for that stage:- 1.63124 for thread 5
+Score obtained for that stage:- 167.358 for thread 5
+60 % complete for thread 27
+Time taken for that stage:- 45.4388 for thread 27
+Score obtained for that stage:- 165.849 for thread 27
+64 % complete for thread 27
+Time taken for that stage:- 0.0017389 for thread 27
+Score obtained for that stage:- 1725.23 for thread 27
+68 % complete for thread 27
+Time taken for that stage:- 0.026354 for thread 27
+Score obtained for that stage:- 1328.07 for thread 27
+76 % complete for thread 23
+Time taken for that stage:- 13.0595 for thread 23
+Score obtained for that stage:- 170.374 for thread 23
+80 % complete for thread 6
+Time taken for that stage:- 43.982 for thread 6
+Score obtained for that stage:- 171.343 for thread 6
+84 % complete for thread 6
+Time taken for that stage:- 0.0017575 for thread 6
+Score obtained for that stage:- 1706.97 for thread 6
+88 % complete for thread 6
+Time taken for that stage:- 0.0264681 for thread 6
+Score obtained for that stage:- 1322.35 for thread 6
+72 % complete for thread 27
+Time taken for that stage:- 1.63063 for thread 27
+Score obtained for that stage:- 167.42 for thread 27
+92 % complete for thread 6
+Time taken for that stage:- 1.63177 for thread 6
+Score obtained for that stage:- 167.303 for thread 6
+80 % complete for thread 7
+Time taken for that stage:- 45.3576 for thread 7
+Score obtained for that stage:- 166.146 for thread 7
+84 % complete for thread 7
+Time taken for that stage:- 0.0017425 for thread 7
+Score obtained for that stage:- 1721.66 for thread 7
+88 % complete for thread 7
+Time taken for that stage:- 0.0264002 for thread 7
+Score obtained for that stage:- 1325.75 for thread 7
+60 % complete for thread 32
+Time taken for that stage:- 45.3644 for thread 32
+Score obtained for that stage:- 166.122 for thread 32
+64 % complete for thread 32
+Time taken for that stage:- 0.0017397 for thread 32
+Score obtained for that stage:- 1724.44 for thread 32
+68 % complete for thread 32
+Time taken for that stage:- 0.0263696 for thread 32
+Score obtained for that stage:- 1327.29 for thread 32
+76 % complete for thread 26
+Time taken for that stage:- 13.0429 for thread 26
+Score obtained for that stage:- 170.591 for thread 26
+92 % complete for thread 7
+Time taken for that stage:- 1.63176 for thread 7
+Score obtained for that stage:- 167.304 for thread 7
+72 % complete for thread 32
+Time taken for that stage:- 1.63196 for thread 32
+Score obtained for that stage:- 167.283 for thread 32
+76 % complete for thread 25
+Time taken for that stage:- 12.8282 for thread 25
+Score obtained for that stage:- 173.446 for thread 25
+80 % complete for thread 8
+Time taken for that stage:- 45.3861 for thread 8
+Score obtained for that stage:- 166.042 for thread 8
+84 % complete for thread 8
+Time taken for that stage:- 0.0017372 for thread 8
+Score obtained for that stage:- 1726.92 for thread 8
+88 % complete for thread 8
+Time taken for that stage:- 0.026528 for thread 8
+Score obtained for that stage:- 1319.36 for thread 8
+80 % complete for thread 9
+Time taken for that stage:- 45.4191 for thread 9
+Score obtained for that stage:- 165.921 for thread 9
+84 % complete for thread 9
+Time taken for that stage:- 0.0017439 for thread 9
+Score obtained for that stage:- 1720.28 for thread 9
+88 % complete for thread 9
+Time taken for that stage:- 0.0264373 for thread 9
+Score obtained for that stage:- 1323.89 for thread 9
+92 % complete for thread 8
+Time taken for that stage:- 1.63229 for thread 8
+Score obtained for that stage:- 167.25 for thread 8
+76 % complete for thread 28
+Time taken for that stage:- 13.0248 for thread 28
+Score obtained for that stage:- 170.828 for thread 28
+60 % complete for thread 29
+Time taken for that stage:- 45.1761 for thread 29
+Score obtained for that stage:- 166.814 for thread 29
+64 % complete for thread 29
+Time taken for that stage:- 0.0017513 for thread 29
+Score obtained for that stage:- 1713.01 for thread 29
+68 % complete for thread 29
+Time taken for that stage:- 0.0265517 for thread 29
+Score obtained for that stage:- 1318.18 for thread 29
+92 % complete for thread 9
+Time taken for that stage:- 1.63059 for thread 9
+Score obtained for that stage:- 167.424 for thread 9
+60 % complete for thread 31
+Time taken for that stage:- 45.4228 for thread 31
+Score obtained for that stage:- 165.908 for thread 31
+64 % complete for thread 31
+Time taken for that stage:- 0.001746 for thread 31
+Score obtained for that stage:- 1718.21 for thread 31
+68 % complete for thread 31
+Time taken for that stage:- 0.0263251 for thread 31
+Score obtained for that stage:- 1329.53 for thread 31
+96 % complete for thread 3
+Time taken for that stage:- 13.042 for thread 3
+Score obtained for that stage:- 170.602 for thread 3
+72 % complete for thread 29
+Time taken for that stage:- 1.63127 for thread 29
+Score obtained for that stage:- 167.354 for thread 29
+96 % complete for thread 2
+Time taken for that stage:- 14.2468 for thread 2
+Score obtained for that stage:- 156.175 for thread 2
+96 % complete for thread 4
+Time taken for that stage:- 14.2617 for thread 4
+Score obtained for that stage:- 156.012 for thread 4
+76 % complete for thread 30
+Time taken for that stage:- 13.0439 for thread 30
+Score obtained for that stage:- 170.577 for thread 30
+72 % complete for thread 31
+Time taken for that stage:- 1.61581 for thread 31
+Score obtained for that stage:- 168.956 for thread 31
+96 % complete for thread 1
+Time taken for that stage:- 14.4498 for thread 1
+Score obtained for that stage:- 153.981 for thread 1
+96 % complete for thread 5
+Time taken for that stage:- 13.0466 for thread 5
+Score obtained for that stage:- 170.543 for thread 5
+80 % complete for thread 10
+Time taken for that stage:- 45.3887 for thread 10
+Score obtained for that stage:- 166.032 for thread 10
+84 % complete for thread 10
+Time taken for that stage:- 0.001735 for thread 10
+Score obtained for that stage:- 1729.11 for thread 10
+88 % complete for thread 10
+Time taken for that stage:- 0.0264006 for thread 10
+Score obtained for that stage:- 1325.73 for thread 10
+80 % complete for thread 12
+Time taken for that stage:- 45.2301 for thread 12
+Score obtained for that stage:- 166.615 for thread 12
+84 % complete for thread 12
+Time taken for that stage:- 0.0017397 for thread 12
+Score obtained for that stage:- 1724.44 for thread 12
+80 % complete for thread 11
+Time taken for that stage:- 45.4162 for thread 11
+Score obtained for that stage:- 165.932 for thread 11
+84 % complete for thread 11
+Time taken for that stage:- 0.0017256 for thread 11
+Score obtained for that stage:- 1738.53 for thread 11
+88 % complete for thread 12
+Time taken for that stage:- 0.0262825 for thread 12
+Score obtained for that stage:- 1331.68 for thread 12
+92 % complete for thread 10
+Time taken for that stage:- 1.63111 for thread 10
+Score obtained for that stage:- 167.371 for thread 10
+88 % complete for thread 11
+Time taken for that stage:- 0.0266057 for thread 11
+Score obtained for that stage:- 1315.51 for thread 11
+76 % complete for thread 27
+Time taken for that stage:- 14.4529 for thread 27
+Score obtained for that stage:- 153.949 for thread 27
+92 % complete for thread 12
+Time taken for that stage:- 1.61445 for thread 12
+Score obtained for that stage:- 169.098 for thread 12
+92 % complete for thread 11
+Time taken for that stage:- 1.63184 for thread 11
+Score obtained for that stage:- 167.296 for thread 11
+96 % complete for thread 6
+Time taken for that stage:- 14.4519 for thread 6
+Score obtained for that stage:- 153.959 for thread 6
+96 % complete for thread 7
+Time taken for that stage:- 13.0262 for thread 7
+Score obtained for that stage:- 170.81 for thread 7
+80 % complete for thread 13
+Time taken for that stage:- 45.2032 for thread 13
+Score obtained for that stage:- 166.714 for thread 13
+84 % complete for thread 13
+Time taken for that stage:- 0.001737 for thread 13
+Score obtained for that stage:- 1727.12 for thread 13
+88 % complete for thread 13
+Time taken for that stage:- 0.0264322 for thread 13
+Score obtained for that stage:- 1324.14 for thread 13
+76 % complete for thread 32
+Time taken for that stage:- 14.4469 for thread 32
+Score obtained for that stage:- 154.012 for thread 32
+92 % complete for thread 13
+Time taken for that stage:- 1.63102 for thread 13
+Score obtained for that stage:- 167.38 for thread 13
+80 % complete for thread 14
+Time taken for that stage:- 43.978 for thread 14
+Score obtained for that stage:- 171.358 for thread 14
+84 % complete for thread 14
+Time taken for that stage:- 0.0017386 for thread 14
+Score obtained for that stage:- 1725.53 for thread 14
+88 % complete for thread 14
+Time taken for that stage:- 0.0265132 for thread 14
+Score obtained for that stage:- 1320.1 for thread 14
+96 % complete for thread 9
+Time taken for that stage:- 13.0167 for thread 9
+Score obtained for that stage:- 170.935 for thread 9
+96 % complete for thread 8
+Time taken for that stage:- 14.432 for thread 8
+Score obtained for that stage:- 154.171 for thread 8
+76 % complete for thread 29
+Time taken for that stage:- 13.0289 for thread 29
+Score obtained for that stage:- 170.774 for thread 29
+92 % complete for thread 14
+Time taken for that stage:- 1.63108 for thread 14
+Score obtained for that stage:- 167.373 for thread 14
+80 % complete for thread 15
+Time taken for that stage:- 45.4128 for thread 15
+Score obtained for that stage:- 165.944 for thread 15
+84 % complete for thread 15
+Time taken for that stage:- 0.001739 for thread 15
+Score obtained for that stage:- 1725.13 for thread 15
+88 % complete for thread 15
+Time taken for that stage:- 0.0264842 for thread 15
+Score obtained for that stage:- 1321.54 for thread 15
+76 % complete for thread 31
+Time taken for that stage:- 13.0419 for thread 31
+Score obtained for that stage:- 170.604 for thread 31
+92 % complete for thread 15
+Time taken for that stage:- 1.63177 for thread 15
+Score obtained for that stage:- 167.303 for thread 15
+80 % complete for thread 16
+Time taken for that stage:- 46.7846 for thread 16
+Score obtained for that stage:- 161.079 for thread 16
+84 % complete for thread 16
+Time taken for that stage:- 0.0017563 for thread 16
+Score obtained for that stage:- 1708.14 for thread 16
+88 % complete for thread 16
+Time taken for that stage:- 0.0266017 for thread 16
+Score obtained for that stage:- 1315.71 for thread 16
+96 % complete for thread 10
+Time taken for that stage:- 13.0277 for thread 10
+Score obtained for that stage:- 170.789 for thread 10
+80 % complete for thread 17
+Time taken for that stage:- 45.1677 for thread 17
+Score obtained for that stage:- 166.845 for thread 17
+84 % complete for thread 17
+Time taken for that stage:- 0.001752 for thread 17
+Score obtained for that stage:- 1712.33 for thread 17
+88 % complete for thread 17
+Time taken for that stage:- 0.0264575 for thread 17
+Score obtained for that stage:- 1322.88 for thread 17
+92 % complete for thread 16
+Time taken for that stage:- 1.63308 for thread 16
+Score obtained for that stage:- 167.169 for thread 16
+96 % complete for thread 12
+Time taken for that stage:- 13.0286 for thread 12
+Score obtained for that stage:- 170.778 for thread 12
+92 % complete for thread 17
+Time taken for that stage:- 1.63541 for thread 17
+Score obtained for that stage:- 166.931 for thread 17
+80 % complete for thread 18
+Time taken for that stage:- 45.4037 for thread 18
+Score obtained for that stage:- 165.978 for thread 18
+84 % complete for thread 18
+Time taken for that stage:- 0.0017363 for thread 18
+Score obtained for that stage:- 1727.81 for thread 18
+88 % complete for thread 18
+Time taken for that stage:- 0.0263409 for thread 18
+Score obtained for that stage:- 1328.73 for thread 18
+96 % complete for thread 11
+Time taken for that stage:- 14.4019 for thread 11
+Score obtained for that stage:- 154.493 for thread 11
+92 % complete for thread 18
+Time taken for that stage:- 1.63159 for thread 18
+Score obtained for that stage:- 167.321 for thread 18
+80 % complete for thread 19
+Time taken for that stage:- 45.3736 for thread 19
+Score obtained for that stage:- 166.088 for thread 19
+84 % complete for thread 19
+Time taken for that stage:- 0.001737 for thread 19
+Score obtained for that stage:- 1727.12 for thread 19
+88 % complete for thread 19
+Time taken for that stage:- 0.026457 for thread 19
+Score obtained for that stage:- 1322.9 for thread 19
+96 % complete for thread 13
+Time taken for that stage:- 12.9946 for thread 13
+Score obtained for that stage:- 171.225 for thread 13
+92 % complete for thread 19
+Time taken for that stage:- 1.6317 for thread 19
+Score obtained for that stage:- 167.31 for thread 19
+80 % complete for thread 20
+Time taken for that stage:- 45.3737 for thread 20
+Score obtained for that stage:- 166.087 for thread 20
+84 % complete for thread 20
+Time taken for that stage:- 0.0017391 for thread 20
+Score obtained for that stage:- 1725.03 for thread 20
+88 % complete for thread 20
+Time taken for that stage:- 0.02648 for thread 20
+Score obtained for that stage:- 1321.75 for thread 20
+92 % complete for thread 20
+Time taken for that stage:- 1.63167 for thread 20
+Score obtained for that stage:- 167.313 for thread 20
+96 % complete for thread 14
+Time taken for that stage:- 14.4651 for thread 14
+Score obtained for that stage:- 153.819 for thread 14
+96 % complete for thread 15
+Time taken for that stage:- 12.9832 for thread 15
+Score obtained for that stage:- 171.376 for thread 15
+80 % complete for thread 21
+Time taken for that stage:- 45.3427 for thread 21
+Score obtained for that stage:- 166.201 for thread 21
+84 % complete for thread 21
+Time taken for that stage:- 0.0017608 for thread 21
+Score obtained for that stage:- 1703.77 for thread 21
+88 % complete for thread 21
+Time taken for that stage:- 0.0262365 for thread 21
+Score obtained for that stage:- 1334.02 for thread 21
+80 % complete for thread 22
+Time taken for that stage:- 45.2101 for thread 22
+Score obtained for that stage:- 166.688 for thread 22
+84 % complete for thread 22
+Time taken for that stage:- 0.0017371 for thread 22
+Score obtained for that stage:- 1727.02 for thread 22
+88 % complete for thread 22
+Time taken for that stage:- 0.0264485 for thread 22
+Score obtained for that stage:- 1323.33 for thread 22
+92 % complete for thread 21
+Time taken for that stage:- 1.63135 for thread 21
+Score obtained for that stage:- 167.346 for thread 21
+96 % complete for thread 16
+Time taken for that stage:- 13.0256 for thread 16
+Score obtained for that stage:- 170.817 for thread 16
+92 % complete for thread 22
+Time taken for that stage:- 1.61676 for thread 22
+Score obtained for that stage:- 168.856 for thread 22
+80 % complete for thread 24
+Time taken for that stage:- 45.331 for thread 24
+Score obtained for that stage:- 166.244 for thread 24
+84 % complete for thread 24
+Time taken for that stage:- 0.0017406 for thread 24
+Score obtained for that stage:- 1723.54 for thread 24
+88 % complete for thread 24
+Time taken for that stage:- 0.0263435 for thread 24
+Score obtained for that stage:- 1328.6 for thread 24
+96 % complete for thread 17
+Time taken for that stage:- 14.4588 for thread 17
+Score obtained for that stage:- 153.886 for thread 17
+92 % complete for thread 24
+Time taken for that stage:- 1.63167 for thread 24
+Score obtained for that stage:- 167.314 for thread 24
+96 % complete for thread 18
+Time taken for that stage:- 13.0478 for thread 18
+Score obtained for that stage:- 170.527 for thread 18
+80 % complete for thread 23
+Time taken for that stage:- 45.4076 for thread 23
+Score obtained for that stage:- 165.964 for thread 23
+84 % complete for thread 23
+Time taken for that stage:- 0.0017376 for thread 23
+Score obtained for that stage:- 1726.52 for thread 23
+88 % complete for thread 23
+Time taken for that stage:- 0.0265026 for thread 23
+Score obtained for that stage:- 1320.63 for thread 23
+92 % complete for thread 23
+Time taken for that stage:- 1.61628 for thread 23
+Score obtained for that stage:- 168.906 for thread 23
+96 % complete for thread 19
+Time taken for that stage:- 14.4355 for thread 19
+Score obtained for that stage:- 154.134 for thread 19
+80 % complete for thread 26
+Time taken for that stage:- 45.395 for thread 26
+Score obtained for that stage:- 166.009 for thread 26
+84 % complete for thread 26
+Time taken for that stage:- 0.0017469 for thread 26
+Score obtained for that stage:- 1717.33 for thread 26
+88 % complete for thread 26
+Time taken for that stage:- 0.0264445 for thread 26
+Score obtained for that stage:- 1323.53 for thread 26
+96 % complete for thread 20
+Time taken for that stage:- 13.0293 for thread 20
+Score obtained for that stage:- 170.769 for thread 20
+80 % complete for thread 25
+Time taken for that stage:- 45.3466 for thread 25
+Score obtained for that stage:- 166.186 for thread 25
+84 % complete for thread 25
+Time taken for that stage:- 0.0017404 for thread 25
+Score obtained for that stage:- 1723.74 for thread 25
+88 % complete for thread 25
+Time taken for that stage:- 0.0264989 for thread 25
+Score obtained for that stage:- 1320.81 for thread 25
+92 % complete for thread 26
+Time taken for that stage:- 1.63115 for thread 26
+Score obtained for that stage:- 167.367 for thread 26
+92 % complete for thread 25
+Time taken for that stage:- 1.63113 for thread 25
+Score obtained for that stage:- 167.369 for thread 25
+96 % complete for thread 21
+Time taken for that stage:- 13.044 for thread 21
+Score obtained for that stage:- 170.576 for thread 21
+80 % complete for thread 28
+Time taken for that stage:- 45.3981 for thread 28
+Score obtained for that stage:- 165.998 for thread 28
+84 % complete for thread 28
+Time taken for that stage:- 0.0017421 for thread 28
+Score obtained for that stage:- 1722.06 for thread 28
+88 % complete for thread 28
+Time taken for that stage:- 0.0262828 for thread 28
+Score obtained for that stage:- 1331.67 for thread 28
+96 % complete for thread 22
+Time taken for that stage:- 12.9979 for thread 22
+Score obtained for that stage:- 171.181 for thread 22
+100 % complete for thread 2
+Time taken for that stage:- 43.9659 for thread 2
+Score obtained for that stage:- 171.406 for thread 2
+------------------------
+RESULTS FOR THREAD 2
+------------------------
+Average time taken for stage 1 is 0.0017407 seconds and average score is 1723.44
+Average time taken for stage 2 is 0.0265257 seconds and average score is 1319.48
+Average time taken for stage 3 is 1.29719 seconds and average score is 210.455
+Average time taken for stage 4 is 11.0526 seconds and average score is 201.31
+Average time taken for stage 5 is 41.1943 seconds and average score is 182.938
+Thread 2 score: 787.647 points!
+100 % complete for thread 4
+Time taken for that stage:- 43.9542 for thread 4
+Score obtained for that stage:- 171.451 for thread 4
+------------------------
+RESULTS FOR THREAD 4
+------------------------
+Average time taken for stage 1 is 0.0017421 seconds and average score is 1722.06
+Average time taken for stage 2 is 0.0264258 seconds and average score is 1324.47
+Average time taken for stage 3 is 1.30109 seconds and average score is 209.824
+Average time taken for stage 4 is 11.3131 seconds and average score is 196.675
+Average time taken for stage 5 is 40.9716 seconds and average score is 183.932
+Thread 4 score: 786.767 points!
+100 % complete for thread 1
+Time taken for that stage:- 43.7514 for thread 1
+Score obtained for that stage:- 172.246 for thread 1
+------------------------
+RESULTS FOR THREAD 1
+------------------------
+Average time taken for stage 1 is 0.00173474 seconds and average score is 1729.37
+Average time taken for stage 2 is 0.0263759 seconds and average score is 1326.97
+Average time taken for stage 3 is 1.30664 seconds and average score is 208.933
+Average time taken for stage 4 is 11.1607 seconds and average score is 199.36
+Average time taken for stage 5 is 41.1946 seconds and average score is 182.937
+Thread 1 score: 785.212 points!
+92 % complete for thread 28
+Time taken for that stage:- 1.61647 for thread 28
+Score obtained for that stage:- 168.887 for thread 28
+100 % complete for thread 3
+Time taken for that stage:- 45.4094 for thread 3
+Score obtained for that stage:- 165.957 for thread 3
+------------------------
+RESULTS FOR THREAD 3
+------------------------
+Average time taken for stage 1 is 0.00173324 seconds and average score is 1730.86
+Average time taken for stage 2 is 0.310225 seconds and average score is 112.821
+Average time taken for stage 3 is 1.27727 seconds and average score is 213.737
+Average time taken for stage 4 is 10.9844 seconds and average score is 202.559
+Average time taken for stage 5 is 41.1324 seconds and average score is 183.213
+Thread 3 score: 740.748 points!
+80 % complete for thread 30
+Time taken for that stage:- 45.13 for thread 30
+Score obtained for that stage:- 166.984 for thread 30
+84 % complete for thread 30
+Time taken for that stage:- 0.0017385 for thread 30
+Score obtained for that stage:- 1725.63 for thread 30
+88 % complete for thread 30
+Time taken for that stage:- 0.0264095 for thread 30
+Score obtained for that stage:- 1325.28 for thread 30
+96 % complete for thread 24
+Time taken for that stage:- 12.6246 for thread 24
+Score obtained for that stage:- 176.244 for thread 24
+100 % complete for thread 5
+Time taken for that stage:- 44.9084 for thread 5
+Score obtained for that stage:- 167.808 for thread 5
+------------------------
+RESULTS FOR THREAD 5
+------------------------
+Average time taken for stage 1 is 0.00172122 seconds and average score is 1742.95
+Average time taken for stage 2 is 0.0271796 seconds and average score is 1287.73
+Average time taken for stage 3 is 1.33244 seconds and average score is 204.887
+Average time taken for stage 4 is 10.9386 seconds and average score is 203.408
+Average time taken for stage 5 is 41.7412 seconds and average score is 180.541
+Thread 5 score: 754.576 points!
+92 % complete for thread 30
+Time taken for that stage:- 1.42794 for thread 30
+Score obtained for that stage:- 191.185 for thread 30
+80 % complete for thread 27
+Time taken for that stage:- 43.224 for thread 27
+Score obtained for that stage:- 174.348 for thread 27
+84 % complete for thread 27
+Time taken for that stage:- 0.0017359 for thread 27
+Score obtained for that stage:- 1728.21 for thread 27
+88 % complete for thread 27
+Time taken for that stage:- 0.0265385 for thread 27
+Score obtained for that stage:- 1318.84 for thread 27
+96 % complete for thread 23
+Time taken for that stage:- 12.3006 for thread 23
+Score obtained for that stage:- 180.886 for thread 23
+100 % complete for thread 6
+Time taken for that stage:- 43.2878 for thread 6
+Score obtained for that stage:- 174.09 for thread 6
+------------------------
+RESULTS FOR THREAD 6
+------------------------
+Average time taken for stage 1 is 0.00180844 seconds and average score is 1658.89
+Average time taken for stage 2 is 0.0264287 seconds and average score is 1324.32
+Average time taken for stage 3 is 1.31265 seconds and average score is 207.976
+Average time taken for stage 4 is 11.6831 seconds and average score is 190.446
+Average time taken for stage 5 is 41.43 seconds and average score is 181.897
+Thread 6 score: 758.109 points!
+92 % complete for thread 27
+Time taken for that stage:- 2.46062 for thread 27
+Score obtained for that stage:- 110.948 for thread 27
+100 % complete for thread 7
+Time taken for that stage:- 44.0027 for thread 7
+Score obtained for that stage:- 171.262 for thread 7
+------------------------
+RESULTS FOR THREAD 7
+------------------------
+Average time taken for stage 1 is 0.00215368 seconds and average score is 1392.96
+Average time taken for stage 2 is 0.0263862 seconds and average score is 1326.45
+Average time taken for stage 3 is 1.35939 seconds and average score is 200.825
+Average time taken for stage 4 is 11.2246 seconds and average score is 198.225
+Average time taken for stage 5 is 42.1369 seconds and average score is 178.846
+Thread 7 score: 711.217 points!
+80 % complete for thread 32
+Time taken for that stage:- 42.4461 for thread 32
+Score obtained for that stage:- 177.543 for thread 32
+84 % complete for thread 32
+Time taken for that stage:- 0.001737 for thread 32
+Score obtained for that stage:- 1727.12 for thread 32
+88 % complete for thread 32
+Time taken for that stage:- 0.026347 for thread 32
+Score obtained for that stage:- 1328.42 for thread 32
+92 % complete for thread 32
+Time taken for that stage:- 1.27326 for thread 32
+Score obtained for that stage:- 214.41 for thread 32
+100 % complete for thread 8
+Time taken for that stage:- 42.0223 for thread 8
+Score obtained for that stage:- 179.333 for thread 8
+------------------------
+RESULTS FOR THREAD 8
+------------------------
+Average time taken for stage 1 is 0.0017421 seconds and average score is 1722.06
+Average time taken for stage 2 is 0.0264075 seconds and average score is 1325.38
+Average time taken for stage 3 is 1.38454 seconds and average score is 197.178
+Average time taken for stage 4 is 11.6133 seconds and average score is 191.59
+Average time taken for stage 5 is 42.0238 seconds and average score is 179.327
+Thread 8 score: 744.988 points!
+96 % complete for thread 26
+Time taken for that stage:- 12.6364 for thread 26
+Score obtained for that stage:- 176.079 for thread 26
+96 % complete for thread 25
+Time taken for that stage:- 11.3097 for thread 25
+Score obtained for that stage:- 196.734 for thread 25
+100 % complete for thread 9
+Time taken for that stage:- 43.0371 for thread 9
+Score obtained for that stage:- 175.105 for thread 9
+------------------------
+RESULTS FOR THREAD 9
+------------------------
+Average time taken for stage 1 is 0.0017404 seconds and average score is 1723.74
+Average time taken for stage 2 is 0.0264615 seconds and average score is 1322.68
+Average time taken for stage 3 is 1.38434 seconds and average score is 197.206
+Average time taken for stage 4 is 11.3865 seconds and average score is 195.407
+Average time taken for stage 5 is 42.2864 seconds and average score is 178.213
+Thread 9 score: 744.333 points!
+80 % complete for thread 29
+Time taken for that stage:- 42.7111 for thread 29
+Score obtained for that stage:- 176.441 for thread 29
+84 % complete for thread 29
+Time taken for that stage:- 0.0017595 for thread 29
+Score obtained for that stage:- 1705.03 for thread 29
+88 % complete for thread 29
+Time taken for that stage:- 0.0263982 for thread 29
+Score obtained for that stage:- 1325.85 for thread 29
+92 % complete for thread 29
+Time taken for that stage:- 1.10061 for thread 29
+Score obtained for that stage:- 248.043 for thread 29
+96 % complete for thread 28
+Time taken for that stage:- 11.5917 for thread 28
+Score obtained for that stage:- 191.948 for thread 28
+80 % complete for thread 31
+Time taken for that stage:- 42.494 for thread 31
+Score obtained for that stage:- 177.343 for thread 31
+84 % complete for thread 31
+Time taken for that stage:- 0.0017442 for thread 31
+Score obtained for that stage:- 1719.99 for thread 31
+88 % complete for thread 31
+Time taken for that stage:- 0.0263392 for thread 31
+Score obtained for that stage:- 1328.82 for thread 31
+96 % complete for thread 30
+Time taken for that stage:- 10.173 for thread 30
+Score obtained for that stage:- 218.717 for thread 30
+92 % complete for thread 31
+Time taken for that stage:- 1.10182 for thread 31
+Score obtained for that stage:- 247.771 for thread 31
+100 % complete for thread 10
+Time taken for that stage:- 41.4835 for thread 10
+Score obtained for that stage:- 181.663 for thread 10
+------------------------
+RESULTS FOR THREAD 10
+------------------------
+Average time taken for stage 1 is 0.00173662 seconds and average score is 1727.49
+Average time taken for stage 2 is 0.0264564 seconds and average score is 1322.93
+Average time taken for stage 3 is 1.36715 seconds and average score is 199.685
+Average time taken for stage 4 is 11.4641 seconds and average score is 194.083
+Average time taken for stage 5 is 42.93 seconds and average score is 175.542
+Thread 10 score: 743.092 points!
+100 % complete for thread 11
+Time taken for that stage:- 39.6207 for thread 11
+Score obtained for that stage:- 190.204 for thread 11
+------------------------
+RESULTS FOR THREAD 11
+------------------------
+Average time taken for stage 1 is 0.00162288 seconds and average score is 1848.57
+Average time taken for stage 2 is 0.0257577 seconds and average score is 1358.82
+Average time taken for stage 3 is 1.42848 seconds and average score is 191.112
+Average time taken for stage 4 is 11.8434 seconds and average score is 187.869
+Average time taken for stage 5 is 42.559 seconds and average score is 177.072
+Thread 11 score: 773.87 points!
+100 % complete for thread 12
+Time taken for that stage:- 41.8528 for thread 12
+Score obtained for that stage:- 180.06 for thread 12
+------------------------
+RESULTS FOR THREAD 12
+------------------------
+Average time taken for stage 1 is 0.00176464 seconds and average score is 1700.06
+Average time taken for stage 2 is 0.0261129 seconds and average score is 1340.33
+Average time taken for stage 3 is 1.42185 seconds and average score is 192.003
+Average time taken for stage 4 is 11.561 seconds and average score is 192.458
+Average time taken for stage 5 is 42.8483 seconds and average score is 175.876
+Thread 12 score: 730.794 points!
+96 % complete for thread 27
+Time taken for that stage:- 9.48096 for thread 27
+Score obtained for that stage:- 234.681 for thread 27
+96 % complete for thread 32
+Time taken for that stage:- 9.87751 for thread 32
+Score obtained for that stage:- 225.259 for thread 32
+100 % complete for thread 13
+Time taken for that stage:- 40.3657 for thread 13
+Score obtained for that stage:- 186.693 for thread 13
+------------------------
+RESULTS FOR THREAD 13
+------------------------
+Average time taken for stage 1 is 0.00174292 seconds and average score is 1721.25
+Average time taken for stage 2 is 0.0265359 seconds and average score is 1318.97
+Average time taken for stage 3 is 1.70994 seconds and average score is 159.654
+Average time taken for stage 4 is 11.6916 seconds and average score is 190.308
+Average time taken for stage 5 is 42.7816 seconds and average score is 176.15
+Thread 13 score: 725.183 points!
+100 % complete for thread 14
+Time taken for that stage:- 36.8009 for thread 14
+Score obtained for that stage:- 204.778 for thread 14
+------------------------
+RESULTS FOR THREAD 14
+------------------------
+Average time taken for stage 1 is 0.00174334 seconds and average score is 1720.83
+Average time taken for stage 2 is 0.0264702 seconds and average score is 1322.24
+Average time taken for stage 3 is 1.43472 seconds and average score is 190.281
+Average time taken for stage 4 is 12.383 seconds and average score is 179.681
+Average time taken for stage 5 is 42.3217 seconds and average score is 178.065
+Thread 14 score: 726.894 points!
+100 % complete for thread 15
+Time taken for that stage:- 37.5604 for thread 15
+Score obtained for that stage:- 200.637 for thread 15
+------------------------
+RESULTS FOR THREAD 15
+------------------------
+Average time taken for stage 1 is 0.00196008 seconds and average score is 1530.55
+Average time taken for stage 2 is 0.025774 seconds and average score is 1357.96
+Average time taken for stage 3 is 1.4604 seconds and average score is 186.935
+Average time taken for stage 4 is 11.8042 seconds and average score is 188.492
+Average time taken for stage 5 is 42.8801 seconds and average score is 175.746
+Thread 15 score: 706.521 points!
+96 % complete for thread 29
+Time taken for that stage:- 9.15021 for thread 29
+Score obtained for that stage:- 243.164 for thread 29
+96 % complete for thread 31
+Time taken for that stage:- 8.85706 for thread 31
+Score obtained for that stage:- 251.212 for thread 31
+100 % complete for thread 16
+Time taken for that stage:- 36.2274 for thread 16
+Score obtained for that stage:- 208.019 for thread 16
+------------------------
+RESULTS FOR THREAD 16
+------------------------
+Average time taken for stage 1 is 0.00175392 seconds and average score is 1710.45
+Average time taken for stage 2 is 0.0265059 seconds and average score is 1320.46
+Average time taken for stage 3 is 1.46603 seconds and average score is 186.217
+Average time taken for stage 4 is 11.9167 seconds and average score is 186.713
+Average time taken for stage 5 is 42.8644 seconds and average score is 175.81
+Thread 16 score: 720.875 points!
+100 % complete for thread 17
+Time taken for that stage:- 34.9333 for thread 17
+Score obtained for that stage:- 215.725 for thread 17
+------------------------
+RESULTS FOR THREAD 17
+------------------------
+Average time taken for stage 1 is 0.00174358 seconds and average score is 1720.6
+Average time taken for stage 2 is 0.026488 seconds and average score is 1321.35
+Average time taken for stage 3 is 1.46892 seconds and average score is 185.851
+Average time taken for stage 4 is 12.3343 seconds and average score is 180.391
+Average time taken for stage 5 is 42.4341 seconds and average score is 177.593
+Thread 17 score: 721.78 points!
+100 % complete for thread 18
+Time taken for that stage:- 34.3288 for thread 18
+Score obtained for that stage:- 219.524 for thread 18
+------------------------
+RESULTS FOR THREAD 18
+------------------------
+Average time taken for stage 1 is 0.00174604 seconds and average score is 1718.17
+Average time taken for stage 2 is 0.026426 seconds and average score is 1324.45
+Average time taken for stage 3 is 1.47192 seconds and average score is 185.472
+Average time taken for stage 4 is 12.1756 seconds and average score is 182.742
+Average time taken for stage 5 is 42.3926 seconds and average score is 177.767
+Thread 18 score: 721.87 points!
+100 % complete for thread 19
+Time taken for that stage:- 32.6221 for thread 19
+Score obtained for that stage:- 231.009 for thread 19
+------------------------
+RESULTS FOR THREAD 19
+------------------------
+Average time taken for stage 1 is 0.0017525 seconds and average score is 1711.84
+Average time taken for stage 2 is 0.0264733 seconds and average score is 1322.09
+Average time taken for stage 3 is 1.50335 seconds and average score is 181.594
+Average time taken for stage 4 is 12.5035 seconds and average score is 177.95
+Average time taken for stage 5 is 42.047 seconds and average score is 179.228
+Thread 19 score: 717.45 points!
+100 % complete for thread 20
+Time taken for that stage:- 31.2218 for thread 20
+Score obtained for that stage:- 241.37 for thread 20
+------------------------
+RESULTS FOR THREAD 20
+------------------------
+Average time taken for stage 1 is 0.00174726 seconds and average score is 1716.97
+Average time taken for stage 2 is 0.026502 seconds and average score is 1320.66
+Average time taken for stage 3 is 1.50672 seconds and average score is 181.188
+Average time taken for stage 4 is 12.3366 seconds and average score is 180.358
+Average time taken for stage 5 is 42.0592 seconds and average score is 179.176
+Thread 20 score: 718.286 points!
+100 % complete for thread 21
+Time taken for that stage:- 29.4112 for thread 21
+Score obtained for that stage:- 256.229 for thread 21
+------------------------
+RESULTS FOR THREAD 21
+------------------------
+Average time taken for stage 1 is 0.00175414 seconds and average score is 1710.24
+Average time taken for stage 2 is 0.0264259 seconds and average score is 1324.46
+Average time taken for stage 3 is 1.5187 seconds and average score is 179.759
+Average time taken for stage 4 is 12.3591 seconds and average score is 180.03
+Average time taken for stage 5 is 41.8657 seconds and average score is 180.004
+Thread 21 score: 717.496 points!
+100 % complete for thread 22
+Time taken for that stage:- 28.5284 for thread 22
+Score obtained for that stage:- 264.158 for thread 22
+------------------------
+RESULTS FOR THREAD 22
+------------------------
+Average time taken for stage 1 is 0.00174038 seconds and average score is 1723.76
+Average time taken for stage 2 is 0.0264497 seconds and average score is 1323.26
+Average time taken for stage 3 is 1.50994 seconds and average score is 180.802
+Average time taken for stage 4 is 12.4287 seconds and average score is 179.021
+Average time taken for stage 5 is 41.7111 seconds and average score is 180.672
+Thread 22 score: 720.147 points!
+100 % complete for thread 24
+Time taken for that stage:- 26.9455 for thread 24
+Score obtained for that stage:- 279.676 for thread 24
+------------------------
+RESULTS FOR THREAD 24
+------------------------
+Average time taken for stage 1 is 0.00174108 seconds and average score is 1723.07
+Average time taken for stage 2 is 0.0265036 seconds and average score is 1320.58
+Average time taken for stage 3 is 1.55011 seconds and average score is 176.117
+Average time taken for stage 4 is 12.4235 seconds and average score is 179.096
+Average time taken for stage 5 is 41.4626 seconds and average score is 181.754
+Thread 24 score: 718.449 points!
+100 % complete for thread 23
+Time taken for that stage:- 25.1154 for thread 23
+Score obtained for that stage:- 300.055 for thread 23
+------------------------
+RESULTS FOR THREAD 23
+------------------------
+Average time taken for stage 1 is 0.00172106 seconds and average score is 1743.11
+Average time taken for stage 2 is 0.0264194 seconds and average score is 1324.78
+Average time taken for stage 3 is 1.54713 seconds and average score is 176.456
+Average time taken for stage 4 is 12.4801 seconds and average score is 178.284
+Average time taken for stage 5 is 41.1937 seconds and average score is 182.941
+Thread 23 score: 723.978 points!
+100 % complete for thread 26
+Time taken for that stage:- 21.8842 for thread 26
+Score obtained for that stage:- 344.358 for thread 26
+------------------------
+RESULTS FOR THREAD 26
+------------------------
+Average time taken for stage 1 is 0.00174196 seconds and average score is 1722.2
+Average time taken for stage 2 is 0.0264614 seconds and average score is 1322.68
+Average time taken for stage 3 is 1.55361 seconds and average score is 175.72
+Average time taken for stage 4 is 12.8437 seconds and average score is 173.236
+Average time taken for stage 5 is 40.5861 seconds and average score is 185.679
+Thread 26 score: 719.574 points!
+100 % complete for thread 25
+Time taken for that stage:- 22.1672 for thread 25
+Score obtained for that stage:- 339.961 for thread 25
+------------------------
+RESULTS FOR THREAD 25
+------------------------
+Average time taken for stage 1 is 0.0017422 seconds and average score is 1721.96
+Average time taken for stage 2 is 0.0265429 seconds and average score is 1318.62
+Average time taken for stage 3 is 1.55259 seconds and average score is 175.836
+Average time taken for stage 4 is 12.3615 seconds and average score is 179.995
+Average time taken for stage 5 is 40.6854 seconds and average score is 185.226
+Thread 25 score: 719.963 points!
+100 % complete for thread 28
+Time taken for that stage:- 19.7577 for thread 28
+Score obtained for that stage:- 381.421 for thread 28
+------------------------
+RESULTS FOR THREAD 28
+------------------------
+Average time taken for stage 1 is 0.00174822 seconds and average score is 1716.03
+Average time taken for stage 2 is 0.0264102 seconds and average score is 1325.25
+Average time taken for stage 3 is 1.57549 seconds and average score is 173.28
+Average time taken for stage 4 is 12.5474 seconds and average score is 177.328
+Average time taken for stage 5 is 40.1362 seconds and average score is 187.761
+Thread 28 score: 720.546 points!
+100 % complete for thread 30
+Time taken for that stage:- 19.1744 for thread 30
+Score obtained for that stage:- 393.023 for thread 30
+------------------------
+RESULTS FOR THREAD 30
+------------------------
+Average time taken for stage 1 is 0.0017539 seconds and average score is 1710.47
+Average time taken for stage 2 is 0.02649 seconds and average score is 1321.25
+Average time taken for stage 3 is 1.55039 seconds and average score is 176.085
+Average time taken for stage 4 is 12.2913 seconds and average score is 181.022
+Average time taken for stage 5 is 40.0002 seconds and average score is 188.399
+Thread 30 score: 720.728 points!
+100 % complete for thread 27
+Time taken for that stage:- 16.4132 for thread 27
+Score obtained for that stage:- 459.142 for thread 27
+------------------------
+RESULTS FOR THREAD 27
+------------------------
+Average time taken for stage 1 is 0.00174462 seconds and average score is 1719.57
+Average time taken for stage 2 is 0.0264299 seconds and average score is 1324.26
+Average time taken for stage 3 is 1.75339 seconds and average score is 155.699
+Average time taken for stage 4 is 12.517 seconds and average score is 177.758
+Average time taken for stage 5 is 39.1316 seconds and average score is 192.581
+Thread 27 score: 722.574 points!
+100 % complete for thread 29
+Time taken for that stage:- 12.0091 for thread 29
+Score obtained for that stage:- 627.522 for thread 29
+------------------------
+RESULTS FOR THREAD 29
+------------------------
+Average time taken for stage 1 is 0.00174864 seconds and average score is 1715.62
+Average time taken for stage 2 is 0.0264294 seconds and average score is 1324.28
+Average time taken for stage 3 is 1.52027 seconds and average score is 179.573
+Average time taken for stage 4 is 12.5402 seconds and average score is 177.429
+Average time taken for stage 5 is 38.4048 seconds and average score is 196.226
+Thread 29 score: 733.086 points!
+100 % complete for thread 32
+Time taken for that stage:- 14.5605 for thread 32
+Score obtained for that stage:- 517.563 for thread 32
+------------------------
+RESULTS FOR THREAD 32
+------------------------
+Average time taken for stage 1 is 0.00171792 seconds and average score is 1746.3
+Average time taken for stage 2 is 0.0264329 seconds and average score is 1324.11
+Average time taken for stage 3 is 1.54105 seconds and average score is 177.152
+Average time taken for stage 4 is 12.6414 seconds and average score is 176.009
+Average time taken for stage 5 is 38.8766 seconds and average score is 193.844
+Thread 32 score: 733.522 points!
+100 % complete for thread 31
+Time taken for that stage:- 11.4699 for thread 31
+Score obtained for that stage:- 657.022 for thread 31
+------------------------
+RESULTS FOR THREAD 31
+------------------------
+Average time taken for stage 1 is 0.0017413 seconds and average score is 1722.85
+Average time taken for stage 2 is 0.0263798 seconds and average score is 1326.77
+Average time taken for stage 3 is 1.51925 seconds and average score is 179.693
+Average time taken for stage 4 is 12.1687 seconds and average score is 182.846
+Average time taken for stage 5 is 38.286 seconds and average score is 196.834
+Thread 31 score: 737.296 points!
+------------------------
+OVERALL RESULTS
+------------------------
+Average time taken for stage 1 is 0.00176018 seconds and average score is 1704.37
+Average time taken for stage 2 is 0.0352904 seconds and average score is 991.771
+Average time taken for stage 3 is 1.46522 seconds and average score is 186.32
+Average time taken for stage 4 is 11.9679 seconds and average score is 185.914
+Average time taken for stage 5 is 41.3928 seconds and average score is 182.061
+Final score: 734.612 points!
+Total time taken to run benchmark in seconds: 301.598

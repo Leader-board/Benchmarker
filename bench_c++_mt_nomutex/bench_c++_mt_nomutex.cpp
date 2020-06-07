@@ -1,7 +1,6 @@
 // Benchmarker.cpp : Defines the entry point for the console application.
 /*
-Multithreaded version of the Benchmarker program. Improved from the older version that I wrote nearly two years ago. Uses the thread library from C++ and mutexes.
-Does not appear to exhibit the same memory leak issues with the older version.
+Version with no use of mutexes. Idea is to prevent each thread from sleeping to investigate performance variances.
 */
 
 #include <iostream>
@@ -17,7 +16,6 @@ void printresult(double*, double, int);
 // This program prints all the Pythagorean triplets from 1 to k , which the user will enter.
 double avg_stagetime[5];
 double fin_score;
-mutex m; // mutex for thread coordination
 void selection()
 {
 	int choose;
