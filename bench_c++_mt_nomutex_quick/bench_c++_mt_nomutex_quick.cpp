@@ -13,8 +13,7 @@ auto NUMBER_OF_THREADS = 16;
 using namespace std;
 void printresult(double*, double, int);
 // This program prints all the Pythagorean triplets from 1 to k , which the user will enter.
-double avg_stagetime[5];
-double fin_score;
+int k_val = 0; // value of k for quick version
 void selection()
 {
 	int choose;
@@ -43,6 +42,8 @@ base:cout << "Type 1 to start benchmarking." << '\n';
 	// ask for number of threads
 	cout << "Enter number of threads to run program with\n";
 	cin >> NUMBER_OF_THREADS;
+	cout << "Enter value of k for every run\n";
+	cin >> k_val;
 }
 void mainbase(int thread_no)
 {
@@ -68,16 +69,7 @@ void mainbase(int thread_no)
 			d = 1;
 			count = 0;// a and b are the base/height.
 			// so we are keeping k fixed this time.
-			if (p == 1)
-				k = 100;
-			else if (p == 2)
-				k = 100;
-			else if (p == 3)
-				k = 100;
-			else if (p == 4)
-				k = 100;
-			else if (p == 5)
-				k = 100;
+			k = k_val; // irrespective of run number
 			while (b <= k)
 			{
 				while (a <= k)

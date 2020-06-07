@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bench_c++_mt_v2", "bench_c+
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bench_c++_mt_nomutex", "bench_c++_mt_nomutex\bench_c++_mt_nomutex.vcxproj", "{A2976C40-4E95-4D45-A3DE-F7914A030A9A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bench_c++_mt_nomutex_quick", "bench_c++_mt_nomutex_quick\bench_c++_mt_nomutex_quick.vcxproj", "{A4435B40-F133-4CA3-B162-9BBFCD5DA187}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -265,6 +267,20 @@ Global
 		{A2976C40-4E95-4D45-A3DE-F7914A030A9A}.Release|x64.Build.0 = Release|x64
 		{A2976C40-4E95-4D45-A3DE-F7914A030A9A}.Release|x86.ActiveCfg = Release|Win32
 		{A2976C40-4E95-4D45-A3DE-F7914A030A9A}.Release|x86.Build.0 = Release|Win32
+		{A4435B40-F133-4CA3-B162-9BBFCD5DA187}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{A4435B40-F133-4CA3-B162-9BBFCD5DA187}.Debug|ARM.ActiveCfg = Debug|Win32
+		{A4435B40-F133-4CA3-B162-9BBFCD5DA187}.Debug|ARM64.ActiveCfg = Debug|Win32
+		{A4435B40-F133-4CA3-B162-9BBFCD5DA187}.Debug|x64.ActiveCfg = Debug|x64
+		{A4435B40-F133-4CA3-B162-9BBFCD5DA187}.Debug|x64.Build.0 = Debug|x64
+		{A4435B40-F133-4CA3-B162-9BBFCD5DA187}.Debug|x86.ActiveCfg = Debug|Win32
+		{A4435B40-F133-4CA3-B162-9BBFCD5DA187}.Debug|x86.Build.0 = Debug|Win32
+		{A4435B40-F133-4CA3-B162-9BBFCD5DA187}.Release|Any CPU.ActiveCfg = Release|Win32
+		{A4435B40-F133-4CA3-B162-9BBFCD5DA187}.Release|ARM.ActiveCfg = Release|Win32
+		{A4435B40-F133-4CA3-B162-9BBFCD5DA187}.Release|ARM64.ActiveCfg = Release|Win32
+		{A4435B40-F133-4CA3-B162-9BBFCD5DA187}.Release|x64.ActiveCfg = Release|x64
+		{A4435B40-F133-4CA3-B162-9BBFCD5DA187}.Release|x64.Build.0 = Release|x64
+		{A4435B40-F133-4CA3-B162-9BBFCD5DA187}.Release|x86.ActiveCfg = Release|Win32
+		{A4435B40-F133-4CA3-B162-9BBFCD5DA187}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
