@@ -1,0 +1,1 @@
+Total time taken to run benchmark in seconds: 5.33594Total time taken to run benchmark in seconds: 5.35175Total time taken to run benchmark in seconds: 5.44254Total time taken to run benchmark in seconds: 5.50024
