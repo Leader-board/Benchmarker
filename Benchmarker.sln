@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bench_c++_mt_nomutex_quick"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bench_c++_mt_nomutex_forker", "bench_c++_mt_nomutex_forker\bench_c++_mt_nomutex_forker.vcxproj", "{1A274980-6CC1-48BD-A6BB-8EDB6E60D461}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bench_c++_mt_nomutex_sleep", "bench_c++_mt_nomutex_sleep\bench_c++_mt_nomutex_sleep.vcxproj", "{DDC1FA5D-4EFF-49BA-A058-88F9A6791C2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -297,6 +299,20 @@ Global
 		{1A274980-6CC1-48BD-A6BB-8EDB6E60D461}.Release|x64.Build.0 = Release|x64
 		{1A274980-6CC1-48BD-A6BB-8EDB6E60D461}.Release|x86.ActiveCfg = Release|Win32
 		{1A274980-6CC1-48BD-A6BB-8EDB6E60D461}.Release|x86.Build.0 = Release|Win32
+		{DDC1FA5D-4EFF-49BA-A058-88F9A6791C2B}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{DDC1FA5D-4EFF-49BA-A058-88F9A6791C2B}.Debug|ARM.ActiveCfg = Debug|Win32
+		{DDC1FA5D-4EFF-49BA-A058-88F9A6791C2B}.Debug|ARM64.ActiveCfg = Debug|Win32
+		{DDC1FA5D-4EFF-49BA-A058-88F9A6791C2B}.Debug|x64.ActiveCfg = Debug|x64
+		{DDC1FA5D-4EFF-49BA-A058-88F9A6791C2B}.Debug|x64.Build.0 = Debug|x64
+		{DDC1FA5D-4EFF-49BA-A058-88F9A6791C2B}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDC1FA5D-4EFF-49BA-A058-88F9A6791C2B}.Debug|x86.Build.0 = Debug|Win32
+		{DDC1FA5D-4EFF-49BA-A058-88F9A6791C2B}.Release|Any CPU.ActiveCfg = Release|Win32
+		{DDC1FA5D-4EFF-49BA-A058-88F9A6791C2B}.Release|ARM.ActiveCfg = Release|Win32
+		{DDC1FA5D-4EFF-49BA-A058-88F9A6791C2B}.Release|ARM64.ActiveCfg = Release|Win32
+		{DDC1FA5D-4EFF-49BA-A058-88F9A6791C2B}.Release|x64.ActiveCfg = Release|x64
+		{DDC1FA5D-4EFF-49BA-A058-88F9A6791C2B}.Release|x64.Build.0 = Release|x64
+		{DDC1FA5D-4EFF-49BA-A058-88F9A6791C2B}.Release|x86.ActiveCfg = Release|Win32
+		{DDC1FA5D-4EFF-49BA-A058-88F9A6791C2B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

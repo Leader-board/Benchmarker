@@ -1,0 +1,6 @@
+[1]-  Done                    ./a.out 1 $2
+[2]+  Done                    ./a.out 1 $2
+
+real	0m0.026s
+user	0m0.051s
+sys	0m0.000s
