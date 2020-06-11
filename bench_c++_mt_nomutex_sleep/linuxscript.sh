@@ -1,4 +1,4 @@
-g++ bench_c++_mt_nomutex_sleep.cpp -O3 -lpthread
+g++ bench_c++_mt_nomutex_sleep_l.cpp -O3 -lpthread
 sleep = 1000
 { time . forkscript.sh 1 100 $sleep; } 2> c++T1_100.txt
 { time . forkscript.sh 2 100 $sleep; } 2> c++T2_100.txt
