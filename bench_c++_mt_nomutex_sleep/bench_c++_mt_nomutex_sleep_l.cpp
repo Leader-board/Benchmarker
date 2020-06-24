@@ -196,6 +196,8 @@ int main(int argc, char* argv[])
 	vector<thread> t(NUMBER_OF_THREADS);
 	// find total time taken to benchmark
 	auto begin = chrono::high_resolution_clock::now();
+	try
+	{
 	for (int i = 0; i < NUMBER_OF_THREADS; i++)
 	{
 		t[i] = thread(mainbase, (i + 1));
@@ -204,6 +206,11 @@ int main(int argc, char* argv[])
 	for (int i = 0; i < NUMBER_OF_THREADS; i++)
 	{
 		t[i].join();
+	}
+	}
+	catch(exception e)
+	{
+		cout << "Thread error caught!\n";
 	}
 	// printresult(avg_stagetime, fin_score, 0);
 	auto end = chrono::high_resolution_clock::now();
