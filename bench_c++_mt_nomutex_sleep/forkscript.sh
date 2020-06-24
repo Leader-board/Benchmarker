@@ -3,4 +3,4 @@ for i in $(seq "$1")
 do
  gdb -ex=r --args ./a.out 1 $2 $3 & 
 done
-wait
+wait    
