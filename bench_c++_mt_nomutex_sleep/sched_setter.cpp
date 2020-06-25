@@ -32,7 +32,7 @@ int main()
     if (ret == -1)
     perror("Getting scheduling parameters failed!\n");
     sched_tester(); // retrieve scheduling policy of current process
-    ret = sched_setscheduler(0, SCHED_FIFO, &sp);
+    ret = sched_setscheduler(getpid(), SCHED_FIFO, &sp);
     if (ret == -1)
     perror("Setting scheduling parameters failed\n");
     sched_tester();
