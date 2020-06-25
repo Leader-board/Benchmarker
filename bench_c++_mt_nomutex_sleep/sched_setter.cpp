@@ -16,6 +16,12 @@ void sched_tester()
     case SCHED_FIFO:
         printf("Policy is first-in, first-out\n");
         break;
+    case SCHED_BATCH:
+        printf("Policy is batch\n");
+        break;
+    case SCHED_IDLE:
+        printf("Policy is idle\n"); // reference = https://lwn.net/Articles/3866/
+        break;
     case -1:
         perror("sched_getscheduler");
         break;
@@ -32,7 +38,7 @@ int main()
     if (ret == -1)
     perror("Getting scheduling parameters failed!\n");
     sched_tester(); // retrieve scheduling policy of current process
-    ret = sched_setscheduler(getpid(), SCHED_FIFO, &sp);
+    ret = sched_setscheduler(getpid(), SCHED_RR, &sp);
     if (ret == -1)
     perror("Setting scheduling parameters failed\n");
     sched_tester();
