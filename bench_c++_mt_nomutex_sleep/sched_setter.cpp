@@ -30,7 +30,7 @@ int main()
     int ret;
     ret = sched_getparam(getpid(), &sp);
     if (ret == -1)
-    perror("Getting scheduling parameters failed!\n")
+    perror("Getting scheduling parameters failed!\n");
     sched_tester(); // retrieve scheduling policy of current process
     ret = sched_setscheduler(0, SCHED_FIFO, &sp);
     if (ret == -1)
