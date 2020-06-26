@@ -11,22 +11,23 @@ int main()
     switch (policy)
     {
     case SCHED_OTHER:
-        printf("Policy is normal\n");
+        printf("Policy is normal\n"); // 0
         break;
     case SCHED_RR:
-        printf("Policy is round-robin\n");
+        printf("Policy is round-robin\n"); // 2
         break;
     case SCHED_FIFO:
-        printf("Policy is first-in, first-out\n");
+        printf("Policy is first-in, first-out\n"); // 1
         break;
     case SCHED_BATCH:
-        printf("Policy is batch\n");
+        printf("Policy is batch\n"); // 3
     case SCHED_IDLE:
-        printf("Policy is idle\n");
+        printf("Policy is idle\n"); // 5
     case -1:
         perror("sched_getscheduler");
         break;
     default:
         fprintf(stderr, "Unknown policy!\n");
     }
+    printf("%d %d %d %d %d\n", SCHED_OTHER, SCHED_RR, SCHED_FIFO, SCHED_BATCH, SCHED_IDLE);
 }

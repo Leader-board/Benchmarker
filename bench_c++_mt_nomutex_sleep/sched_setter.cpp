@@ -32,13 +32,14 @@ void sched_tester()
 int main()
 {
     // get the current parameter of the current process - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_for_real_time/7/html/reference_guide/sect-using_library_calls_to_set_priority
+    sleep(60);
     struct sched_param sp;
     int ret;
     ret = sched_getparam(getpid(), &sp);
     if (ret == -1)
     perror("Getting scheduling parameters failed!\n");
     sched_tester(); // retrieve scheduling policy of current process
-    ret = sched_setscheduler(getpid(), SCHED_RR, &sp);
+    ret = sched_setscheduler(getpid(), SCHED_FIFO, &sp);
     if (ret == -1)
     perror("Setting scheduling parameters failed\n");
     sched_tester();
