@@ -79,6 +79,23 @@ base:cout << "Type 1 to start benchmarking." << '\n';
 	cin >> k_val;
 	cout << "Enter scheduling policy\n";
 	cin >> policy_code;
+	// if necessary make the process real-time
+	if (policy_code == 2)
+	{
+		// chrt to rr
+		string s;
+		s.append("sudo chrt -r --pid 50 ");
+		s.append(getpid());
+		system(s.c_str());
+	}
+	else if (policy_code == 1)
+	{
+		// chrt to fifo
+		string s;
+		s.append("sudo chrt -f --pid 50 ");
+		s.append(getpid());
+		system(s.c_str());
+	}
 }
 void mainbase(int thread_no)
 {
