@@ -13,6 +13,7 @@ thread dies very quickly.
 #include <unistd.h>
 #include <iostream>
 #include <stdio.h>
+#include <string.h>
 auto NUMBER_OF_THREADS = 16;
 using namespace std;
 void printresult(double*, double, int);
@@ -85,7 +86,7 @@ base:cout << "Type 1 to start benchmarking." << '\n';
 		// chrt to rr
 		string s;
 		s.append("sudo chrt -r --pid 50 ");
-		s.append(getpid());
+		s.append(to_string(getpid()));
 		system(s.c_str());
 	}
 	else if (policy_code == 1)
@@ -93,7 +94,7 @@ base:cout << "Type 1 to start benchmarking." << '\n';
 		// chrt to fifo
 		string s;
 		s.append("sudo chrt -f --pid 50 ");
-		s.append(getpid());
+		s.append(to_string(getpid()));
 		system(s.c_str());
 	}
 }
