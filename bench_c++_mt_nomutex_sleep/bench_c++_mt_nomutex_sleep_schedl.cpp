@@ -220,6 +220,22 @@ int main(int argc, char* argv[])
 		k_val = stoi(argv[2]);
 		sleep_duration = stoi(argv[3]);
 		policy_code = stoi(argv[4]);
+		if (policy_code == 2)
+	{
+		// chrt to rr
+		string s;
+		s.append("sudo chrt -r --pid 50 ");
+		s.append(to_string(getpid()));
+		system(s.c_str());
+	}
+	else if (policy_code == 1)
+	{
+		// chrt to fifo
+		string s;
+		s.append("sudo chrt -f --pid 50 ");
+		s.append(to_string(getpid()));
+		system(s.c_str());
+	}
 	}
 	else
 	{
