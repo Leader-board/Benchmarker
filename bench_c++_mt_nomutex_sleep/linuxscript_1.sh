@@ -1,39 +1,39 @@
 g++ bench_c++_mt_nomutex_sleep_l.cpp -O3 -lpthread
-{ time . forkscript.sh 1 100 1 0; } 2> c++T1_100.txt
-{ time . forkscript.sh 2 100 1 0; } 2> c++T2_100.txt
-{ time . forkscript.sh 4 100 1 0; } 2> c++T4_100.txt
-{ time . forkscript.sh 8 100 1 0; } 2> c++T8_100.txt
-{ time . forkscript.sh 16 100 1 0; } 2> c++T16_100.txt
-{ time . forkscript.sh 32 100 1 0; } 2> c++T32_100.txt
-{ time . forkscript.sh 50 100 1 0; } 2> c++T50_100.txt
-{ time . forkscript.sh 100 100 1 0; } 2> c++T100_100.txt
-{ time . forkscript.sh 200 100 1 0; } 2> c++T200_100.txt
-{ time . forkscript.sh 400 100 1 0; } 2> c++T400_100.txt
-{ time . forkscript.sh 800 100 1 0; } 2> c++T800_100.txt
-{ time . forkscript.sh 1600 100 1 0; } 2> c++T1600_100.txt
-{ time . forkscript.sh 3200 100 1 0; } 2> c++T3200_100.txt
-{ time . forkscript.sh 6400 100 1 0; } 2> c++T6400_100.txt
-{ time . forkscript.sh 12800 100 1 0; } 2> c++T12800_100.txt
-{ time . forkscript.sh 25600 100 1 0; } 2> c++T25600_100.txt
-{ time . forkscript.sh 51200 100 1 0; } 2> c++T51200_100.txt
-{ time . forkscript.sh 102400 100 1 0; } 2> c++T102400_100.txt
-{ time . forkscript.sh 204800 100 1 0; } 2> c++T204800_100.txt
-{ time . forkscript.sh 1 200 1 0; } 2> c++T1_200.txt
-{ time . forkscript.sh 2 200 1 0; } 2> c++T2_200.txt
-{ time . forkscript.sh 4 200 1 0; } 2> c++T4_200.txt
-{ time . forkscript.sh 8 200 1 0; } 2> c++T8_200.txt
-{ time . forkscript.sh 16 200 1 0; } 2> c++T16_200.txt
-{ time . forkscript.sh 32 200 1 0; } 2> c++T32_200.txt
-{ time . forkscript.sh 50 200 1 0; } 2> c++T50_200.txt
-{ time . forkscript.sh 100 200 1 0; } 2> c++T100_200.txt
-{ time . forkscript.sh 200 200 1 0; } 2> c++T200_200.txt
-{ time . forkscript.sh 400 200 1 0; } 2> c++T400_200.txt
-{ time . forkscript.sh 800 200 1 0; } 2> c++T800_200.txt
-{ time . forkscript.sh 1600 200 1 0; } 2> c++T1600_200.txt
-{ time . forkscript.sh 3200 200 1 0; } 2> c++T3200_200.txt
-{ time . forkscript.sh 6400 200 1 0; } 2> c++T6400_200.txt
-{ time . forkscript.sh 12800 200 1 0; } 2> c++T12800_200.txt
-{ time . forkscript.sh 25600 200 1 0; } 2> c++T25600_200.txt
-{ time . forkscript.sh 51200 200 1 0; } 2> c++T51200_200.txt
-{ time . forkscript.sh 102400 200 1 0; } 2> c++T102400_200.txt
-{ time . forkscript.sh 204800 200 1 0; } 2> c++T204800_200.txt
+{ time . forkscript.sh 1 100 1; } 2> c++T1_100.txt
+{ time . forkscript.sh 2 100 1; } 2> c++T2_100.txt
+{ time . forkscript.sh 4 100 1; } 2> c++T4_100.txt
+{ time . forkscript.sh 8 100 1; } 2> c++T8_100.txt
+{ time . forkscript.sh 16 100 1; } 2> c++T16_100.txt
+{ time . forkscript.sh 32 100 1; } 2> c++T32_100.txt
+{ time . forkscript.sh 50 100 1; } 2> c++T50_100.txt
+{ time . forkscript.sh 100 100 1; } 2> c++T100_100.txt
+{ time . forkscript.sh 200 100 1; } 2> c++T200_100.txt
+{ time . forkscript.sh 400 100 1; } 2> c++T400_100.txt
+{ time . forkscript.sh 800 100 1; } 2> c++T800_100.txt
+{ time . forkscript.sh 1600 100 1; } 2> c++T1600_100.txt
+{ time . forkscript.sh 3200 100 1; } 2> c++T3200_100.txt
+{ time . forkscript.sh 6400 100 1; } 2> c++T6400_100.txt
+{ time . forkscript.sh 12800 100 1; } 2> c++T12800_100.txt
+{ time . forkscript.sh 25600 100 1; } 2> c++T25600_100.txt
+{ time . forkscript.sh 51200 100 1; } 2> c++T51200_100.txt
+{ time . forkscript.sh 102400 100 1; } 2> c++T102400_100.txt
+{ time . forkscript.sh 204800 100 1; } 2> c++T204800_100.txt
+{ time . forkscript.sh 1 200 1; } 2> c++T1_200.txt
+{ time . forkscript.sh 2 200 1; } 2> c++T2_200.txt
+{ time . forkscript.sh 4 200 1; } 2> c++T4_200.txt
+{ time . forkscript.sh 8 200 1; } 2> c++T8_200.txt
+{ time . forkscript.sh 16 200 1; } 2> c++T16_200.txt
+{ time . forkscript.sh 32 200 1; } 2> c++T32_200.txt
+{ time . forkscript.sh 50 200 1; } 2> c++T50_200.txt
+{ time . forkscript.sh 100 200 1; } 2> c++T100_200.txt
+{ time . forkscript.sh 200 200 1; } 2> c++T200_200.txt
+{ time . forkscript.sh 400 200 1; } 2> c++T400_200.txt
+{ time . forkscript.sh 800 200 1; } 2> c++T800_200.txt
+{ time . forkscript.sh 1600 200 1; } 2> c++T1600_200.txt
+{ time . forkscript.sh 3200 200 1; } 2> c++T3200_200.txt
+{ time . forkscript.sh 6400 200 1; } 2> c++T6400_200.txt
+{ time . forkscript.sh 12800 200 1; } 2> c++T12800_200.txt
+{ time . forkscript.sh 25600 200 1; } 2> c++T25600_200.txt
+{ time . forkscript.sh 51200 200 1; } 2> c++T51200_200.txt
+{ time . forkscript.sh 102400 200 1; } 2> c++T102400_200.txt
+{ time . forkscript.sh 204800 200 1; } 2> c++T204800_200.txt
