@@ -1,0 +1,5 @@
+[1]+  Done                    ./a.out 1 $2 $3 $4
+
+real	0m30.245s
+user	0m0.204s
+sys	0m0.044s
