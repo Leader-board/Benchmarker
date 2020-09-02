@@ -1,15 +1,15 @@
 . bench_c++_mt_nomutex_sleep/linuxscript_batch.sh
-. cd ../
+cd ../
 sleep 120
 . bench_c++_mt_nomutex_forker/linuxscript.sh
-. cd ../
+cd ../
 sleep 120
 . bench_c++_mt_nomutex/nomutexscript.sh
-. cd ../
+cd ../
 sleep 120
 . bench_c++_mt_v2/ver2script.sh
-. cd ../
+cd ../
 sleep 120
 . bench_c++_multithreaded/scripter.sh
-. cd ../
+cd ../
 sleep 120
