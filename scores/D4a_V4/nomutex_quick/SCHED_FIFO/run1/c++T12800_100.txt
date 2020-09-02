@@ -5,4 +5,4 @@ Enter value of k for every run
 Enter scheduling policy
 Policy is first-in, first-out
 Policy is first-in, first-out
-Total time taken to run benchmark in seconds: 145.223
+Total time taken to run benchmark in seconds: 146.324
