@@ -1,0 +1,13 @@
+[1]   Done                    ./a.out 1 $2 $3 $4
+[2]   Done                    ./a.out 1 $2 $3 $4
+[3]   Done                    ./a.out 1 $2 $3 $4
+[7]   Done                    ./a.out 1 $2 $3 $4
+[13]   Done                    ./a.out 1 $2 $3 $4
+[14]   Done                    ./a.out 1 $2 $3 $4
+[27]   Done                    ./a.out 1 $2 $3 $4
+[30]   Done                    ./a.out 1 $2 $3 $4
+[31]-  Done                    ./a.out 1 $2 $3 $4
+
+real	0m32.948s
+user	0m11.224s
+sys	0m0.176s
