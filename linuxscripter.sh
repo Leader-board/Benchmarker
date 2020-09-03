@@ -1,4 +1,4 @@
-cd bash bench_c++_mt_nomutex_sleep
+cd bench_c++_mt_nomutex_sleep
 ./linuxscript_idle.sh
 mkdir "../scores/D4a_V4/nomutex_sleep/SCHED_IDLE, 30/run1"
 mv *.txt "../scores/D4a_V4/nomutex_sleep/SCHED_IDLE, 30/run1"
