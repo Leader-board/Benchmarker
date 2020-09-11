@@ -1,0 +1,4 @@
+Type 1 to start benchmarking.
+Note: 4 threads supported
+Enter number of threads to run program with
+Total time taken to run benchmark in seconds: 75.6168

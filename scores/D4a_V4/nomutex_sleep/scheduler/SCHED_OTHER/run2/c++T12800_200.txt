@@ -1,0 +1,24 @@
+[1]   Done                    ./a.out 1 $2 $3 $4
+[2]   Done                    ./a.out 1 $2 $3 $4
+[4]   Done                    ./a.out 1 $2 $3 $4
+[19]   Done                    ./a.out 1 $2 $3 $4
+[49]   Done                    ./a.out 1 $2 $3 $4
+[57]   Done                    ./a.out 1 $2 $3 $4
+[132]   Done                    ./a.out 1 $2 $3 $4
+[144]   Done                    ./a.out 1 $2 $3 $4
+[232]   Done                    ./a.out 1 $2 $3 $4
+[271]   Done                    ./a.out 1 $2 $3 $4
+[338]   Done                    ./a.out 1 $2 $3 $4
+[346]   Done                    ./a.out 1 $2 $3 $4
+[572]   Done                    ./a.out 1 $2 $3 $4
+[797]   Done                    ./a.out 1 $2 $3 $4
+[1381]   Done                    ./a.out 1 $2 $3 $4
+[2531]   Done                    ./a.out 1 $2 $3 $4
+[3254]   Done                    ./a.out 1 $2 $3 $4
+[7023]   Done                    ./a.out 1 $2 $3 $4
+[7350]   Done                    ./a.out 1 $2 $3 $4
+[10232]   Done                    ./a.out 1 $2 $3 $4
+
+real	19m51.124s
+user	73m52.665s
+sys	0m41.610s

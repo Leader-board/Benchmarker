@@ -154,7 +154,10 @@ public class Main {
     {
         // cut extraneous parts of the string
         // so if the input is "C++1T_100W", output is 1T100W
+        if (str.contains("W"))
         return str.replaceAll("\\+\\+", "").replaceAll("C","").replaceAll("c", "").replaceAll("_","").replaceAll("\\.txt","");
+        else
+        return str.replaceAll("\\+\\+", "").replaceAll("C","").replaceAll("c", "").replaceAll("T","").replaceAll("\\.txt","");
     }
     public static void inittable()
     {
